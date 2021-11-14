@@ -45,8 +45,13 @@ const NavLink = styled.a`
 
 const Icon = styled.a`
   font-size: 2.3rem;
+  height: 2.3rem;
+  width: 2.3rem;
   color: #fff;
   cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 `;
 
 function Nav() {

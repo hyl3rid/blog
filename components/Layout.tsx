@@ -68,7 +68,7 @@ h3 {
 
 h4 {
   font-size: 2rem;
-  font-weight: 600;
+  font-weight: 500;
   margin-top: 0;
 }
 

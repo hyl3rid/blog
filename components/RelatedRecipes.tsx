@@ -65,7 +65,7 @@ const RelatedRecipes = ({ posts, currentPostFrontMatter }: BlogPostsProps) => {
   useEffect(() => {
     const postsNum = posts && posts.length;
     setListOfRandoms(getRandomInt(postsNum ?? 0));
-  }, []);
+  }, [posts, getRandomInt]);
 
   return (
     <Wrapper>
@@ -76,6 +76,7 @@ const RelatedRecipes = ({ posts, currentPostFrontMatter }: BlogPostsProps) => {
               <Image
                 className="image"
                 src={`/../public/${posts && posts[postIdx].slug}.jpg`}
+                alt={`${posts && posts[postIdx].frontMatter.title}`}
                 layout="fill"
                 priority={true}
               />
