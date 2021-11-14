@@ -75,9 +75,7 @@ const RelatedRecipes = ({ posts, currentPostFrontMatter }: BlogPostsProps) => {
             <ImageWrapper>
               <Image
                 className="image"
-                src={`${process.env.NEXT_PUBLIC_URL}${
-                  posts && posts[postIdx].slug
-                }.jpg`}
+                src={`/${posts && posts[postIdx].slug}.jpg`}
                 alt={`${posts && posts[postIdx].frontMatter.title}`}
                 layout="fill"
                 priority={true}

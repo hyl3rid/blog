@@ -67,7 +67,7 @@ const BlogPosts = ({ posts }: BlogPostsProps) => {
                       <ImageWrapper>
                         <Image
                           className="image"
-                          src={`${process.env.NEXT_PUBLIC_URL}${post.slug}.jpg`}
+                          src={`/${post.slug}.jpg`}
                           layout="fill"
                           priority={true}
                         />
