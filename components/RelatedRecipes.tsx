@@ -65,7 +65,7 @@ const RelatedRecipes = ({ posts, currentPostFrontMatter }: BlogPostsProps) => {
   useEffect(() => {
     const postsNum = posts && posts.length;
     setListOfRandoms(getRandomInt(postsNum ?? 0));
-  }, [posts, getRandomInt]);
+  }, []);
 
   return (
     <Wrapper>
