@@ -122,11 +122,11 @@ const Search = ({ posts }: any) => {
               (result: { id: string; title: string; description: string }) => {
                 return (
                   <Link href={`/${result.id}`} key={result.id}>
-                    <ResultWrapper key={result.id}>
+                    <ResultWrapper>
                       <ImageWrapper>
                         <Image
                           className="image"
-                          src={`/../public/${result.id}.jpg`}
+                          src={`/${result.id}.jpg`}
                           alt={result.title}
                           layout="fill"
                           priority={true}
