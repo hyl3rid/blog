@@ -5,7 +5,6 @@ import { Layout } from "../components";
 import styled from "styled-components";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
-import "../node_modules/@fortawesome/fontawesome-svg-core/styles.css";
 
 const Wrapper = styled.div`
   margin-top: 5rem;
@@ -110,7 +109,7 @@ const Search = ({ posts }: any) => {
           ></StyledInput>
           <StyledIcon>
             <Icon>
-              <FontAwesomeIcon icon={faSearch} width="23" />
+              <FontAwesomeIcon icon={faSearch} width="2.3rem" />
             </Icon>
           </StyledIcon>
         </SearchBar>
