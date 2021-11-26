@@ -15,32 +15,35 @@ const Wrapper = styled.div`
   min-height: calc(100vh - 26rem);
 `;
 
-const Icon = styled.a`
-  height: 2.3rem;
-  width: 2.3rem;
-  font-size: 2.3rem;
-  color: #000;
-`;
-
-const StyledInput = styled.input`
-  padding-right: 60px;
-  height: 5.5rem;
-  width: 100%;
-`;
-
 const SearchBar = styled.div`
   position: relative;
   height: 100px;
   width: 100%;
 `;
 
+const Icon = styled.div`
+  height: 2.3rem;
+  width: 2.3rem;
+  font-size: 2.3rem;
+  color: #000;
+  display: flex;
+  align-items: center;
+  height: 100%;
+`;
+
 const StyledIcon = styled.div`
   position: absolute;
   right: 0;
-  top: 10px;
+  top: 16px;
   background-color: transparent;
   border: none;
   padding-right: 6rem;
+`;
+
+const StyledInput = styled.input`
+  padding-right: 6rem;
+  height: 5.5rem;
+  width: 100%;
 `;
 
 const StyledTitleResult = styled.h4`
@@ -106,10 +109,10 @@ const Search = ({ posts }: any) => {
             onChange={onChange}
             value={query}
             type="text"
-          ></StyledInput>
+          />
           <StyledIcon>
             <Icon>
-              <FontAwesomeIcon icon={faSearch} width="2.3rem" />
+              <FontAwesomeIcon icon={faSearch} />
             </Icon>
           </StyledIcon>
         </SearchBar>
