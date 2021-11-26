@@ -9,7 +9,7 @@ import { createGlobalStyle } from "styled-components";
 import "@fortawesome/fontawesome-svg-core/styles.css";
 import { config as fontAwesomeConfig } from "@fortawesome/fontawesome-svg-core";
 // Prevent fontawesome from dynamically adding its css since we did it manually above
-fontAwesomeConfig.autoAddCss = false;
+// fontAwesomeConfig.autoAddCss = false;
 
 export const GlobalStyle = createGlobalStyle`
 
