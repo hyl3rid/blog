@@ -91,6 +91,7 @@ const HomePage = () => {
             src={Lasagna}
             alt="Lasagna Meal"
             layout="fill"
+            priority={true}
           />
         </ImageWrapper>
       </Hero>

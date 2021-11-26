@@ -205,7 +205,7 @@ const EmblaCarousel = ({ slides }: any) => {
                             src={media[index].img}
                             alt={media[index].title}
                             layout="fill"
-                            // priority={true}
+                            priority={true}
                           />
                         </div>
                       </Link>

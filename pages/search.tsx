@@ -16,9 +16,9 @@ const Wrapper = styled.div`
 `;
 
 const Icon = styled.a`
-  height: 2.3rem;
-  width: 2.3rem;
-  font-size: 2.3rem;
+  height: 2.3em;
+  width: 2.3em;
+  font-size: 2.3em;
   color: #000;
 `;
 
@@ -129,7 +129,7 @@ const Search = ({ posts }: any) => {
                           src={`/${result.id}.jpg`}
                           alt={result.title}
                           layout="fill"
-                          // priority={true}
+                          priority={true}
                           width={100}
                           height={100}
                         />
