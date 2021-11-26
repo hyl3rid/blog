@@ -109,7 +109,7 @@ const Search = ({ posts }: any) => {
           ></StyledInput>
           <StyledIcon>
             <Icon>
-              <FontAwesomeIcon icon={faSearch} width="16" />
+              <FontAwesomeIcon icon={faSearch} width={16} />
             </Icon>
           </StyledIcon>
         </SearchBar>
