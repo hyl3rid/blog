@@ -70,7 +70,7 @@ const BlogPosts = ({ posts }: BlogPostsProps) => {
                           className="image"
                           src={`/${post.slug}.jpg`}
                           layout="fill"
-                          priority={true}
+                          // priority={true}
                         />
                       </ImageWrapper>
                     </a>
