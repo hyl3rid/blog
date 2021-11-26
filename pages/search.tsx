@@ -5,7 +5,7 @@ import { Layout } from "../components";
 import styled from "styled-components";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
-import "@fortawesome/fontawesome-svg-core/styles.css";
+import "../node_modules/@fortawesome/fontawesome-svg-core/styles.css";
 
 const Wrapper = styled.div`
   margin-top: 5rem;
@@ -17,9 +17,9 @@ const Wrapper = styled.div`
 `;
 
 const Icon = styled.a`
-  height: 2.3em;
-  width: 2.3em;
-  font-size: 2.3em;
+  height: 2.3rem;
+  width: 2.3rem;
+  font-size: 2.3rem;
   color: #000;
 `;
 
@@ -38,10 +38,10 @@ const SearchBar = styled.div`
 const StyledIcon = styled.div`
   position: absolute;
   right: 0;
-  top: 1em;
+  top: 10px;
   background-color: transparent;
   border: none;
-  padding-right: 6em;
+  padding-right: 6rem;
 `;
 
 const StyledTitleResult = styled.h4`
