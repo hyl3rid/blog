@@ -22,9 +22,9 @@ const SearchBar = styled.div`
 `;
 
 const Icon = styled.div`
-  height: 2.3rem;
-  width: 2.3rem;
-  font-size: 2.3rem;
+  /* height: 2.3rem;
+  width: 2.3rem; */
+  /* font-size: 2.3rem; */
   color: #000;
   display: flex;
   align-items: center;
@@ -112,7 +112,7 @@ const Search = ({ posts }: any) => {
           />
           <StyledIcon>
             <Icon>
-              <FontAwesomeIcon icon={faSearch} />
+              <FontAwesomeIcon icon={faSearch} width="23" height="23" />
             </Icon>
           </StyledIcon>
         </SearchBar>
