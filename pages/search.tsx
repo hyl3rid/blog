@@ -37,10 +37,10 @@ const SearchBar = styled.div`
 const StyledIcon = styled.div`
   position: absolute;
   right: 0;
-  top: 10px;
+  top: 1em;
   background-color: transparent;
   border: none;
-  padding-right: 6rem;
+  padding-right: 6em;
 `;
 
 const StyledTitleResult = styled.h4`
