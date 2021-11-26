@@ -21,10 +21,6 @@ const ImageWrapper = styled.div`
   }
 `;
 
-const TextWrapper = styled.div`
-  width: 35rem;
-`;
-
 const Description = styled.p`
   font-size: 1.5rem;
 `;
@@ -47,6 +43,11 @@ const Posts = styled.div`
   }
 `;
 
+const CardWrapper = styled.article`
+  width: 35rem;
+  margin: auto;
+`;
+
 const BlogPosts = ({ posts }: BlogPostsProps) => {
   return (
     <Posts>
@@ -61,7 +62,7 @@ const BlogPosts = ({ posts }: BlogPostsProps) => {
             )
             .map((post) => {
               return (
-                <article key={post.slug} className="post-title">
+                <CardWrapper key={post.slug}>
                   <Link href={{ pathname: `/${post.slug}` }}>
                     <a>
                       <ImageWrapper>
@@ -69,19 +70,18 @@ const BlogPosts = ({ posts }: BlogPostsProps) => {
                           className="image"
                           src={`/${post.slug}.jpg`}
                           layout="fill"
-                          priority={true}
                         />
                       </ImageWrapper>
                     </a>
                   </Link>{" "}
-                  <TextWrapper>
+                  <div>
                     <h3>{post.frontMatter.title}</h3>
                     {/* Fix date format */}
                     <PublishDate>{post.frontMatter.publishedDate}</PublishDate>
                     <Description>{post.frontMatter.description}</Description>
                     {/* <p>[ {post.frontMatter.tags.join(", ")} ]</p> */}
-                  </TextWrapper>
-                </article>
+                  </div>
+                </CardWrapper>
               );
             })}
       </FeaturedPosts>

@@ -129,7 +129,7 @@ const Search = ({ posts }: any) => {
                           src={`/${result.id}.jpg`}
                           alt={result.title}
                           layout="fill"
-                          priority={true}
+                          // priority={true}
                           width={100}
                           height={100}
                         />

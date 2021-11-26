@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 import Lasagna from "../public/lasagna.jpg";
 import styled from "styled-components";
 import EmblaCarousel from "./EmblaCarousel";
@@ -60,6 +61,7 @@ const Button = styled.button`
   width: 15rem;
   border: none;
   border-radius: 50px;
+  cursor: pointer;
 `;
 
 const HomePage = () => {
@@ -71,13 +73,15 @@ const HomePage = () => {
       <Hero>
         <Heading>
           <HeadingWrapper>
-            <H1>Cras a nibh vel ligula.</H1>
+            <H1>Deliciously Cheesy Vegetarian Lasagna</H1>
             <H4>
               Morbi molestie lectus tellus, id condimentum libero porttitor
               dapibus. Vivamus aliquam commodo odio, ut fringilla.
             </H4>
             <ButtonWrapper>
-              <Button>Read More</Button>
+              <Link href="/lasagna">
+                <Button>Read More</Button>
+              </Link>
             </ButtonWrapper>
           </HeadingWrapper>
         </Heading>
@@ -87,10 +91,10 @@ const HomePage = () => {
             src={Lasagna}
             alt="Lasagna Meal"
             layout="fill"
-            priority={true}
           />
         </ImageWrapper>
       </Hero>
+      <h2>Featured Dishes</h2>
       <EmblaCarousel slides={slides} />
     </>
   );

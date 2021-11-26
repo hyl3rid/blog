@@ -11,3 +11,5 @@ include challenges
 accept donations
 
 Where the blog started from: https://bionicjulia.com/blog/setting-up-nextjs-markdown-blog-with-typescript
+
+Vegetarian recipes: https://www.vegrecipesofindia.com/veg-fried-rice-recipe/
