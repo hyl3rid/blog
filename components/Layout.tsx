@@ -7,13 +7,11 @@ import { createGlobalStyle } from "styled-components";
 // This ensures that the icon CSS is loaded immediately before attempting to render icons
 // See https://github.com/FortAwesome/react-fontawesome/issues/134
 import "../node_modules/@fortawesome/fontawesome-svg-core/styles.css";
-import { config, dom } from "@fortawesome/fontawesome-svg-core";
+import { config } from "@fortawesome/fontawesome-svg-core";
 // Prevent fontawesome from dynamically adding its css since we did it manually above
 config.autoAddCss = false;
 
 export const GlobalStyle = createGlobalStyle`
-${dom.css()}
-
 /* Box sizing rules */
 *,
 *::before,
@@ -54,6 +52,16 @@ body {
   text-rendering: optimizeSpeed;
   line-height: 1.5;
   font-size: 1.7rem;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
 }
 
 h1 {
