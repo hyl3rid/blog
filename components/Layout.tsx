@@ -141,10 +141,7 @@ const Layout = ({ children }: Props) => {
     <>
       <GlobalStyle />
       <Head>
-        <link
-          href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Poppins&display=swap"
-          rel="stylesheet"
-        />
+        <style data-href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Poppins&display=swap" />
       </Head>
       <Nav />
       {children}
