@@ -2,6 +2,7 @@ import React from "react";
 import Nav from "./Nav";
 import Footer from "./Footer";
 import { createGlobalStyle } from "styled-components";
+import Head from "next/head";
 
 // Workaround to problem with icons being huge huge first load prior to resizing
 // This ensures that the icon CSS is loaded immediately before attempting to render icons
@@ -139,6 +140,12 @@ const Layout = ({ children }: Props) => {
   return (
     <>
       <GlobalStyle />
+      <Head>
+        <link
+          href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Poppins&display=swap"
+          rel="stylesheet"
+        />
+      </Head>
       <Nav />
       {children}
       <Footer />
