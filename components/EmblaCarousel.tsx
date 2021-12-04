@@ -190,7 +190,6 @@ const EmblaCarousel = ({ slides }: any) => {
         <div className="embla__viewport" ref={viewportRef}>
           <div className="embla__container">
             {slides.map((index: number) => {
-              console.log(media[index].url);
               return (
                 <div className="embla__slide" key={index}>
                   <div className="embla__slide__inner">
