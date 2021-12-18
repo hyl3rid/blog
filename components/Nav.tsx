@@ -13,7 +13,7 @@ const Wrapper = styled.div`
   background-color: var(--main);
 
   @media only screen and (${device.md}) {
-    padding: 0 6rem;
+    padding: 0 3rem;
   }
 `;
 

@@ -15,6 +15,7 @@ import { Layout } from "../components";
 import { Params } from "../node_modules/next/dist/server/router";
 // import { LinkProps } from "../node_modules/next/dist/client/link";
 import styled from "styled-components";
+import { device } from "../styles/media";
 
 const Wrapper = styled.div`
   display: flex;
@@ -26,6 +27,11 @@ const Wrapper = styled.div`
 
 const MarkdownWrapper = styled.div`
   width: 70%;
+
+  @media only screen and (${device.md}) {
+    width: 100%;
+    padding: 0 6rem;
+  }
 `;
 
 const BlogPost = ({ frontMatter, markdownBody, posts }: BlogPostProps) => {
