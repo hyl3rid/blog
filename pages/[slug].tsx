@@ -30,7 +30,7 @@ const MarkdownWrapper = styled.div`
 
   @media only screen and (${device.md}) {
     width: 100%;
-    padding: 0 6rem;
+    padding: 0 3rem;
   }
 `;
 
