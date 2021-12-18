@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { BlogPostsProps } from "../lib/types";
 import styled from "styled-components";
+import { device } from "../styles/media";
 
 const PublishDate = styled.p`
   color: #7f7f7f;
@@ -19,6 +20,14 @@ const ImageWrapper = styled.div`
     position: relative !important;
     object-fit: cover; // Optional
   }
+
+  @media only screen and (${device.md}) {
+    width: 25rem;
+  }
+
+  @media only screen and (${device.sm}) {
+    width: 35rem;
+  }
 `;
 
 const Description = styled.p`
@@ -28,9 +37,18 @@ const Description = styled.p`
 const FeaturedPosts = styled.div`
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
   padding: 0 12.5rem;
   justify-content: center;
   width: 100%;
+
+  @media only screen and (${device.lg}) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media only screen and (${device.sm}) {
+    grid-template-columns: repeat(1, 1fr);
+  }
 `;
 
 const Posts = styled.div`
@@ -45,7 +63,16 @@ const Posts = styled.div`
 
 const CardWrapper = styled.article`
   width: 35rem;
+  height: 100%;
   margin: auto;
+
+  @media only screen and (${device.md}) {
+    width: 25rem;
+  }
+
+  @media only screen and (${device.sm}) {
+    width: 35rem;
+  }
 `;
 
 const BlogPosts = ({ posts }: BlogPostsProps) => {

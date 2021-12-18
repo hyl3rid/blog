@@ -3,28 +3,43 @@ import Image from "next/image";
 import Link from "next/link";
 import Lasagna from "../public/lasagna.jpg";
 import styled from "styled-components";
+import { device } from "../styles/media";
 import EmblaCarousel from "./EmblaCarousel";
 
 const Hero = styled.div`
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   height: 60rem;
   margin-bottom: 5rem;
+
+  @media only screen and (${device.md}) {
+    grid-template-columns: repeat(1, 1fr);
+    grid-row: 2;
+    height: 100%;
+  }
 `;
 
 const Heading = styled.div`
-  width: 50%;
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
 `;
 
 const HeadingWrapper = styled.div`
-  width: 40rem;
+  width: 100%;
   text-align: center;
+
+  @media only screen and (${device.md}) {
+    margin: 0 12.5rem;
+  }
+  @media only screen and (${device.sm}) {
+    margin: 0 5rem;
+  }
 `;
 
 const ImageWrapper = styled.div`
-  width: 50%;
+  width: 100%;
   height: 100%;
   position: relative;
 
@@ -33,6 +48,11 @@ const ImageWrapper = styled.div`
     height: 100%;
     position: relative !important;
     object-fit: cover; // Optional
+  }
+
+  @media only screen and (${device.md}) {
+    grid-row: 1;
+    height: 35rem;
   }
 `;
 
@@ -95,7 +115,6 @@ const HomePage = () => {
           />
         </ImageWrapper>
       </Hero>
-      <h2>Featured Dishes</h2>
       <EmblaCarousel slides={slides} />
     </>
   );

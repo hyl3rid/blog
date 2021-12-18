@@ -1,17 +1,18 @@
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
-import Link from "next/link";
 import { BlogPostsProps } from "../lib/types";
 import styled from "styled-components";
+import { device } from "../styles/media";
 
 const Wrapper = styled.div`
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   margin-top: 5rem;
 `;
 
 const ImageWrapper = styled.div`
-  width: 30rem;
-  height: 20rem;
+  width: 100%;
+  height: 100%;
   position: relative;
   display: flex;
 
@@ -19,7 +20,7 @@ const ImageWrapper = styled.div`
     width: 100%;
     height: 100%;
     position: relative !important;
-    object-fit: cover; // Optional
+    object-fit: contain; // Optional
   }
 `;
 
@@ -50,7 +51,7 @@ const RelatedRecipes = ({ posts, currentPostFrontMatter }: BlogPostsProps) => {
 
   const getRandomInt = (max: number) => {
     let listOfNums: number[] = [];
-    while (listOfNums.length < 3) {
+    while (listOfNums.length < 4) {
       const randomNum = Math.floor(Math.random() * max);
       const notCurrentPost =
         currentPostFrontMatter?.title !==

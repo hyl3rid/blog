@@ -5,6 +5,7 @@ import { media } from "../public/media";
 import { DotButton, PrevButton, NextButton } from "./EmblaCarouselButtons";
 import useEmblaCarousel from "embla-carousel-react";
 import styled from "styled-components";
+import { device } from "../styles/media";
 
 const Wrapper = styled.div`
   .embla {
@@ -147,6 +148,10 @@ const Wrapper = styled.div`
     background-color: #1bcacd;
     opacity: 1;
   }
+
+  @media only screen and (${device.md}) {
+    display: none;
+  }
 `;
 
 const ImageWrapper = styled.div`
@@ -186,6 +191,7 @@ const EmblaCarousel = ({ slides }: any) => {
 
   return (
     <Wrapper>
+      <h2>Featured Dishes</h2>
       <div className="embla">
         <div className="embla__viewport" ref={viewportRef}>
           <div className="embla__container">

@@ -1,6 +1,6 @@
 ---
 title: Thai Green Vegetable Curry
-description: Made with different vegetables, a green Thai curry paste, and creamy coconut milk, and this curry is a feast for your eyes!
+description: Made with different vegetables, a green Thai curry paste, creamy coconut milk. This curry is a feast for your eyes!
 publishedDate: November 7, 2021
 tags:
   - curry
@@ -9,7 +9,7 @@ tags:
 
 # Thai Green Vegetable Curry
 
-Thai green curry is a comforting, scrumptious, and flavorsome vegetable curry that will make your day! Made with different vegetables, a green Thai curry paste, and creamy coconut milk, and this curry is a feast for your eyes!
+Thai green curry is a comforting, scrumptious, and flavorsome vegetable curry that will make your day!
 
 Thai cuisine is known for its delicious curries. Whether it is white coconut curry, vibrant red curry, or a subtle and tempting green curry, you simply can’t miss out on the unique blend of flavors and rich, creamy texture. The best thing about these curries is that you can use different vegetables and the curry will be just as delicious as any other. So, to celebrate the rich and comforting flavors, we are going to talk about a delicious and tempting Thai green vegetable curry!
 
@@ -64,4 +64,4 @@ Green or Red chilies, for garnish
 ⦁ Lower the heat and let it simmer for about 10 minutes or until the vegetables are tender.  
 ⦁ Remove the curry from heat, squeeze lime and mix well.  
 ⦁ Garnish with Thai basil and green chilis. Serve alongside jasmine rice. Enjoy.
-**Note**: You can add different vegetables like broccoli, zucchini, carrots, peas, etc., to this recipe.
+**Note**: You can add different vegetables like broccoli, cauliflower, zucchini, carrots, peas, etc., to this recipe.

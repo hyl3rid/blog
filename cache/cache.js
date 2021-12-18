@@ -10,7 +10,7 @@ function getPosts() {
     const fullPath = path.join(postsDirectory, fileName); //creating the full path of the file
     const fileContents = fs.readFileSync(fullPath, "utf8"); //getting the contents of the file
     const matterResult = matter(fileContents);
-    console.log("matter: " + matterResult);
+    // console.log("matter: " + matterResult);
     return {
       id,
       title: matterResult.data.title, // readinf the file and retrieving its id and title from the markdown
@@ -31,5 +31,5 @@ try {
 fs.writeFile("cache/data.js", fileContents, function (err) {
   // writing to the cache/data.js file
   if (err) return console.log(err);
-  console.log("Posts cached.");
+  // console.log("Posts cached.");
 });
