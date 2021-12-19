@@ -13,10 +13,8 @@ config.autoAddCss = false;
 
 export const GlobalStyle = createGlobalStyle`
 /* Box sizing rules */
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
+*, ::before, ::after {
+    box-sizing: border-box;
 }
 
 html {
@@ -101,10 +99,10 @@ a:not([class]) {
 }
 
 /* Make images easier to work with */
-img {
+/* img {
   max-width: 100%;
   display: block;
-}
+} */
 
 /* Natural flow and rhythm in articles by default */
 article > * + * {

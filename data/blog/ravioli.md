@@ -75,14 +75,14 @@ Salt, to taste
 ⦁ Add parsley, black pepper and salt. Cook for two more minutes and set aside to cool down.  
 ⦁ Once the mushrooms cool down, add them into a food processor bowl. Add ricotta and parmesan cheese and process for 20 seconds until you get a paste.
 
-**Assembly:**
+**Assembly:**  
 ⦁ Roll out the pasta dough into a thin sheet using a machine or by hand as preferred.  
 ⦁ Place the pasta sheet on a floured working surface. Place a teaspoon of mushroom filling in the sheet by an inch squared difference until you reach half of the sheet.  
 ⦁ Place the other end of the sheet so that it covers the mushroom mixture. Seal the sides by applying pressure of your fingers. If there is too much flour the sheets won't stick and you might need to add a little bit of egg wash on one side to stick.  
 ⦁ Using a cutter, trim the sides around the filling so that you get small pockets of ravioli.  
 ⦁ Add water in a large pot, season it with salt and bring it to a boil. Add ravioli and cook for 4 minutes.
 
-**For The Sauce:**
+**For The Sauce:**  
 ⦁ Meanwhile, heat oil in a pan over medium heat.  
 ⦁ Add heavy cream, white wine, thyme, salt, and pepper.  
 ⦁ Once the mixture begins boiling, lower the heat and let it simmer until it has the desired consistency.  

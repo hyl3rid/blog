@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Layout } from "../components";
 import styled from "styled-components";
+import { device } from "../styles/media";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
 
@@ -13,6 +14,11 @@ const Wrapper = styled.div`
   display: flex;
   flex-direction: column;
   min-height: calc(100vh - 26rem);
+
+  @media only screen and (${device.md}) {
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
 `;
 
 const SearchBar = styled.div`

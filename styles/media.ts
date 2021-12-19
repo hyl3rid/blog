@@ -9,7 +9,8 @@ const device = {
   xs: `max-width: ${size.xs}`,
   sm: `max-width: ${size.sm}`,
   md: `max-width: ${size.md}`,
+  minmd: `min-width: ${size.md}`,
   lg: `max-width: ${size.lg}`,
 };
 
-export { device };
+export { size, device };
