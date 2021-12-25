@@ -56,16 +56,20 @@ const NavLink = styled.a`
 const Icon = styled.a`
   font-size: 2.3rem;
   height: 2.3rem;
-  width: 2.3rem;
-  color: #fff;
-  cursor: pointer;
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 2.3rem;
+  color: #fff;
+  cursor: pointer;
 `;
 
 const BurgerContainer = styled.div`
   height: 100%;
+  width: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 `;
 
 function Nav() {

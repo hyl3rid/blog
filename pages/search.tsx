@@ -28,17 +28,19 @@ const SearchBar = styled.div`
 `;
 
 const Icon = styled.div`
-  /* height: 2.3rem;
-  width: 2.3rem; */
+  height: 2.3rem;
+  width: 2.3rem;
   /* font-size: 2.3rem; */
   color: #000;
-  display: flex;
-  align-items: center;
   height: 100%;
 `;
 
 const StyledIcon = styled.div`
   position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
   right: 0;
   top: 16px;
   background-color: transparent;
@@ -122,7 +124,7 @@ const Search = ({ posts }: any) => {
             </Icon>
           </StyledIcon>
         </SearchBar>
-        {results.length === 0 ? (
+        {results.length < 0 ? (
           <></>
         ) : (
           <div>
