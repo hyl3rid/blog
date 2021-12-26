@@ -101,7 +101,7 @@ const Search = ({ posts }: any) => {
     if (query.length) {
       axios.get(searchEndpoint(query)).then((res) => {
         setResults(res.data.results);
-        setTs("got here");
+        setTs(res.data.results[0].title);
         console.log(res.data.results);
       });
     } else {
