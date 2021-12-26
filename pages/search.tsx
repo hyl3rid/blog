@@ -98,7 +98,7 @@ const Search = ({ posts }: any) => {
 
   const searchEndpoint = (query: string) => `/api/search?q=${query}`;
 
-  const onChange = async (e: React.ChangeEvent<HTMLInputElement>) => {
+  const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
     if (query.length > 0) {
       // const res = await axios.get(searchEndpoint(query), {
@@ -106,12 +106,15 @@ const Search = ({ posts }: any) => {
       //     "Content-Type": "application/json",
       //   },
       // });
-      await fetch(searchEndpoint(query))
+      // console.log(JSON.stringify(res.data));
+      // setResults(res.data.results);
+
+      fetch(searchEndpoint(query), {
+        mode: "cors",
+      })
         .then((response) => response.json())
         .then((data) => setResults(data.results));
-      // console.log(JSON.stringify(res.data));
       console.log(JSON.stringify(results));
-      // setResults(res.data.results);
     } else {
       setResults([]);
     }
