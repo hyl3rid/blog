@@ -101,13 +101,17 @@ const Search = ({ posts }: any) => {
   const onChange = async (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
     if (query.length > 0) {
-      const res = await axios.get(searchEndpoint(query), {
-        headers: {
-          "Content-Type": "application/json",
-        },
-      });
-      console.log(JSON.stringify(res.data));
-      setResults(res.data.results);
+      // const res = await axios.get(searchEndpoint(query), {
+      //   headers: {
+      //     "Content-Type": "application/json",
+      //   },
+      // });
+      await fetch(searchEndpoint(query))
+        .then((response) => response.json())
+        .then((data) => setResults(data.results));
+      // console.log(JSON.stringify(res.data));
+      console.log(JSON.stringify(results));
+      // setResults(res.data.results);
     } else {
       setResults([]);
     }
