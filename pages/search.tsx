@@ -100,7 +100,7 @@ const Search = ({ posts }: any) => {
     if (query.length) {
       axios.get(searchEndpoint(query)).then((res) => {
         setResults(res.data.results);
-        console.log(res.data.results);
+        // console.log(res.data.results);
       });
     } else {
       setResults([]);
@@ -124,6 +124,8 @@ const Search = ({ posts }: any) => {
             </Icon>
           </StyledIcon>
         </SearchBar>
+        {query}
+        {results}
         {results.length === 0 ? (
           <></>
         ) : (
