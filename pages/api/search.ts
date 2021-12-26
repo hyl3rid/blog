@@ -6,7 +6,7 @@ export default (req: NextApiRequest, res: NextApiResponse) => {
     ? posts.filter((post: any) =>
         post.title.toLowerCase().includes(req.query.q)
       )
-    : [];
+    : [1];
 
   res.statusCode = 200;
   res.setHeader("Content-Type", "application/json");

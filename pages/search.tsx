@@ -47,10 +47,13 @@ const StyledIcon = styled.div`
   background-color: transparent;
   border: none;
   padding-right: 6rem;
+
+  @media only screen and (${device.md}) {
+    padding-right: 3rem;
+  }
 `;
 
 const StyledInput = styled.input`
-  padding-right: 6rem;
   height: 5.5rem;
   width: 100%;
 `;
