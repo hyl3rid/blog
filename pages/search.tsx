@@ -95,18 +95,21 @@ const Search = ({ posts }: any) => {
   const [ts, setTs] = useState<any>("");
   const [ts1, setTs1] = useState<any>("");
 
-  const searchEndpoint = (query: string) =>
-    `https://veggiesforall.io/api/search?q=${query}`;
+  const searchEndpoint = (query: string) => `/api/search?q=${query}`;
 
   const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
     if (query.length > 0) {
       setTs(" before axios ");
       axios
-        .get(searchEndpoint(query))
+        .get(searchEndpoint(query), {
+          headers: {
+            "Content-Type": "application/json",
+          },
+        })
         .then((res) => {
           setTs(" after axios ");
-          console.error("hello: " + res.data.results);
+          console.log("hello: " + res.data.results[0].title);
           setResults(res.data.results);
         })
         .catch((e) => console.error(e));
