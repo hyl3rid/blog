@@ -106,7 +106,7 @@ const Search = ({ posts }: any) => {
         .get(searchEndpoint(query))
         .then((res) => {
           setTs(" after axios ");
-          setTs1(res.data.results[0].title);
+          // setTs1(res.data.results);
           console.log(res.data.results);
           setResults(res.data.results);
         })
