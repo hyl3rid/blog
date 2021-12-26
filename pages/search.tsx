@@ -101,13 +101,12 @@ const Search = ({ posts }: any) => {
   const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
     if (query.length > 0) {
-      setTs("before axios");
+      setTs(" before axios ");
       axios
         .get(searchEndpoint(query))
         .then((res) => {
           setTs(" after axios ");
-          // setTs1(res.data.results);
-          console.error(res.data.results);
+          console.error("hello: " + res.data.results);
           setResults(res.data.results);
         })
         .catch((e) => console.error(e));
