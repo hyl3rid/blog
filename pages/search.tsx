@@ -108,9 +108,13 @@ const Search = ({ posts }: any) => {
       // });
       // console.log(JSON.stringify(res.data));
       // setResults(res.data.results);
-
+      console.log(query);
       fetch(searchEndpoint(query), {
-        mode: "cors",
+        method: "GET",
+        mode: "no-cors",
+        headers: {
+          "Content-Type": "application/json",
+        },
       })
         .then((response) => response.json())
         .then((data) => setResults(data.results));
