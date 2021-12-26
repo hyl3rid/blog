@@ -107,7 +107,7 @@ const Search = ({ posts }: any) => {
         .then((res) => {
           setTs(" after axios ");
           // setTs1(res.data.results);
-          console.log(res.data.results);
+          console.error(res.data.results);
           setResults(res.data.results);
         })
         .catch((e) => console.error(e));
