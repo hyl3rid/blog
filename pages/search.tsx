@@ -97,23 +97,16 @@ const Search = ({ posts }: any) => {
 
   const searchEndpoint = (query: string) => `/api/search?q=${query}`;
 
-  const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+  const onChange = async (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
     if (query.length > 0) {
       setTs(" before axios ");
-      axios
-        .get(searchEndpoint(query), {
-          headers: {
-            "Content-Type": "application/json",
-          },
-        })
-        .then((res) => {
-          setTs(" after axios ");
-          console.log(JSON.stringify(res.data));
-          console.log(JSON.stringify(res.data.results));
-          setResults(res.data.results);
-        })
-        .catch((e) => console.error(e));
+      const res = await axios.get(searchEndpoint(query), {
+        headers: {
+          "Content-Type": "application/json",
+        },
+      });
+      setResults(res.data.results);
     } else {
       setResults([]);
     }

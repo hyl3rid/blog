@@ -28,7 +28,7 @@ try {
 }
 // if cache directory exists, ok else create it
 
-fs.writeFile("cache/data.js", fileContents, function (err) {
+fs.writeFile("cache/data.ts", fileContents, function (err) {
   // writing to the cache/data.js file
   if (err) return console.log(err);
   // console.log("Posts cached.");
