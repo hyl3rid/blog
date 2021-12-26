@@ -94,15 +94,14 @@ const Search = ({ posts }: any) => {
   const [results, setResults] = useState([]);
   const [ts, setTs] = useState<any>("");
 
-  const searchEndpoint = (query: string) =>
-    `https://veggiesforall.io/api/search?q=${query}`;
+  const searchEndpoint = (query: string) => `/api/search?q=${query}`;
 
   const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
     if (query.length > 0) {
-      setTs("before axios");
       axios.get(searchEndpoint(query)).then((res) => {
-        setTs("after axios");
+        setTs(" after axios: " + res.data.results[0].title + " ");
+        console.log(res.data.results);
         setResults(res.data.results);
       });
     } else {
@@ -128,6 +127,7 @@ const Search = ({ posts }: any) => {
           </StyledIcon>
         </SearchBar>
         {query}
+        {ts}
         {results.length}
         {results.length === 0 ? (
           <></>
