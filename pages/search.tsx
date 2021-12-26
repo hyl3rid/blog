@@ -6,6 +6,7 @@ import styled from "styled-components";
 import { device } from "../styles/media";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
+import axios from "axios";
 
 const Wrapper = styled.div`
   margin-top: 5rem;
@@ -92,17 +93,15 @@ const Search = ({ posts }: any) => {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState([]);
 
-  const searchEndpoint = (query: string) =>
-    `https://veggiesforall.io/api/search?q=${query}`;
+  const searchEndpoint = (query: string) => `/api/search?q=${query}`;
 
   const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
     if (query.length) {
-      fetch(searchEndpoint(query))
-        .then((res) => res.json())
-        .then((res) => {
-          setResults(res.results);
-        });
+      axios.get(searchEndpoint(query)).then((res) => {
+        setResults(res.data.results);
+        console.log(res.data.results);
+      });
     } else {
       setResults([]);
     }
