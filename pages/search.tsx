@@ -96,7 +96,8 @@ const Search = ({ posts }: any) => {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState([]);
 
-  const searchEndpoint = (query: string) => `/api/search?q=${query}`;
+  const searchEndpoint = (query: string) =>
+    `https://veggiesforall.io/api/search?q=${query}`;
 
   const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
@@ -109,13 +110,7 @@ const Search = ({ posts }: any) => {
       // console.log(JSON.stringify(res.data));
       // setResults(res.data.results);
       console.log(query);
-      fetch(searchEndpoint(query), {
-        method: "GET",
-        mode: "no-cors",
-        headers: {
-          "Content-Type": "application/json",
-        },
-      })
+      fetch(searchEndpoint(query))
         .then((response) => response.json())
         .then((data) => setResults(data.results));
       console.log(JSON.stringify(results));
