@@ -111,7 +111,7 @@ const Search = ({ posts }: any) => {
       fetch(searchEndpoint(query))
         .then((response) => response.json())
         .then((data) => setResults(data.results));
-      // console.log(JSON.stringify(results));
+      console.log(JSON.stringify(results));
     } else {
       setResults([]);
     }
