@@ -124,8 +124,8 @@ const Search = ({ posts }: any) => {
             </Icon>
           </StyledIcon>
         </SearchBar>
-        {results.length < 0 ? (
-          <></>
+        {results.length === 0 ? (
+          <>hi</>
         ) : (
           <div>
             <h4>Results</h4>
