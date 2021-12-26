@@ -101,6 +101,7 @@ const Search = ({ posts }: any) => {
     setTs("query.length: " + query.length);
     if (query.length > 0) {
       try {
+        setTs("before axios");
         axios.get(searchEndpoint(query)).then((res) => {
           setResults(res.data.results);
           setTs(res.data.results[0].title);
