@@ -101,12 +101,17 @@ const Search = ({ posts }: any) => {
     setQuery(e.target.value);
     if (query.length > 0) {
       setTs("before axios");
-      axios.get(searchEndpoint(query)).then((res) => {
-        setTs(" after axios");
-        setTs1(res.data.results[0].title);
-        console.log(res.data.results);
-        setResults(res.data.results);
-      });
+      axios
+        .get(searchEndpoint(query))
+        .then((res) => {
+          setTs(" after axios");
+          setTs1(res.data.results[0].title);
+          console.log(res.data.results);
+          setResults(res.data.results);
+        })
+        .catch((e) => {
+          setTs1(e);
+        });
     } else {
       setResults([]);
     }
