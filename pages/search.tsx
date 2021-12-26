@@ -92,6 +92,7 @@ const StyledResults = styled.div`
 const Search = ({ posts }: any) => {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState([]);
+  const [ts, setTs] = useState("");
 
   const searchEndpoint = (query: string) => `/api/search?q=${query}`;
 
@@ -100,9 +101,11 @@ const Search = ({ posts }: any) => {
     if (query.length) {
       axios.get(searchEndpoint(query)).then((res) => {
         setResults(res.data.results);
-        // console.log(res.data.results);
+        setTs("got here");
+        console.log(res.data.results);
       });
     } else {
+      setTs("hi");
       setResults([]);
     }
   };
@@ -125,7 +128,6 @@ const Search = ({ posts }: any) => {
           </StyledIcon>
         </SearchBar>
         {query}
-        {results}
         {results.length === 0 ? (
           <></>
         ) : (
