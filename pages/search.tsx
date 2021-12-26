@@ -92,7 +92,8 @@ const Search = ({ posts }: any) => {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState([]);
 
-  const searchEndpoint = (query: string) => `/api/search?q=${query}`;
+  const searchEndpoint = (query: string) =>
+    `https://veggiesforall.io/api/search?q=${query}`;
 
   const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
@@ -125,7 +126,7 @@ const Search = ({ posts }: any) => {
           </StyledIcon>
         </SearchBar>
         {results.length === 0 ? (
-          <>hi</>
+          <></>
         ) : (
           <div>
             <h4>Results</h4>
