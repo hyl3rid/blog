@@ -125,8 +125,6 @@ const Search = ({ posts }: any) => {
             </Icon>
           </StyledIcon>
         </SearchBar>
-        {query}
-        {results.length}
         {results.length === 0 ? (
           <></>
         ) : (
