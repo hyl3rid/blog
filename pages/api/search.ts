@@ -7,7 +7,7 @@ export default (req: NextApiRequest, res: NextApiResponse) => {
   //       post.title.toLowerCase().includes(req.query.q)
   //     )
   //   : [];
-  const results = req.query.q ? [1] : [];
+  const results = req.query.q ? posts : [];
 
   res.statusCode = 200;
   res.setHeader("Content-Type", "application/json");
