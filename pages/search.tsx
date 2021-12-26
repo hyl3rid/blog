@@ -103,7 +103,7 @@ const Search = ({ posts }: any) => {
           "Content-Type": "application/json",
         },
       });
-      console.log(res.data);
+      console.log(JSON.stringify(res.data));
       setResults(res.data.results);
     } else {
       setResults([]);
