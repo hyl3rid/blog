@@ -92,18 +92,22 @@ const StyledResults = styled.div`
 const Search = ({ posts }: any) => {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState([]);
-  const [ts, setTs] = useState("");
+  const [ts, setTs] = useState<any>("");
 
   const searchEndpoint = (query: string) => `/api/search?q=${query}`;
 
   const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
-    if (query.length) {
-      axios.get(searchEndpoint(query)).then((res) => {
-        setResults(res.data.results);
-        setTs(res.data.results[0].title);
-        console.log(res.data.results);
-      });
+    if (query.length > 0) {
+      try {
+        axios.get(searchEndpoint(query)).then((res) => {
+          setResults(res.data.results);
+          setTs(res.data.results[0].title);
+          console.log(res.data.results);
+        });
+      } catch (e) {
+        setTs(e);
+      }
     } else {
       setTs("hi");
       setResults([]);
