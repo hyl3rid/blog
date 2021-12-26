@@ -6,7 +6,6 @@ import styled from "styled-components";
 import { device } from "../styles/media";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
-import axios from "axios";
 
 const Wrapper = styled.div`
   margin-top: 5rem;
@@ -101,17 +100,9 @@ const Search = ({ posts }: any) => {
   const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
     if (query.length > 0) {
-      // const res = await axios.get(searchEndpoint(query), {
-      //   headers: {
-      //     "Content-Type": "application/json",
-      //   },
-      // });
-      // console.log(JSON.stringify(res.data));
-      // setResults(res.data.results);
-      fetch(searchEndpoint(query))
+      fetch(searchEndpoint(query.toLowerCase()))
         .then((response) => response.json())
         .then((data) => setResults(data.results));
-      console.log(JSON.stringify(results));
     } else {
       setResults([]);
     }
