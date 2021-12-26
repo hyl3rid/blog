@@ -92,20 +92,18 @@ const StyledResults = styled.div`
 const Search = ({ posts }: any) => {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState([]);
-  const [ts, setTs] = useState<any>("");
-  const [ts1, setTs1] = useState<any>("");
 
   const searchEndpoint = (query: string) => `/api/search?q=${query}`;
 
   const onChange = async (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
     if (query.length > 0) {
-      setTs(" before axios ");
       const res = await axios.get(searchEndpoint(query), {
         headers: {
           "Content-Type": "application/json",
         },
       });
+      console.log(res.data);
       setResults(res.data.results);
     } else {
       setResults([]);
@@ -130,8 +128,6 @@ const Search = ({ posts }: any) => {
           </StyledIcon>
         </SearchBar>
         {query}
-        {ts}
-        {ts1}
         {results.length}
         {results.length === 0 ? (
           <></>
