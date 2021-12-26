@@ -93,14 +93,17 @@ const Search = ({ posts }: any) => {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState([]);
   const [ts, setTs] = useState<any>("");
+  const [ts1, setTs1] = useState<any>("");
 
   const searchEndpoint = (query: string) => `/api/search?q=${query}`;
 
   const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
     if (query.length > 0) {
+      setTs("before axios");
       axios.get(searchEndpoint(query)).then((res) => {
-        setTs(" after axios: " + res.data.results[0].title + " ");
+        setTs(" after axios");
+        setTs1(res.data.results[0].title);
         console.log(res.data.results);
         setResults(res.data.results);
       });
@@ -128,6 +131,7 @@ const Search = ({ posts }: any) => {
         </SearchBar>
         {query}
         {ts}
+        {ts1}
         {results.length}
         {results.length === 0 ? (
           <></>
