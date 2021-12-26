@@ -89,14 +89,10 @@ const StyledResults = styled.div`
   width: 100%;
 `;
 
-interface Props {
-  title: string;
-}
-
 const Search = ({ posts }: any) => {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState([]);
-  const [ts, setTs] = useState<any | Props>("");
+  const [ts, setTs] = useState<any>("");
 
   const searchEndpoint = (query: string) =>
     `https://veggiesforall.io/api/search?q=${query}`;
@@ -104,19 +100,14 @@ const Search = ({ posts }: any) => {
   const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
     if (query.length > 0) {
-      try {
-        setTs("before axios");
-        axios.get(searchEndpoint(query)).then((res) => {
-          setTs("after axios");
-          setResults(res.data.results);
-        });
-      } catch (e) {
-        setTs("error: " + e);
-      }
+      setTs("before axios");
+      axios.get(searchEndpoint(query)).then((res) => {
+        setTs("after axios");
+        setResults(res.data.results);
+      });
     } else {
       setResults([]);
     }
-    // setTs(results && results[0]);
   };
 
   return (
@@ -137,7 +128,7 @@ const Search = ({ posts }: any) => {
           </StyledIcon>
         </SearchBar>
         {query}
-        {ts}
+        {results.length}
         {results.length === 0 ? (
           <></>
         ) : (
