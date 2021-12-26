@@ -95,14 +95,15 @@ const Search = ({ posts }: any) => {
   const [ts, setTs] = useState<any>("");
   const [ts1, setTs1] = useState<any>("");
 
-  const searchEndpoint = (query: string) => `/api/search?q=${query}`;
+  const searchEndpoint = (query: string) =>
+    `https://veggiesforall.io/api/search?q=${query}`;
 
   const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
     if (query.length > 0) {
       setTs("before axios");
       axios.get(searchEndpoint(query)).then((res) => {
-        setTs(" after axios");
+        setTs(" after axios ");
         setTs1(res.data.results[0].title);
         console.log(res.data.results);
         setResults(res.data.results);
