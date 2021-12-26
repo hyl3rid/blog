@@ -98,6 +98,7 @@ const Search = ({ posts }: any) => {
 
   const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
+    setTs(query.length > 0);
     if (query.length > 0) {
       try {
         axios.get(searchEndpoint(query)).then((res) => {
