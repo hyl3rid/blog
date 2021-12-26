@@ -3,6 +3,7 @@ const posts = require("../../cache/data").posts;
 
 export default (req: NextApiRequest, res: NextApiResponse) => {
   console.log(posts);
+  console.log(req.query.q);
   const results = req.query.q
     ? posts.filter((post: any) =>
         post.title.toLowerCase().includes(req.query.q)
