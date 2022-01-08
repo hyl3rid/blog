@@ -1,7 +1,7 @@
 ---
 title: Vegan Crepes with Strawberry Jelly
 description: Vegan crepes with strawberry jelly are the ultimate breakfast idea for you and your loved ones.
-publishedDate: January 8, 2021
+publishedDate: January 8, 2022
 tags:
   - jelly
   - crepe

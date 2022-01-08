@@ -1,7 +1,7 @@
 ---
 title: Vegan Crepes with Strawberry Jelly
 description: Vegan French toasts are tasteful, quick, and a perfect way to start your day.
-publishedDate: January 8, 2021
+publishedDate: January 8, 2022
 tags:
   - jelly
   - bread
