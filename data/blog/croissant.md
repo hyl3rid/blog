@@ -1,3 +1,14 @@
+---
+title: Croissants
+description: Pastry delicacy of crusty fluffy buttery layers which makes it perfect.
+publishedDate: January 8, 2022
+tags:
+  - quiche
+  - eggs
+  - vegetarian
+  - french
+---
+
 # Croissants
 
 Croissants are a baker&#39;s delicacy. They are rich, fluffy, airy, and buttery and literally melt in your mouth. A perfect croissant may seem otherworldly, but the truth is you can make it at home too. With dedication and some practice, and of course, the right recipe, you can make and enjoy perfectly baked croissants.

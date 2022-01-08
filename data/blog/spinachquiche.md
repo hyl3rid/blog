@@ -1,6 +1,17 @@
+---
+title: Spinach Quiche
+description: Loaded with leafy green, this quiche is very wholesome and hearty.
+publishedDate: January 8, 2022
+tags:
+  - quiche
+  - eggs
+  - vegetarian
+  - french
+---
+
 # Spinach Quiche
 
-Spinach quiche is a simple yet delicious dish you can enjoy for breakfast, lunch, or dinner. Made with premade frozen pie crust, you can make this spinach quiche effortlessly. Loaded with leafy green, this quiche is very wholesome and hearty. You can add more vegetables like mushrooms, cherry tomatoes, etc., to make it even healthier and tasteful.
+Spinach quiche is a simple yet delicious dish you can enjoy for breakfast, lunch, or dinner. There are multiple variations of this dish. If you feel just spinach does not make it, you can add more vegetables like zuchinni, mushrooms or cherry tomatoes to make it even healthier and tasteful.
 
 ## Origin of Quiche
 
@@ -31,7 +42,7 @@ Quince is known to belong to French cuisine. However, not many know that it orig
 1 ½ cup baby spinach, fresh or frozen  
 1 tbsp unsalted butter  
 ½ cup onion thinly sliced  
-2 garlic cloves, minced  
+1 garlic cloves, minced  
 4 large eggs  
 1 ¼ cups heavy cream  
 ¼ tsp black pepper  
