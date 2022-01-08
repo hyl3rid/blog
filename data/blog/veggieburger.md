@@ -1,6 +1,6 @@
 ---
 title: Veggie Burger
-description: Ut in urna dui. Fusce pretium nibh eu turpis porta, et rutrum libero suscipit. Morbi viverra est erat, vel posuere.
+description: A veggie burger is a perfect way to skip the meat and enjoy a healthy dose of vegetables.
 publishedDate: November 7, 2021
 tags:
   - vegan
@@ -9,10 +9,12 @@ tags:
 
 # Veggie burger
 
-A veggie burger is a perfect way to skip the meat and enjoy a healthy dose of vegetables. This veggie burger is made from your favorite bun, toppings, and a vegetable patty. With ingredients like mushrooms, shallots, garlic, panko, brown rice, walnuts, flax seeds, and spices, these patties and tasteful and easy to make. You won't even know if it's meat-free.
+This veggie burger is made from your favorite bun, toppings, and a vegetable patty. With ingredients like mushrooms, shallots, garlic, panko, brown rice, walnuts, flax seeds, and spices, these patties and tasteful and easy to make. You won't even know if it's meat-free.
 
 Who doesn't love burgers? But if you prefer vegetables over meat or just want to try something different, try this veggie burger recipe. It is tasteful, wholesome, filling, and surprisingly delicious. You won't even know if you are eating vegetables. The texture and flavor are up to the mark!
-Origin of Veggie burger
+
+## Origin of Veggie burger
+
 Burgers or hamburgers are not as old as you might think! Although most of us have heard the word from our parents and they from their parents, but the concept is still pretty recent. It was in the 1880s that the first-ever hamburger was made. However, some sources say that there are recipes from the 17th century or even 1st century A.D that is unbelievably similar to the hamburgers we know today.
 Although hamburgers are traditionally made from minced beef, the first-ever "veggie burger" was introduced in 1992 for those who don't love meat as much as vegetables. Today, you can find several fantastic veggie burger recipes.
 

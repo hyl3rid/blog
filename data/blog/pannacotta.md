@@ -39,7 +39,7 @@ In 1879, a dessert called Latte Inglese was widely popular. It had the same prep
 
 ### Ingredients
 
-2 ½ cup heavy cream  
+1 ½ cup heavy cream  
 3 gelatin sheets or 3 ¾ tbsp gelatin powder  
 ¼ cup caster sugar  
 1 tbsp vanilla extracts  

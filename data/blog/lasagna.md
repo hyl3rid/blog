@@ -1,6 +1,6 @@
 ---
 title: Vegetable Lasagna
-description: Ut in urna dui. Fusce pretium nibh eu turpis porta, et rutrum libero suscipit. Morbi viverra est erat, vel posuere.
+description: The vegetables cooked in a tangy tomato-y sauce, creamy and buttery classic béchamel sauce and a layer of cheese in-between lasagna sheets make this dish everyone's favorite!
 publishedDate: November 7, 2021
 tags:
   - italian
@@ -9,7 +9,7 @@ tags:
 
 # Vegetable Lasagna
 
-Vegetable lasagna is a scrumptious, wholesome, and easy-to-make dish that you can enjoy with your friends and family on weekends. The vegetables cooked in a tangy tomato-y sauce, creamy and buttery classic béchamel sauce and a layer of cheese in-between lasagna sheets make this dish everyone's favorite!
+Vegetable lasagna is a scrumptious, wholesome, and easy-to-make dish that you can enjoy with your friends and family on weekends.
 
 ## Origin of Lasagna
 

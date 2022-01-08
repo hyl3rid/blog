@@ -95,8 +95,9 @@ const HomePage = () => {
           <HeadingWrapper>
             <H1>Deliciously Cheesy Vegetarian Lasagna</H1>
             <H4>
-              Morbi molestie lectus tellus, id condimentum libero porttitor
-              dapibus. Vivamus aliquam commodo odio, ut fringilla.
+              Enjoy this delicious lasagna with vegetables. Packed with cheese,
+              zucchini, tomatoes, bechamel sauce and more. Great for any special
+              occasion!
             </H4>
             <ButtonWrapper>
               <Link href="/lasagna">

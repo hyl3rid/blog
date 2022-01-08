@@ -1,6 +1,6 @@
 ---
 title: Tarte Tatin
-description: Ut in urna dui. Fusce pretium nibh eu turpis porta, et rutrum libero suscipit. Morbi viverra est erat, vel posuere.
+description: This upside-down pastry is a classic dessert with a crispy pastry with tender apples in a caramel sauce that melts your heart.
 publishedDate: November 7, 2021
 tags:
   - tart
@@ -9,7 +9,7 @@ tags:
 
 # Apple Tarte Tatin
 
-Apple Tarte Tin is delicious, sweet, and easy to make. This upside-down pastry is a classic dessert with a crispy pastry with tender apples in a caramel sauce that melts your heart. It is a perfect dessert for every occasion!
+Apple Tarte Tin is delicious, sweet, and easy to make. It is a perfect dessert for every occasion!
 
 ## Origin of Tarte Tatin
 

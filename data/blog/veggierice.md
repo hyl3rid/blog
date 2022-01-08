@@ -9,7 +9,7 @@ tags:
 
 # Rice with Vegetables
 
-Rice with vegetables is a simple, quick, healthy and delicious dish. It is a complete package that includes both grain and vegetables. This recipe is super quick to follow and gives you delicious results. Whether it is weekday or weekend, you can enjoy rice with vegetables as the main course along with your favourite side.
+Rice with vegetables is a simple, quick, healthy and delicious dish. It is a complete package that includes both grain and vegetables. This recipe is super quick to follow and gives you delicious results. Whether it is weekday or weekend.
 
 ## Origin of Rice with Vegetables
 
@@ -53,6 +53,7 @@ Here are a few variation ideas you will enjoy when it comes to making rice with 
 1 tbsp sesame oil  
 1 vegetable Bouillon  
 ½ cup carrots, diced  
+½ cup zucchini  
 ½ cup green peas  
 ½ cup broccoli florets  
 ½ cup mushrooms of choice  
@@ -71,7 +72,7 @@ sesame seeds to sprinkle
 - In a large pot, heat oil.
 - Add chopped onions and sauté for a minute or two until they turn translucent.
 - Add minced garlic plus ginger and cook until it is fragrant.
-- Add carrots, broccoli and cook for a minute or two. Then add the green peas.
+- Add carrots, broccoli and cook for a minute or two. Then add the green peas and zucchini.
 - Continue by including the mushrooms and cook for 5 minutes.
 - Add into the vegetables in the pan the Jasmine Rice. Then include the roasted cashews and mix throughly until the ingredients are evenly distributed.
 - Fluff the rice and garnish with freshly chopped green onions and sesame seeds. Enjoy.

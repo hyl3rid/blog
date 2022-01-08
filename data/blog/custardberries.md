@@ -38,7 +38,6 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 ### Ingredients
 
 **For the Shell:**
-
 1 cup all-purpose flour  
 1 egg  
 ¼ cup butter, cut into pieces  
@@ -46,7 +45,6 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 A pinch salt
 
 **For the custard:**
-
 ¾ cup full-fat milk  
 2 egg yolks  
 2 tbsp granulated sugar  

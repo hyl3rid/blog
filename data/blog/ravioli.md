@@ -1,6 +1,6 @@
 ---
 title: Handmade Mushroom Ravioli
-description: Ut in urna dui. Fusce pretium nibh eu turpis porta, et rutrum libero suscipit. Morbi viverra est erat, vel posuere.
+description: Earthy raviolis made with mushrooms and ricotta is a delicious recipe.
 publishedDate: November 7, 2021
 tags:
   - mushroom
@@ -9,7 +9,7 @@ tags:
 
 # Handmade Mushroom Ravioli
 
-Handmade mushroom and garlic ravioli are rich, creamy, and delicious. The flavorsome mushroom and garlic filling in a homemade pasta sheet drenched in a creamy sauce are heartwarming and finger-licking good.
+Handmade mushroom and garlic ravioli are rich, creamy, and delicious. The flavorsome mushroom and garlic filling in a homemade pasta sheet drenched in a creamy sauce are heartwarming.
 
 ## Origin of Ravioli
 
