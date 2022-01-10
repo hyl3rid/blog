@@ -48,12 +48,12 @@ const Sidebar = ({ active }: Props) => {
   return (
     <Styled className={active}>
       <NavList>
-        <Link href="/recipes">
-          <NavLink>Recipes</NavLink>
-        </Link>
-
         <Link href="/">
           <NavLink>Home</NavLink>
+        </Link>
+
+        <Link href="/recipes">
+          <NavLink>Recipes</NavLink>
         </Link>
 
         <Link href="/search">
