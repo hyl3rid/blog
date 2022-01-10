@@ -49,7 +49,7 @@ Here are a few variation ideas you will enjoy when it comes to making rice with 
 1 small white onion  
 2 garlic cloves, minced  
 1 tbsp ginger  
-2 tbsp soy sauce  
+3 tbsp soy sauce  
 1 tbsp sesame oil  
 1 vegetable Bouillon  
 ½ cup carrots, diced  
@@ -63,10 +63,10 @@ sesame seeds to sprinkle
 
 ### Instructions
 
-- Add washed rice, soy sauce and vegetable bouillon and mix well.
+- Add washed rice, 2 tbsp of soy sauce and vegetable bouillon and mix well.
 - Pour in water and let the mixture come to a boil.
 - Once it starts to boil, reduce the heat to low and cover the pot.
-- Let it cook for about 20 minutes or until the water evaporates.
+- Let it cook until the water evaporates.
 - Once the rice is cooked, turn off the heat and sit for about 5 minutes.
 - Fluff the rice to prevent it from sticking.
 - In a large pot, heat oil.
@@ -74,5 +74,5 @@ sesame seeds to sprinkle
 - Add minced garlic plus ginger and cook until it is fragrant.
 - Add carrots, broccoli and cook for a minute or two. Then add the green peas and zucchini.
 - Continue by including the mushrooms and cook for 5 minutes.
-- Add into the vegetables in the pan the Jasmine Rice. Then include the roasted cashews and mix throughly until the ingredients are evenly distributed.
+- Add into the vegetables in the pan the Jasmine Rice. Then include the roasted cashews and add 1 tbsp of soy sauce, mix throughly until the ingredients are evenly distributed.
 - Fluff the rice and garnish with freshly chopped green onions and sesame seeds. Enjoy.

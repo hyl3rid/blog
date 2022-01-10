@@ -9,7 +9,7 @@ tags:
   - vegan
 ---
 
-# Vegan French toast With Blackberry Jelly
+# Vegan French toast with Blueberry Jelly
 
 This fullfilling yet simple recipe with jelly will blast you. These toast are sweet, fluffy, and just what you need to give yourself a treat or to get your day started.
 
@@ -19,7 +19,7 @@ Because of the name, most people think that French toast originated from France.
 
 Moreover, another theory suggests that Joseph French invented the dish in the 17th century in New York. Hence the name French toast originated. Whatever the origin of the dish, we are happy that we get to enjoy this tasteful dish!
 
-## French toast With Blackberry Jelly Recipe
+## French toast with Blueberry Jelly Recipe
 
 **Preparation time:** 15minutes  
 **Cooking time:** 15 minutes  
@@ -40,6 +40,13 @@ Moreover, another theory suggests that Joseph French invented the dish in the 17
 
 ### Ingredients
 
+**For the blueberry jelly:**
+
+1 ½ cup fresh blueberry  
+½ cup plus 2 tbsp Sugar  
+1 tbsp Pectin  
+¼ tbsp Lemon juice
+
 **For the French toast:**
 
 4 thick French bread slices  
@@ -50,19 +57,12 @@ Moreover, another theory suggests that Joseph French invented the dish in the 17
 A pinch nutmeg  
 Coconut oil for frying
 
-**For the blackberry jelly:**
-
-1 ½ cup fresh blackberries  
-½ cup plus 2 tbsp Sugar  
-1 tbsp Pectin  
-¼ tbsp Lemon juice
-
 ### Instructions
 
-**For the blackberry jelly:**
+**For the blueberry jelly:**
 
-- Wash the blackberries and place them in a saucepan over medium heat with the sugar. Let them cook for about 10 minutes. Mix once in a while.
-- After the sugar and the blackberries have been cooked, add pectin and lemon juice. Stir so that everything is well combined.
+- Wash the blueberries and place them in a saucepan over medium heat with the sugar. Let them cook for about 10 minutes. Mix once in a while.
+- After the sugar and the blueberries have been cooked, add pectin and lemon juice. Stir so that everything is well combined.
 - Place the saucepan over medium heat and bring it to a boil.
 - Remove the saucepan from heat and let it cool down.
 - When the jelly is at room temperature, pour this mixture into a sterilized jar. Seal and store.
@@ -73,4 +73,4 @@ Coconut oil for frying
 - In a frying pan, heat coconut oil.
 - Dip the preferred bread slice in the mixture so that it is completely damp with it. Place this bread on a frying pan and let it cook for a minute or two. Flip and cook the other side until it gets a golden color.
 - Repeat this step with all the bread slices.
-- Serve the vegan French toast with homemade blackberry jelly. Enjoy!
+- Serve the vegan French toast with homemade blueberry jelly. Enjoy!

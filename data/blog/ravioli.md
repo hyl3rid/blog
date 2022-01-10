@@ -43,7 +43,7 @@ Just like any other pasta, ravioli was originated in Italy around the 14th centu
 
 **For the filling:**  
 5 cups crimini mushrooms, sliced  
-1 tbsp ricotta  
+200g of ricotta cheese
 2 tbsp grated parmesan  
 2 shallots, finely chopped  
 2 garlic cloves, minced  
@@ -77,10 +77,10 @@ Salt, to taste
 
 **Assembly:**  
 ⦁ Roll out the pasta dough into a thin sheet using a machine or by hand as preferred.  
-⦁ Place the pasta sheet on a floured working surface. Place a teaspoon of mushroom filling in the sheet by an inch squared difference until you reach half of the sheet.  
-⦁ Place the other end of the sheet so that it covers the mushroom mixture. Seal the sides by applying pressure of your fingers. If there is too much flour the sheets won't stick and you might need to add a little bit of egg wash on one side to stick.  
+⦁ Place the pasta sheet on a floured working surface. Place the filling of mushrooms in the sheet by an inch squared difference until you reach half of the sheet. With practice, you'll know your preferred size for the ravioli!
+⦁ Place the other end of the sheet so that it covers the mushroom mixture. Seal the sides by applying pressure of your fingers. If there is too much flour the sheets won't stick and you might need to add a little bit of water on one side to stick.  
 ⦁ Using a cutter, trim the sides around the filling so that you get small pockets of ravioli.  
-⦁ Add water in a large pot, season it with salt and bring it to a boil. Add ravioli and cook for 4 minutes.
+⦁ Add water in a large pot, season it with salt, add oil and bring it to a boil. Add ravioli and cook for 4 minutes.
 
 **For The Sauce:**  
 ⦁ Meanwhile, heat oil in a pan over medium heat.  
@@ -89,3 +89,4 @@ Salt, to taste
 ⦁ Add parmesan cheese and mix well.  
 ⦁ Add cooked ravioli straight from the boiling pot and toss.  
 ⦁ Serve.
+**Note:** You may add mozzarella cheese while boiling the cream to add more flavor and consistency.

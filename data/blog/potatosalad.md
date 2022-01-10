@@ -50,8 +50,8 @@ Salt, to taste
 
 **For the potato salad:**  
 1 ¼ lb. Yukon Gold potatoes  
-1 celery stalks, diced  
 1 apple in cubes  
+1 celery stalks, diced  
 ¼ cup red onion, diced  
 ½ tbsp parsley, freshly chopped  
 ½ cup homemade mayonnaise  

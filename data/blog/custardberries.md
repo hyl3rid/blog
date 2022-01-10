@@ -4,6 +4,7 @@ description: This custard tart recipe is delicious, easy to make and perfect for
 publishedDate: December 17, 2021
 tags:
   - tart
+  - dessert
   - custard
   - berries
 ---

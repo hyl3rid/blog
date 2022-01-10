@@ -37,20 +37,15 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 ### Ingredients
 
 10-ounce lasagna sheets, cooked  
-1 cup mozzarella cheese, shredded  
+2 ½ cup mozzarella cheese, shredded  
 ¼ cup parmesan cheese, grated  
 1 tbsp olive oil  
 1 small onion, sliced  
 2 garlic cloves, minced  
-1 small zucchini, shredded  
-¾ cup diced tomatoes, canned  
-½ cup fresh spinach, roughly chopped  
-1/3 cup mushrooms, sliced  
-¾ cup roasted peppers, sliced  
-3 tbsp tomato paste  
-½ tbsp Italian seasoning  
-black pepper, to taste  
-Salt, to taste
+1 small zucchini, sliced  
+2 cups of mushrooms, sliced  
+3 cups fresh spinach, roughly chopped  
+Salt and black pepper, to taste
 
 **For the Béchamel Sauce:**  
 ¼ cup flour  

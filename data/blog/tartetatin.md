@@ -4,6 +4,7 @@ description: This upside-down pastry is a classic dessert with a crispy pastry w
 publishedDate: November 7, 2021
 tags:
   - tart
+  - dessert
   - apple
 ---
 

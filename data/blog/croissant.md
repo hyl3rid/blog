@@ -1,11 +1,9 @@
 ---
 title: Croissants
-description: Pastry delicacy of crusty fluffy buttery layers which makes it perfect.
+description: Pastry delicacy of crusty fluffy buttery layers which make it perfect.
 publishedDate: January 8, 2022
 tags:
-  - quiche
-  - eggs
-  - vegetarian
+  - pastry
   - french
 ---
 
