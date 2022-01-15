@@ -109,9 +109,9 @@ const HomePage = () => {
             </ButtonWrapper>
           </HeadingWrapper>
         </Heading>
-        <Link href="/lasagna">
-          <a>
-            <ImageWrapper>
+        <ImageWrapper>
+          <Link href="/lasagna">
+            <a>
               <Image
                 className="image"
                 src={Lasagna}
@@ -119,9 +119,9 @@ const HomePage = () => {
                 layout="fill"
                 priority={true}
               />
-            </ImageWrapper>
-          </a>
-        </Link>
+            </a>
+          </Link>
+        </ImageWrapper>
       </Hero>
       <EmblaCarousel slides={slides} />
     </>

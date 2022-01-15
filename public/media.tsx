@@ -23,8 +23,8 @@ export const media: FeaturedRecipes = {
   },
   2: {
     img: media3,
-    url: "/lasagna",
-    title: "Lasagna",
+    url: "/custardberries",
+    title: "Custard Tart with Berries",
   },
   3: {
     img: media4,
