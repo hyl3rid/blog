@@ -10,6 +10,8 @@ tags:
 
 # Spanish flan
 
+![Traditional Spanish Flan](/flan.jpg "image")
+
 If you have ever been to a Spanish restaurant, you will find &quot;flan&quot; to be a must on their menu. This delicious, simple, and sweet dessert has a prominent place in Spanish cuisine. And why not? It is divine. Spanish flan is super easy to make. With just four ingredients, you can enjoy an authentic recipe at home!
 
 ## Origin of flan

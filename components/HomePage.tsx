@@ -112,7 +112,7 @@ const HomePage = () => {
             src={Lasagna}
             alt="Lasagna Meal"
             layout="fill"
-            // priority={true}
+            priority={true}
           />
         </ImageWrapper>
       </Hero>

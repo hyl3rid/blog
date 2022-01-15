@@ -11,6 +11,8 @@ tags:
 
 # Spinach Quiche
 
+![Delicious Quiche with Spinach](/spinachquiche.jpg "image")
+
 Spinach quiche is a simple yet delicious dish you can enjoy for breakfast, lunch, or dinner. There are multiple variations of this dish. If you feel just spinach does not make it, you can add more vegetables like zuchinni, mushrooms or cherry tomatoes to make it even healthier and tasteful.
 
 ## Origin of Quiche

@@ -7,7 +7,9 @@ tags:
   - dip
 ---
 
-# Easy Creamy Hummus
+# Hummus
+
+![Creamy Hummus](/hummus.jpg "image")
 
 Hummus is a delicious Middle Eastern dip or sauce that is often a perfect condiment for health enthusiasts. Made from chickpea, tahini, lemon juice, olive oil, and garlic, this creamy dish is delicious, rich, healthy, and vegan! You can serve it with nachos, tortilla chips, or vegetable sticks, and it tastes divine.
 

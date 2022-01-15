@@ -12,6 +12,8 @@ tags:
 
 # Vegan Crepes with Strawberry Jelly
 
+![Vegan Rolled Crepes with Jelly Inside](/crepes.jpg "image")
+
 The delicate, fluffy, and vegan crepes filled with rich homemade strawberry jelly are a perfect combination. These crepes are super easy to make and taste great as well. You can customize it according to your liking and use your favorite fruits and jellies.
 
 ## Origin of Crepes

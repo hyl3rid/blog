@@ -9,6 +9,8 @@ tags:
 
 # Croissants
 
+![Delicious French Pastry Croissant](/croissant.jpg "image")
+
 Croissants are a baker&#39;s delicacy. They are rich, fluffy, airy, and buttery and literally melt in your mouth. A perfect croissant may seem otherworldly, but the truth is you can make it at home too. With dedication and some practice, and of course, the right recipe, you can make and enjoy perfectly baked croissants.
 
 Croissants are very versatile. You can enjoy them filled with chocolate or any other jam. Moreover, you can get a simple butter croissant, cut it in half, and spread cream, cheese, or any other spread on it. The best thing about a croissant is that it doesn&#39;t always have to be on the sweet side. You can turn it into a savory dish as well. Use deli ham slices, Swiss cheese slices, and poached egg to enjoy a luxuriously savory breakfast. More oven, serve it with guacamole and salsa, and enjoy the blend of flavors.

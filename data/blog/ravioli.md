@@ -9,6 +9,8 @@ tags:
 
 # Handmade Mushroom Ravioli
 
+![Handmade Ravioli filled with Mushroom and Riccota with White Sauce](/ravioli.jpg "image")
+
 Handmade mushroom and garlic ravioli are rich, creamy, and delicious. The flavorsome mushroom and garlic filling in a homemade pasta sheet drenched in a creamy sauce are heartwarming.
 
 ## Origin of Ravioli

@@ -9,6 +9,8 @@ tags:
 
 # Rice with Vegetables
 
+![Jasmine Rice with Broccoli, Mushrooms and Cashews](/veggierice.jpg "image")
+
 Rice with vegetables is a simple, quick, healthy and delicious dish. It is a complete package that includes both grain and vegetables. This recipe is super quick to follow and gives you delicious results. Whether it is weekday or weekend.
 
 ## Origin of Rice with Vegetables

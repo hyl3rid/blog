@@ -11,6 +11,8 @@ tags:
 
 # Vegan French toast with Blueberry Jelly
 
+![French Toast with berries and jelly](/frenchtoast.jpg "image")
+
 This fullfilling yet simple recipe with jelly will blast you. These toast are sweet, fluffy, and just what you need to give yourself a treat or to get your day started.
 
 ## Origin of French toast

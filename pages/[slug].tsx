@@ -23,6 +23,10 @@ const Wrapper = styled.div`
   justify-content: center;
   flex-direction: column;
   margin-top: 5rem;
+
+  img[title="image"] {
+    width: 100%;
+  }
 `;
 
 const MarkdownWrapper = styled.div`

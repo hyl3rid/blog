@@ -9,6 +9,8 @@ tags:
 
 # Veggie burger
 
+![Great Veggie Burger with Mushroom, Panko, Rice, Walnuts and Flax Seeds](/veggieburger.jpg "image")
+
 This veggie burger is made from your favorite bun, toppings, and a vegetable patty. With ingredients like mushrooms, shallots, garlic, panko, brown rice, walnuts, flax seeds, and spices, these patties and tasteful and easy to make. You won't even know if it's meat-free.
 
 Who doesn't love burgers? But if you prefer vegetables over meat or just want to try something different, try this veggie burger recipe. It is tasteful, wholesome, filling, and surprisingly delicious. You won't even know if you are eating vegetables. The texture and flavor are up to the mark!

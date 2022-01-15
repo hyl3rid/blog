@@ -10,6 +10,8 @@ tags:
 
 # Panna Cotta
 
+![Creamy Panna Cotta with Strawberry](/pannacotta.jpg "image")
+
 Panna cotta is simple, elegant, effortless, and delicious. It is a delicacy that can win every heart. This Italian custard is giggly, perfectly set, and smooth texture. Topped with rich caramel syrup and fresh berries, nothing can get wrong with a simple vanilla panna cotta.
 
 ## Origin of Panna Cotta

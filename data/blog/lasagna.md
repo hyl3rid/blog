@@ -9,6 +9,8 @@ tags:
 
 # Vegetable Lasagna
 
+![Lasagna with Bechamel Sauce and Vegetables](/lasagna.jpg "image")
+
 Vegetable lasagna is a scrumptious, wholesome, and easy-to-make dish that you can enjoy with your friends and family on weekends.
 
 ## Origin of Lasagna

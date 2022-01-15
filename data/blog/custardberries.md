@@ -11,6 +11,8 @@ tags:
 
 # Custard Tart with Fruits on Top
 
+![Tart with Custard Cream and berries on top](/custardberries.jpg "image")
+
 The Decadent, crispy pastry filled with rich and creamy custard and topped with fresh fruits is a sight to behold. This custard tart recipe is delicious, easy to make and perfect for every occasion.
 
 ## Origin of Custard Tart

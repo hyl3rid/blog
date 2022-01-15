@@ -10,6 +10,8 @@ tags:
 
 # Apple Tarte Tatin
 
+![French Apple Tart](/tartetatin.jpg "image")
+
 Apple Tarte Tin is delicious, sweet, and easy to make. It is a perfect dessert for every occasion!
 
 ## Origin of Tarte Tatin
