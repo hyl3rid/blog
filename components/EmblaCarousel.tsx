@@ -10,8 +10,8 @@ import { device } from "../styles/media";
 const Wrapper = styled.div`
   .embla {
     position: relative;
-    margin-left: 12.5rem;
-    margin-right: 12.5rem;
+    /* margin-left: 12.5rem;
+    margin-right: 12.5rem; */
 
     .label {
       height: 6rem;
@@ -65,8 +65,12 @@ const Wrapper = styled.div`
   .embla__slide__inner {
     position: relative;
     overflow: hidden;
-    height: 50rem;
+    height: 150rem;
     width: 100%;
+
+    @media only screen and (${device.sm}) {
+      height: 30rem;
+    }
   }
 
   .embla__slide__img {
@@ -150,7 +154,13 @@ const Wrapper = styled.div`
   }
 
   @media only screen and (${device.md}) {
-    display: none;
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
+
+  @media only screen and (${device.sm}) {
+    margin-left: 0;
+    margin-right: 0;
   }
 `;
 

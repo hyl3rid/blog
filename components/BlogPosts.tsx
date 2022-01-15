@@ -101,9 +101,13 @@ const BlogPosts = ({ posts }: BlogPostsProps) => {
                         />
                       </ImageWrapper>
                     </a>
-                  </Link>{" "}
+                  </Link>
                   <div>
-                    <h3>{post.frontMatter.title}</h3>
+                    <Link href={{ pathname: `/${post.slug}` }}>
+                      <a>
+                        <h3>{post.frontMatter.title}</h3>
+                      </a>
+                    </Link>
                     {/* Fix date format */}
                     <PublishDate>{post.frontMatter.publishedDate}</PublishDate>
                     <Description>{post.frontMatter.description}</Description>

@@ -39,7 +39,7 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 ### Ingredients
 
 10-ounce lasagna sheets, cooked  
-2 ½ cup mozzarella cheese, shredded  
+2 ½ cup vegan mozzarella cheese, shredded  
 ¼ cup parmesan cheese, grated  
 1 tbsp olive oil  
 1 small onion, sliced  
