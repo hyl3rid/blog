@@ -65,7 +65,7 @@ const Wrapper = styled.div`
   .embla__slide__inner {
     position: relative;
     overflow: hidden;
-    height: 150rem;
+    height: 50rem;
     width: 100%;
 
     @media only screen and (${device.sm}) {

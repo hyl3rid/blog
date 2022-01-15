@@ -11,7 +11,7 @@ import {
 } from "../lib/utils";
 // import Link from "next/link";
 import React from "react";
-import { Layout } from "../components";
+import { Layout2 } from "../components";
 import { Params } from "../node_modules/next/dist/server/router";
 // import { LinkProps } from "../node_modules/next/dist/client/link";
 import styled from "styled-components";
@@ -41,7 +41,7 @@ const MarkdownWrapper = styled.div`
 const BlogPost = ({ frontMatter, markdownBody, posts }: BlogPostProps) => {
   if (!frontMatter) return <></>;
   return (
-    <Layout>
+    <Layout2>
       <Wrapper>
         <MarkdownWrapper>
           <ReactMarkdown
@@ -71,7 +71,7 @@ const BlogPost = ({ frontMatter, markdownBody, posts }: BlogPostProps) => {
         </MarkdownWrapper>
         <RelatedRecipes posts={posts} currentPostFrontMatter={frontMatter} />
       </Wrapper>
-    </Layout>
+    </Layout2>
   );
 };
 

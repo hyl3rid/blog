@@ -26,7 +26,7 @@ const ImageWrapper = styled.div`
   }
 
   @media only screen and (${device.sm}) {
-    width: 35rem;
+    width: 100%;
   }
 `;
 
@@ -40,15 +40,21 @@ const FeaturedPosts = styled.div`
   grid-gap: 1rem;
   padding: 0 12.5rem;
   justify-content: center;
-  width: 100%;
 
   @media only screen and (${device.lg}) {
     grid-template-columns: repeat(2, 1fr);
+    padding: 0 3rem;
   }
 
   @media only screen and (${device.sm}) {
     grid-template-columns: repeat(1, 1fr);
   }
+`;
+
+const Anchor = styled.a`
+  color: var(--main-dark);
+  text-decoration: none;
+  cursor: pointer;
 `;
 
 const Posts = styled.div`
@@ -72,6 +78,10 @@ const CardWrapper = styled.article`
 
   @media only screen and (${device.sm}) {
     width: 35rem;
+  }
+
+  @media only screen and (${device.xs}) {
+    width: calc(100vw - 2rem);
   }
 `;
 
@@ -104,9 +114,9 @@ const BlogPosts = ({ posts }: BlogPostsProps) => {
                   </Link>
                   <div>
                     <Link href={{ pathname: `/${post.slug}` }}>
-                      <a>
+                      <Anchor>
                         <h3>{post.frontMatter.title}</h3>
-                      </a>
+                      </Anchor>
                     </Link>
                     {/* Fix date format */}
                     <PublishDate>{post.frontMatter.publishedDate}</PublishDate>

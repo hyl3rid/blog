@@ -11,22 +11,35 @@ const Wrapper = styled.div`
 `;
 
 const ImageWrapper = styled.div`
-  width: 100%;
-  height: 100%;
+  width: 50vw;
+  height: 50vh;
   position: relative;
   display: flex;
 
   .image {
-    width: 100%;
-    height: 100%;
+    width: 100% !important;
+    /* height: 50rem; */
     position: relative !important;
-    object-fit: contain; // Optional
+    object-fit: cover !important; // Optional
+    height: unset !important;
+  }
+
+  @media only screen and (${device.md}) {
+    height: 40vh;
+  }
+
+  @media only screen and (${device.sm}) {
+    height: 30vh;
+  }
+
+  @media only screen and (${device.xs}) {
+    height: 25vh;
   }
 `;
 
 const Label = styled.div`
   position: absolute;
-  height: 3rem;
+  height: unset;
   width: 100%;
   background-color: rgb(2, 0, 14, 0.5);
   bottom: 0;
@@ -79,7 +92,7 @@ const RelatedRecipes = ({ posts, currentPostFrontMatter }: BlogPostsProps) => {
                 src={`/${posts && posts[postIdx].slug}.jpg`}
                 alt={`${posts && posts[postIdx].frontMatter.title}`}
                 layout="fill"
-                // priority={true}
+                priority={true}
               />
               <Label>
                 <span className="text">{`${

@@ -11,6 +11,7 @@ const Hero = styled.div`
   grid-template-columns: repeat(2, 1fr);
   height: 60rem;
   margin-bottom: 5rem;
+  width: 100%;
 
   @media only screen and (${device.md}) {
     grid-template-columns: repeat(1, 1fr);
@@ -20,14 +21,12 @@ const Hero = styled.div`
 `;
 
 const Heading = styled.div`
-  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
 `;
 
 const HeadingWrapper = styled.div`
-  width: 100%;
   text-align: center;
 
   @media only screen and (${device.md}) {
@@ -35,6 +34,9 @@ const HeadingWrapper = styled.div`
   }
   @media only screen and (${device.sm}) {
     margin: 0 5rem;
+  }
+  @media only screen and (${device.xs}) {
+    margin: 0 2rem;
   }
 `;
 
@@ -44,15 +46,16 @@ const ImageWrapper = styled.div`
   position: relative;
 
   .image {
-    width: 100%;
-    height: 100%;
-    position: relative !important;
     object-fit: cover; // Optional
   }
 
   @media only screen and (${device.md}) {
     grid-row: 1;
     height: 35rem;
+  }
+  @media only screen and (${device.sm}) {
+    grid-row: 1;
+    height: 30rem;
   }
 `;
 
@@ -106,15 +109,19 @@ const HomePage = () => {
             </ButtonWrapper>
           </HeadingWrapper>
         </Heading>
-        <ImageWrapper>
-          <Image
-            className="image"
-            src={Lasagna}
-            alt="Lasagna Meal"
-            layout="fill"
-            priority={true}
-          />
-        </ImageWrapper>
+        <Link href="/lasagna">
+          <a>
+            <ImageWrapper>
+              <Image
+                className="image"
+                src={Lasagna}
+                alt="Lasagna Meal"
+                layout="fill"
+                priority={true}
+              />
+            </ImageWrapper>
+          </a>
+        </Link>
       </Hero>
       <EmblaCarousel slides={slides} />
     </>
