@@ -1,9 +1,9 @@
 ---
-title: Potato Salad with Mayonaise
+title: Potato Salad with Mayonnaise
 description: Potato salad with homemade mayonnaise is rich, creamy, wholesome, and a perfect side with your main course.
 publishedDate: December 17, 2021
 tags:
-  - mayonaise
+  - Mayonnaise
   - salad
   - potato
 ---

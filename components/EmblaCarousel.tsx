@@ -10,8 +10,23 @@ import { device } from "../styles/media";
 const Wrapper = styled.div`
   .embla {
     position: relative;
-    /* margin-left: 12.5rem;
-    margin-right: 12.5rem; */
+    margin-left: 12.5rem;
+    margin-right: 12.5rem;
+
+    @media only screen and (${device.lg}) {
+      margin-left: 5rem;
+      margin-right: 5rem;
+    }
+
+    @media only screen and (${device.md}) {
+      margin-left: 3rem;
+      margin-right: 3rem;
+    }
+
+    @media only screen and (${device.sm}) {
+      margin-left: 0;
+      margin-right: 0;
+    }
 
     .label {
       height: 6rem;
@@ -151,16 +166,6 @@ const Wrapper = styled.div`
   .embla__dot.is-selected:after {
     background-color: #1bcacd;
     opacity: 1;
-  }
-
-  @media only screen and (${device.md}) {
-    margin-left: 3rem;
-    margin-right: 3rem;
-  }
-
-  @media only screen and (${device.sm}) {
-    margin-left: 0;
-    margin-right: 0;
   }
 `;
 

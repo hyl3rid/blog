@@ -13,6 +13,10 @@ const Hero = styled.div`
   margin-bottom: 5rem;
   width: 100%;
 
+  @media only screen and (${device.lg}) {
+    height: 40rem;
+  }
+
   @media only screen and (${device.md}) {
     grid-template-columns: repeat(1, 1fr);
     grid-row: 2;
@@ -96,7 +100,7 @@ const HomePage = () => {
       <Hero>
         <Heading>
           <HeadingWrapper>
-            <H1>Deliciously Cheesy Vegetarian Lasagna</H1>
+            <H1>Deliciously Cheesy Vegan Lasagna</H1>
             <H4>
               Enjoy this delicious lasagna with vegetables. Packed with cheese,
               zucchini, tomatoes, bechamel sauce and more. Great for any special
