@@ -1,11 +1,11 @@
 ---
-title: Vegan French Toast with Blackberry Jelly
+title: Vegan French Toast with Blueberry Jelly
 description: Vegan French toasts are tasteful, quick, and a perfect way to start your day.
 publishedDate: January 8, 2022
 tags:
   - jelly
   - bread
-  - blackberry
+  - blueberry
   - vegan
 ---
 

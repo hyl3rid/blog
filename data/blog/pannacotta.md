@@ -41,21 +41,17 @@ In 1879, a dessert called Latte Inglese was widely popular. It had the same prep
 
 ### Ingredients
 
-1 ½ cup heavy cream  
-3 gelatin sheets or 3 ¾ tbsp gelatin powder  
-¼ cup caster sugar  
+1 can of coconut cream  
+1/2 tsp agar agar
+3 tbsp of sweetener or to taste
 1 tbsp vanilla extracts  
-fresh berries, as required  
-strawberry syrup, as required
+Fresh berries, as required  
+Strawberry jelly, as required
 
 ### Instructions
 
-- In a medium bowl, pour cold water. Add gelatin sheets to the bowl and let them soak for 5 minutes.
-- Meanwhile, pour heavy cream and milk into a saucepan.
-- Place the saucepan on medium heat and add sugar.
-- Bring the mixture to a boil and remove from heat. Stir so that sugar is completely dissolved.
-- Take the gelatin sheets out of the water and squeeze them to drain excess water.
-- Add the soaked gelatin sheet to the milk mixture and stir until completely dissolved.
+- Pour the coconut cream into the saucepan and include agar agar, vanilla, sweetener and set the heat to medium.
+- Continue to whisk the coconut cream until the agar agar dissolves. Let the cream cook until it starts to thicken. When you see a Nappe consistency is reached in the cream, continue to set aside.
 - Pour the mixture into serving glasses or ramekins. Let them cool and place them in the refrigerator for 3 to 4 hours.
 - Once the panna cotta is set, take it out of the refrigerator, and top it with fresh berries, and drizzle strawberry syrup on top. You can also invert the ramekins on a serving plate carefully and serve by decorating them with fresh berries and strawberry syrup.
 
