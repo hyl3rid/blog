@@ -1,20 +1,15 @@
-import media1 from "./french-toast-rsz.jpg";
+import media1 from "./veggierice.jpg";
 import media2 from "./hummus.jpg";
 import media3 from "./custardberries.jpg";
 import media4 from "./ravioli.jpg";
-import media5 from "./croissant.jpg";
-import media6 from "./french-toast-1.jpg";
+import media5 from "./greencurry.jpg";
 import { FeaturedRecipes } from "../lib/types";
-
-// export const media = [media1, media2, media3, media4, media5];
-
-// export const mediaByIndex = (index: number) => media[index % media.length];
 
 export const media: FeaturedRecipes = {
   0: {
     img: media1,
-    url: "/frenchtoast",
-    title: "French Toasts",
+    url: "/veggierice",
+    title: "Veggie Rice",
   },
   1: {
     img: media2,
@@ -33,7 +28,7 @@ export const media: FeaturedRecipes = {
   },
   4: {
     img: media5,
-    url: "/croissant",
-    title: "Croissant",
+    url: "/greencurry",
+    title: "Thai Green Vegetable Curry",
   },
 };
