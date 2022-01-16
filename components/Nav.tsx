@@ -7,10 +7,14 @@ import { faSearch } from "@fortawesome/free-solid-svg-icons";
 import { Sidebar, Burger } from "./";
 
 const Wrapper = styled.div`
+  position: sticky;
+  top: 0;
+  left: 0;
   height: 6rem;
   border: none;
   background-color: var(--main);
   padding: 0 12.5rem;
+  z-index: 100;
 
   @media only screen and (${device.md}) {
     padding: 0 3rem;

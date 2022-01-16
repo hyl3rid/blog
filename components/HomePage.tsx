@@ -122,8 +122,6 @@ const HomePage = () => {
                 alt="Lasagna Meal"
                 layout="fill"
                 priority={true}
-                width={500}
-                height={500}
               />
             </a>
           </Link>
