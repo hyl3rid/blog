@@ -4,9 +4,9 @@ import styled from "styled-components";
 
 const Styled = styled.div`
   position: sticky;
-  top: 0;
+  top: 6rem;
   left: 0;
-  height: 100%;
+  height: 100vh;
   width: 100%;
   display: flex;
   align-items: center;
