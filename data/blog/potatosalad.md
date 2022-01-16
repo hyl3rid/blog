@@ -10,7 +10,7 @@ tags:
 
 # Potato Salad with Vegan Mayonnaise
 
-![Potato Salad with Apples and Celery](/potatosalad.jpg "image")
+![Potato Salad with Apples and Celery](/potatosalad-min.jpg "image")
 
 Potato salad with mayonnaise is rich, creamy, wholesome, and a perfect side with your main course, especially during the holiday season. Potato salad is versatile, and you can enjoy it by adding your favourite ingredients and vegetables to it. Similarly, by making mayonnaise at home, you can make the potato salad more tasteful and customize it according to your liking.
 
