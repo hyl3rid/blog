@@ -3,8 +3,10 @@ title: Handmade Mushroom Ravioli
 description: Earthy raviolis made with mushrooms and ricotta is a delicious recipe.
 publishedDate: November 7, 2021
 tags:
-  - mushroom
-  - ravioli
+  - french
+  - wine
+  - cream
+  - vegetarian
 ---
 
 # Handmade Mushroom Ravioli
@@ -38,7 +40,7 @@ Just like any other pasta, ravioli was originated in Italy around the 14th centu
 
 ### Ingredients
 
-**For the pasta dough:**  
+**For the Pasta dough:**  
 2 cups all-purpose flour  
 2 eggs  
 3 egg yolks
@@ -69,7 +71,8 @@ Salt, to taste
 **For the pasta dough:**  
 ⦁ In a large bowl, add all-purpose flour and make a well in the center. Add whole eggs and egg yolks. Whisk the eggs using a fork.  
 ⦁ Start adding flour from the sides onto the eggs and start mixing them using your hands. Continue to knead the ingredients until you get a dough.  
-⦁ Lastly, wrap it in clingfilm and refrigerate for 30 minutes.  
+⦁ Lastly, wrap it in clingfilm and refrigerate for 30 minutes.
+
 **For the mushroom filling:**  
 ⦁ Meanwhile, heat oil in a large pan.  
 ⦁ Add shallots and garlic, cook for a minute or until they are translucent.  
@@ -79,7 +82,7 @@ Salt, to taste
 
 **Assembly:**  
 ⦁ Roll out the pasta dough into a thin sheet using a machine or by hand as preferred.  
-⦁ Place the pasta sheet on a floured working surface. Place the filling of mushrooms in the sheet by an inch squared difference until you reach half of the sheet. With practice, you'll know your preferred size for the ravioli!
+⦁ Place the pasta sheet on a floured working surface. Place the filling of mushrooms in the sheet by an inch squared difference until you reach half of the sheet. With practice, you'll know your preferred size for the ravioli!  
 ⦁ Place the other end of the sheet so that it covers the mushroom mixture. Seal the sides by applying pressure of your fingers. If there is too much flour the sheets won't stick and you might need to add a little bit of water on one side to stick.  
 ⦁ Using a cutter, trim the sides around the filling so that you get small pockets of ravioli.  
 ⦁ Add water in a large pot, season it with salt, add oil and bring it to a boil. Add ravioli and cook for 4 minutes.
@@ -91,4 +94,4 @@ Salt, to taste
 ⦁ Add parmesan cheese and mix well.  
 ⦁ Add cooked ravioli straight from the boiling pot and toss.  
 ⦁ Serve.
-**Note:** You may add mozzarella cheese while boiling the cream to add more flavor and consistency.
+**Note:** You may add mozzarella cheese or another cheese the melts while boiling the cream to add more flavor and consistency.
