@@ -1,6 +1,6 @@
 ---
 title: Thai Green Vegetable Curry
-description: Made with different vegetables, a green Thai curry paste, creamy coconut milk. This curry is a feast for your eyes!
+description: Made with different vegetables, a green Thai curry paste, creamy coconut milk/cream. This curry is a feast for your eyes!
 publishedDate: November 7, 2021
 tags:
   - curry
@@ -17,7 +17,7 @@ Thai cuisine is known for its delicious curries. Whether it is white coconut cur
 
 ## Origin of Thai Green Curry
 
-Curries have a prominent place in Thai cuisine. So, it is safe to say that green curry is Thailand's authentic recipe. It originated from these lands. According to some food experts, Thai green curry originated in the early 1900s'. They had a mild green color that came from using fresh green chilies and coconut milk. Thanks to coconut milk, the flavors are not very overpowering but offer richness and creaminess.
+Curries have a prominent place in Thai cuisine. So, it is safe to say that green curry is Thailand's authentic recipe. It originated from these lands. According to some food experts, Thai green curry originated in the early 1900s'. They had a mild green color that came from using fresh green chilies and coconut milk/cream. Thanks to coconut milk/cream, the flavors are not very overpowering but offer richness and creaminess.
 
 ## Thai Green Vegetable Curry Recipe
 
@@ -41,29 +41,35 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ### Ingredients
 
 ½ cup onion, diced  
+2 cloves of garlic
+1 tbsp of ginger
 ⅔ cup red bell pepper, diced  
-⅔ cup sweet potato, peeled and diced  
+⅔ cup sweet potato/butternut squash, peeled and diced  
 1 cup green beans, trimmed and cut  
-⅔ cup summer squash, diced  
+⅔ cup zucchini, cubed  
 ⅔ cup eggplant, diced  
+⅔ cup cauliflower/broccoli  
 ⅔ cup bamboo shoots, sliced  
+3 cups of spinach
 ½ cup vegetable stock  
-14 ounces can coconut milk, full fat  
+14 ounces can coconut milk/cream, full fat  
 1/3 cup Thai green curry paste  
 2 tbsp tamari  
 2 tbsp brown sugar  
 Thai basil leaves, for garnish  
 Green or Red chilies, for garnish
+Lime juice for drizzling
 
 ### Instructions
 
-⦁ Firstly, open the can of coconut milk. Make sure you don't shape it. Spoon out about 1/3 cup of coconut milk from the top and add it into a medium-sized pot.  
-⦁ Add the remaining coconut milk into a large bowl. In the same bowl, pour the vegetable stock, tamari, and brown sugar. Mix well until the sugar dissolves. Set the bowl aside.  
-⦁ Place the pot over heat and cook until it starts to simmer. Reduce the heat to low and add green Thai paste. Let it cook for about 3 minutes. Keep stirring it.  
-⦁ Add diced onions, squash, red bell pepper, zucchini, green beans, bamboo shoots, eggplant, and sweet potato.  
-⦁ Mix the ingredients and let them cook for about 3 minutes.  
-⦁ Pour the coconut milk and vegetable stock mixture and turn up the heat to medium. Bring the mixture to a boil.  
+⦁ Open the can of coconut milk/cream and pour into a large bowl. Pour and mix the vegetable stock, tamari, and brown sugar into the bowl. Mix well until the sugar dissolves. Set the bowl aside.  
+⦁ Place a pot over heat, drizzil olive oil to cook the onions, red bell pepper, garlic and ginger. Then add the sweet potato/butternut squash and cook for 5 minutes.  
+⦁ Reduce the heat to low and add green Thai paste. Keep stirring it. Let it cook for about 3 minutes.  
+⦁ Pour the coconut milk/cream mixture and mix so all the ingredient incorporate. Turn up the heat to medium and bring the mixture to a boil.  
+⦁ Add zucchini, cauliflower/broccoli, green beans, bamboo shoots, eggplant and spinach.  
 ⦁ Lower the heat and let it simmer for about 10 minutes or until the vegetables are tender.  
+⦁ Incorporate the cornstarch with a little of water.  
+⦁ Add the cornstarch with the coconut milk/cream and let the sauce thicken.  
 ⦁ Remove the curry from heat, squeeze lime and mix well.  
 ⦁ Garnish with Thai basil and green chilis. Serve alongside jasmine rice. Enjoy.  
 **Note**: You can add different vegetables like broccoli, cauliflower, zucchini, carrots, peas, etc., to this recipe.

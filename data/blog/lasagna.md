@@ -49,7 +49,7 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 ⦁ half of small eggplant  
 ⦁ 2 cups of mushrooms cremini, sliced  
 ⦁ 3 cups fresh spinach, roughly chopped  
-⦁ 1 tbps of thyme
+⦁ 1 tbps of thyme and oregano  
 ⦁ salt and black pepper, to taste
 
 **For the béchamel sauce:**  

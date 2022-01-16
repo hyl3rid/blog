@@ -108,6 +108,7 @@ const BlogPosts = ({ posts }: BlogPostsProps) => {
                           src={`/${post.slug}.jpg`}
                           layout="fill"
                           priority={true}
+                          alt={`${post.frontMatter.title}`}
                         />
                       </ImageWrapper>
                     </a>
