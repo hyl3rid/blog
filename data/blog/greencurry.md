@@ -3,8 +3,8 @@ title: Thai Green Vegetable Curry
 description: Made with different vegetables, a green Thai curry paste, creamy coconut milk/cream. This curry is a feast for your eyes!
 publishedDate: November 7, 2021
 tags:
-  - curry
-  - vegetables
+  - dinner
+  - lunch
 ---
 
 # Thai Green Vegetable Curry
@@ -40,25 +40,26 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 
 ### Ingredients
 
-½ cup onion, diced  
-2 cloves of garlic
-1 tbsp of ginger
-⅔ cup red bell pepper, diced  
-⅔ cup sweet potato/butternut squash, peeled and diced  
-1 cup green beans, trimmed and cut  
-⅔ cup zucchini, cubed  
-⅔ cup eggplant, diced  
-⅔ cup cauliflower/broccoli  
-⅔ cup bamboo shoots, sliced  
-3 cups of spinach
-½ cup vegetable stock  
-14 ounces can coconut milk/cream, full fat  
-1/3 cup Thai green curry paste  
-2 tbsp tamari  
-2 tbsp brown sugar  
-Thai basil leaves, for garnish  
-Green or Red chilies, for garnish
-Lime juice for drizzling
+⦁ ½ cup onion, diced  
+⦁ 2 cloves of garlic
+⦁ 1 tbsp of ginger
+⦁ ⅔ cup red bell pepper, diced  
+⦁ ⅔ cup sweet potato/butternut squash, peeled and diced  
+⦁ 1 cup green beans, trimmed and cut  
+⦁ ⅔ cup zucchini, cubed  
+⦁ ⅔ cup eggplant, diced  
+⦁ ⅔ cup cauliflower/broccoli  
+⦁ ⅔ cup bamboo shoots, sliced  
+⦁ 3 cups of spinach
+⦁ ½ cup vegetable stock  
+⦁ 14 ounces can coconut milk/cream, full fat  
+⦁ 1/3 cup Thai green curry paste  
+⦁ 1 tbsp of cornstarch  
+⦁ 2 tbsp tamari  
+⦁ 2 tbsp brown sugar  
+⦁ Thai basil leaves, for garnish  
+⦁ Green or Red chilies, for garnish
+⦁ Lime juice for drizzling
 
 ### Instructions
 
@@ -68,8 +69,7 @@ Lime juice for drizzling
 ⦁ Pour the coconut milk/cream mixture and mix so all the ingredient incorporate. Turn up the heat to medium and bring the mixture to a boil.  
 ⦁ Add zucchini, cauliflower/broccoli, green beans, bamboo shoots, eggplant and spinach.  
 ⦁ Lower the heat and let it simmer for about 10 minutes or until the vegetables are tender.  
-⦁ Incorporate the cornstarch with a little of water.  
-⦁ Add the cornstarch with the coconut milk/cream and let the sauce thicken.  
+⦁ Dissolve the cornstarch with a little of water.  
+⦁ Add the cornstarch into the pot and let the sauce thicken.  
 ⦁ Remove the curry from heat, squeeze lime and mix well.  
-⦁ Garnish with Thai basil and green chilis. Serve alongside jasmine rice. Enjoy.  
-**Note**: You can add different vegetables like broccoli, cauliflower, zucchini, carrots, peas, etc., to this recipe.
+⦁ Garnish with Thai basil and green chilis. Serve alongside jasmine rice. Enjoy.
