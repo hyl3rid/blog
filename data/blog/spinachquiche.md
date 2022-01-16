@@ -57,7 +57,7 @@ Salt, to taste
 - Using a fork, poke small holes at the bottom and sides of the pie crust.
 - Place the pan in a preheated oven at 400 degrees F for about 12 minutes or until you get a golden color and it is fully cooked.
 - Once done, take the baking pan out of the oven and set it aside for later use.
-- Meanwhile, the crust is cooking, melt butter in a saucepan. Add sliced onions and saute it for about 3 minutes until it turns translucent. Add minced garlic and cook for a minute until fragrant. Add fresh baby spinach and cook for 2 to 3 minutes until it withers. Once done, take the pan off the heat and set it aside to reach room temperature.
+- While the crust is baking, melt butter in a saucepan. Add sliced onions and saute it for about 3 minutes until it turns translucent. Add minced garlic and cook for a minute until fragrant. Add fresh baby spinach and cook for 2 to 3 minutes until it withers. Once done, take the pan off the heat and set it aside to reach room temperature.
 - Whisk eggs in a medium bowl. Add heavy cream, black pepper, and salt. Mix well.
 - Once the pie crust is cool, place the onion and spinach mixture at the bottom of the pie.
 - Next, sprinkle shredded cheddar cheese evenly.

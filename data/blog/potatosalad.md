@@ -1,6 +1,6 @@
 ---
-title: Potato Salad with Homemade Vegan Mayonnaise
-description: Potato salad with homemade mayonnaise is rich, creamy, wholesome, and a perfect side with your main course.
+title: Potato Salad with Vegan Mayonnaise
+description: Potato salad with mayonnaise is rich, creamy, wholesome, and a perfect side with your main course.
 publishedDate: December 17, 2021
 tags:
   - Mayonnaise
@@ -8,13 +8,13 @@ tags:
   - potato
 ---
 
-# Potato Salad with Homemade Vegan Mayonnaise
+# Potato Salad with Vegan Mayonnaise
 
 ![Potato Salad with Apples and Celery](/potatosalad.jpg "image")
 
-Potato salad with homemade mayonnaise is rich, creamy, wholesome, and a perfect side with your main course, especially during the holiday season. Potato salad is versatile, and you can enjoy it by adding your favourite ingredients and vegetables to it. Similarly, by making mayonnaise at home, you can make the potato salad more tasteful and customize it according to your liking.
+Potato salad with mayonnaise is rich, creamy, wholesome, and a perfect side with your main course, especially during the holiday season. Potato salad is versatile, and you can enjoy it by adding your favourite ingredients and vegetables to it. Similarly, by making mayonnaise at home, you can make the potato salad more tasteful and customize it according to your liking.
 
-## Origin of Potato Salad with Homemade Mayonnaise
+## Origin of Potato Salad with Mayonnaise
 
 Mayonnaise is an integral part of potato salad today, but it wasn&#39;t like this forever. Since potato salad was invented years before mayonnaise, the early version of potato salad was made by boiling the potatoes in wine and serving them with spices. Potato salad is believed to have originated from Germany. It was from here that it spread into Europe and then in Asia. You can also find potato salad in Japanese cuisine, and they widely use mayonnaise.
 
@@ -22,7 +22,7 @@ In the year 1756, a French chef made accidentally created mayonnaise. It was pre
 
 No one knows when mayonnaise became a part of potato salad. Some believe that it happened in the 1900s when mayonnaise made its way into the market. However, many believe that it was in America that people started to add mayonnaise to potato salad.
 
-## Potato Salad with Homemade Mayonnaise Recipe
+## Potato Salad with Mayonnaise Recipe
 
 **Preparation time:** 15 minutes  
 **Cooking time:** 20 minutes  
@@ -56,7 +56,7 @@ Salt, to taste
 1 celery stalks, diced  
 ¼ cup red onion, diced  
 ½ tbsp parsley, freshly chopped  
-1 cup homemade mayonnaise  
+1 cup mayonnaise  
 ¼ tbsp apple cider vinegar  
 ½ tbsp Dijon mustard  
 Black pepper, to taste  

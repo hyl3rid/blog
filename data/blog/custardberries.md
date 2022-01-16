@@ -40,18 +40,17 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 
 ### Ingredients
 
-**For the Shell:**
+**For the Shell:**  
 1 cup all-purpose flour  
 1 egg  
 ¼ cup butter, cut into pieces  
 1 Tbsp granulated sugar  
 A pinch salt
 
-**For the custard:**
-¾ cup full-fat milk  
-2 egg yolks  
+**For the custard:**  
+2 cups coconut milk or coconut cream  
 2 tbsp granulated sugar  
-2 tbsp cornstarch  
+4 tbsp cornstarch  
 1 tsp vanilla extract
 
 **For topping:**
@@ -59,6 +58,9 @@ A pinch salt
 Fresh strawberries  
 Fresh blueberries  
 Fresh raspberries
+Fresh Kiwi
+Fresh Peach
+Agar Agar
 
 ### Instructions
 
@@ -78,9 +80,8 @@ Fresh raspberries
 
 **For the custard**
 
-- In a saucepan, pour milk. Add sugar, vanilla. Place the saucepan on medium heat.
-- Add cornflour and about 2 tbsp water to form a slurry in a separate bowl. Add egg yolks and beat with a hand blender or whisk until everything is well incorporated.
-- Once the milk mixture heats up, take the saucepan off the heat and let it sit for some time so that the milk mixture is warm but not very hot.
-- Slowly pour the egg yolk mixture into the saucepan while mixing at medium-low speed. Once everything is incorporated, place the saucepan back on medium/low heat. Let it cook for 5 minutes until the mixture thickens up. Stir constantly.
+- In a saucepan, pour coconut milk/cream. Add sugar, vanilla. Place the saucepan on medium heat.
+- Add cornstarch and about 2 tbsp water to form a slurry in a separate small bowl. Add the cornstarch with water and whisk until everything is well incorporated.
+- Once the milk mixture heats up lower the heat, add the cornstarch with water mixture and let it cook for 5 minutes until the mixture thickens up. Stir constantly.
 - Once done, remove the saucepan from heat and let it cool down a bit. Pour it into the tart shell and place it in the refrigerator for at least an hour to set.
-- Just before serving, garnish the custard tart with fresh berries and fruits. Arrange them in a circle and enjoy!
+- Just before serving, garnish the custard tart with fresh berries and fruits. Arrange them in a circle and add melted agar agar with sugar on top of the fruits to give them a brilliant color.

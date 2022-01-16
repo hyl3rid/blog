@@ -41,14 +41,11 @@ Crepes are a type of pancake that is super thin. They are served as both sweet a
 
 ### Ingredients
 
-**For the crepes:**
-
-2 cups all-purpose flour  
-1 ½ cup almond milk or sparkling water  
-1 tbsp maple syrup  
-½ tbsp cornstartch  
-A pinch salt  
-Melted vegan butter for cooking
+**For the Pectin:**
+5 full Apple peels or Citrus rinds  
+1 cups of water  
+¼ cup of lemon juice  
+Rubbing alcohol to test the pectin
 
 **For the strawberry jelly:**
 
@@ -57,10 +54,22 @@ Melted vegan butter for cooking
 1 tbsp Pectin  
 ¼ tbsp Lemon juice
 
+**For the Crepes:**
+
+2 cups All-Purpose Flour  
+1 ½ cup Almond Milk or Sparkling Water  
+1 tbsp Maple Syrup  
+½ tbsp Cornstartch  
+A pinch Salt  
+Melted Vegan Butter for cooking
+
 ### Instructions
 
-**For the strawberry jelly:**
+**For the Strawberry Jelly:**
 
+- To extract pectin boil in a large pot water with apple peel or citrus rinds. When it starts boiling, lower the heat to simmer. Let is simmer for 15-20 minutes.
+- Place the peels or rinds in the colander with a strainer cloth. Let the pectin rest for 4 hours.
+- To test the pectin, in a tablespoon pour a little of rubbing alcohol and then pectin. It should form a ball of jelly. This way we will know it will jellify the jelly.
 - Wash the strawberries, remove the crown, and cut them in half. Place them in a bowl.
 - Add strawberries, and sugar in a medium-sized saucepan. Stir in order that everything is well combined.
 - Place the saucepan over medium heat and occasionally stir until the sugar dissolves. Let the mixture reach boiling. Reduce the heat to low and let it simmer for 5 minutes. Skim off any foam.

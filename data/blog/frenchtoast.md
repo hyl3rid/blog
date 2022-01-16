@@ -42,6 +42,12 @@ Moreover, another theory suggests that Joseph French invented the dish in the 17
 
 ### Ingredients
 
+**For the Pectin:**
+5 full Apple peels or Citrus rinds  
+1 cups of water  
+¼ cup of lemon juice  
+Rubbing alcohol to test the pectin
+
 **For the blueberry jelly:**
 
 1 ½ cup fresh blueberry  
@@ -63,6 +69,7 @@ Coconut oil for frying
 
 **For the blueberry jelly:**
 
+- To extract pectin boil in water apple peel or citrus rinds.
 - Wash the blueberries and place them in a saucepan over medium heat with the sugar. Let them cook for about 10 minutes. Mix once in a while.
 - After the sugar and the blueberries have been cooked, add pectin and lemon juice. Stir so that everything is well combined.
 - Place the saucepan over medium heat and bring it to a boil.
