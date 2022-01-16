@@ -1,5 +1,5 @@
 ---
-title: Potato Salad with Mayonnaise
+title: Potato Salad with Homemade Vegan Mayonnaise
 description: Potato salad with homemade mayonnaise is rich, creamy, wholesome, and a perfect side with your main course.
 publishedDate: December 17, 2021
 tags:
@@ -8,7 +8,7 @@ tags:
   - potato
 ---
 
-# Potato Salad with Homemade Mayonnaise
+# Potato Salad with Homemade Vegan Mayonnaise
 
 ![Potato Salad with Apples and Celery](/potatosalad.jpg "image")
 
@@ -43,11 +43,12 @@ No one knows when mayonnaise became a part of potato salad. Some believe that it
 
 ### Ingredients
 
-**For the mayonnaise:**  
-2 egg yolk  
+**For the vegan mayonnaise:**  
+1/4 of aquafaba
 ½ cup olive oil  
-3 tbsp lemon juice  
+1 ½ tbsp lemon juice  
 1 tsp mustard  
+oil as needed
 Salt, to taste
 
 **For the potato salad:**  
@@ -68,12 +69,12 @@ Salt, to taste
 
 **For the mayonnaise:**
 
-1. Add egg yolks, mustard, lemon juice, and salt in a high-speed blender jug. Blend at high speed until the mixture is creamy.
-2. Set the blender speed to low and slowly drizzle olive oil. Let the mixture blend for a few seconds until you get a creamy consistency of mayonnaise. Take the mayonnaise out of the blender into a jar. Refrigerate until use.
+1. Add aquafaba, mustard, lemon juice, and salt in a inmersion blender jug. Note I didn't have success using a traditional blender as it would sprinkle everything. Blend for 2 minutes until creamy texture.
+2. Continue to blend and slowly add drizzled olive oil for a moment, then stop adding oil and blend everything and add more oil slowly. Continue blending and adding oil until the desired consistency is obtained. This is thanks to emulsification.
 
 **For the potato salad:**
 
-1. Fill a large pot with water and place it on medium heat. Add washed and scrubbed potatoes and boil them for 15 to 20 minutes or until they are cooked.
+1. Fill a large pot with water and place it on medium heat. Add washed and scrubbed potatoes and boil them for 15 to 20 minutes or until they are cooked. 03
 2. Drain the potatoes, peel them and cut them into inch cubes. Place the potato cubes in a large bowl.
 3. Once the potatoes are cool enough, add mayonnaise, eggs, celery, apple, red onions, parsley, apple cider vinegar, Dijon mustard, paprika, black pepper, and salt.
 4. Mix the ingredients thoroughly until everything is unified, and get a creamy salad.
