@@ -44,11 +44,11 @@ No one knows when mayonnaise became a part of potato salad. Some believe that it
 ### Ingredients
 
 **For the vegan mayonnaise:**  
-1/4 of aquafaba
+1/4 of aquafaba  
 ½ cup olive oil  
 1 ½ tbsp lemon juice  
 1 tsp mustard  
-oil as needed
+oil as needed  
 Salt, to taste
 
 **For the potato salad:**  
