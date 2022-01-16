@@ -1,6 +1,6 @@
 import media1 from "./french-toast-rsz.jpg";
 import media2 from "./hummus.jpg";
-import media3 from "./lasagna.jpg";
+import media3 from "./custardberries.jpg";
 import media4 from "./ravioli.jpg";
 import media5 from "./croissant.jpg";
 import media6 from "./french-toast-1.jpg";
