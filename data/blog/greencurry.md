@@ -65,5 +65,5 @@ Green or Red chilies, for garnish
 ⦁ Pour the coconut milk and vegetable stock mixture and turn up the heat to medium. Bring the mixture to a boil.  
 ⦁ Lower the heat and let it simmer for about 10 minutes or until the vegetables are tender.  
 ⦁ Remove the curry from heat, squeeze lime and mix well.  
-⦁ Garnish with Thai basil and green chilis. Serve alongside jasmine rice. Enjoy.
+⦁ Garnish with Thai basil and green chilis. Serve alongside jasmine rice. Enjoy.  
 **Note**: You can add different vegetables like broccoli, cauliflower, zucchini, carrots, peas, etc., to this recipe.

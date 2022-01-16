@@ -43,6 +43,7 @@ const Label = styled.div`
   width: 100%;
   background-color: rgb(2, 0, 14, 0.5);
   bottom: 0;
+  left: 0;
   z-index: 5;
   display: flex;
   justify-content: center;
@@ -51,6 +52,7 @@ const Label = styled.div`
   .text {
     z-index: 10;
     color: #fff;
+    margin: 0;
   }
 `;
 

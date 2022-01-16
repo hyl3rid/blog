@@ -5,6 +5,7 @@ publishedDate: November 7, 2021
 tags:
   - italian
   - lasagna
+  - bechamel
 ---
 
 # Vegetable Lasagna
@@ -38,27 +39,28 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 
 ### Ingredients
 
-10-ounce vegan lasagna sheets, cooked  
-3 cup vegan mozzarella cheese, shredded  
-¼ cup vegan parmesan cheese, grated  
-1 tbsp olive oil  
-1 small onion, sliced  
-2 garlic cloves, minced  
-1 small zucchini, sliced  
-half of small eggplant
-2 cups of mushrooms cremini, sliced  
-3 cups fresh spinach, roughly chopped  
-1 tbps of thyme
-Salt and black pepper, to taste
+⦁ 10-ounce vegan lasagna sheets, cooked  
+⦁ 3 cup vegan mozzarella cheese, shredded  
+⦁ ¼ cup vegan parmesan cheese, grated  
+⦁ 1 tbsp olive oil  
+⦁ 1 small onion, sliced  
+⦁ 2 garlic cloves, minced  
+⦁ 1 small zucchini, sliced  
+⦁ half of small eggplant  
+⦁ 2 cups of mushrooms cremini, sliced  
+⦁ 3 cups fresh spinach, roughly chopped  
+⦁ 1 tbps of thyme
+⦁ salt and black pepper, to taste
 
-**For the Béchamel Sauce:**  
-¼ cup flour  
-¾ cups soy milk  
-4 tbsp olive oil  
-A pinch nutmeg
+**For the béchamel sauce:**  
+⦁ ¼ cup flour  
+⦁ ¾ cups soy milk  
+⦁ 4 tbsp olive oil  
+⦁ A pinch nutmeg
 
 ### Instructions
 
+**For the vegetable filling**
 ⦁ Slice the eggplant into rounds and add salt to each side. Place the rounds in a colander with a bowl underneath to catch the liquid from the eggplant.
 ⦁ In a large bowl, add mozzarella cheese and grated parmesan cheese. Mix well and set aside.  
 ⦁ Heat olive oil over medium heat in a skillet.  
@@ -67,7 +69,7 @@ A pinch nutmeg
 ⦁ Add mushrooms, eggplant and zucchini.
 ⦁ Add tomato paste, tomatoes, roasted red pepper, Italian seasoning, salt, and black pepper. Cook until the consistency of the sauce is thick by evaporation.
 
-**For the Béchamel Sauce:**  
+**For the béchamel sauce:**  
 ⦁ In a saucepan, add olive oil and place it on medium-low heat. Add flour and whisk it slowly for about 2 minutes.  
 ⦁ Take the saucepan off the heat and slowly pour warm soy milk while whisking. Once you have poured all the soy milk, place the saucepan back on the heat and continue to whisk until no lumps are left.  
 ⦁ Let the mixture cook for about 5 minutes until it is creamy and thick. Add a pinch of nutmeg and season with salt and black pepper according to your liking.

@@ -45,23 +45,23 @@ Here are a few variation ideas you will enjoy when it comes to making rice with 
 
 ### Ingredients
 
-⦁ 2 tbsp cooking Oil  
-⦁ 2 cups long-grain white Jasmine Rice  
-⦁ 2 ½ cups Water  
-⦁ 1 small White Onion  
-⦁ 2 Garlic Cloves, minced  
-⦁ 1 tbsp Ginger  
-⦁ 3 tbsp Soy Sauce  
-⦁ 1 tbsp Sesame Oil  
-⦁ 1 Vegetable Stock  
-⦁ ½ cup Carrots, diced  
-⦁ ½ cup Zucchini  
-⦁ ½ cup Green Peas  
-⦁ ½ cup Broccoli Florets  
-⦁ ½ cup Mushrooms of choice  
-⦁ ¼ cup of Roasted Cashew  
-⦁ ¼ cup Green Onions, chopped  
-Sesame Seeds to sprinkle
+⦁ 2 tbsp cooking oil  
+⦁ 2 cups long-grain white jasmine rice  
+⦁ 2 ½ cups water  
+⦁ 1 small white onion  
+⦁ 2 garlic cloves, minced  
+⦁ 1 tbsp ginger  
+⦁ 3 tbsp soy sauce  
+⦁ 1 tbsp sesame oil  
+⦁ 1 vegetable stock  
+⦁ ½ cup carrots, diced  
+⦁ ½ cup zucchini  
+⦁ ½ cup green peas  
+⦁ ½ cup broccoli florets  
+⦁ ½ cup mushrooms of choice  
+⦁ ¼ cup of roasted cashew  
+⦁ ¼ cup green onions, chopped  
+⦁ sesame seeds to sprinkle
 
 ### Instructions
 

@@ -34,14 +34,14 @@ Whatever the story is true, we are just happy that we have croissants. They are 
 
 ### Nutritional information
 
-⦁ **Calories:** 203 kCal
-⦁ **Protein:** 3.1g
-⦁ **Fat:** 13.2g
-⦁ **Carbohydrate:** 18.3g
-⦁ **Cholesterol:** 50mg
-⦁ **Sodium:** 382mg
-⦁ **Calcium:** 12mg
-⦁ **Iron:** 1mg
+⦁ **Calories:** 203 kCal  
+⦁ **Protein:** 3.1g  
+⦁ **Fat:** 13.2g  
+⦁ **Carbohydrate:** 18.3g  
+⦁ **Cholesterol:** 50mg  
+⦁ **Sodium:** 382mg  
+⦁ **Calcium:** 12mg  
+⦁ **Iron:** 1mg  
 ⦁ **Potassium:** 48mg
 
 ### Ingredients
@@ -54,27 +54,26 @@ Whatever the story is true, we are just happy that we have croissants. They are 
 ⦁ 2 tbsp lukewarm water  
 ⦁ 1 ½ tsp salt
 
-**For the egg wash:**
+**For the egg wash:**  
+⦁ 1 beaten egg as needed
 
-1 beaten egg as needed
+### Instructions
 
-Instructions
-
-⦁ In a small bowl add the yeast, a bit of sugar and lukewarm water and mix. The yeast should form a foam when in good state. You may add a little of sugar to stregthen the yeast.
-⦁ In a standing mixer bowl, add sieved white bread flour. Add granulated white sugar as well. Give it a quick whisk to incorporate everything together.
-⦁ Mix whole fat milk and yeast mixture and pour into the bowl with the dry ingredients. Using a hook attachment, start kneading the dough at low to medium speed for about 7 minutes until everything is well incorporated and you get a soft to touch dough.
-⦁ Stop the mixer, scrape off the sides of the bowl and knead again for 5 minutes as gluten needs to be built to give strenght to the dought.
-⦁ Remove the attachment, and cover the bowl with a clean kitchen towel. Let it sit for about 40 minutes at room temperature so that it rests and rises.
-⦁ After 40 minutes, the dough will increase in size and will be airy. Take it out of the bowl onto a floured surface. Knead it and shape it into a ball.
-⦁ Using a rolling pin, roll it into a rectangle and place it onto a parchment-lined baking tray. Place the tray in the freezer for about 30 minutes or until it is chilled.
-⦁ Remove the tray from the freezer and place the flattened dough on a floured surface.
-⦁ Place softened butter block on the dough flattened dough and, using a rolling pin, flatten it further to spread it across the dough&#39;s length.
-⦁ Fold the rectangle, roll it using a rolling pin and then fold it again. Rotate it to 90 degrees and roll it again. Fold for about 2 to 3 times. Place back in the refrigerator for 30 minutes.
-⦁ Take it out of the refrigerator, and roll it into a ¼ inch thick rectangular sheet. It should be 24 x 50 cm.
-⦁ Using a sharp knife, trim the edges of the rectangle. Cut the dough into equal sized triangles. Make a small slit at the base of every triangle.
-⦁ Now take a triangle and gently stretch it. From the base, where you have made the cut, slowly start rolling it towards the tip of the triangle. Make sure you roll it gently so that you don&#39;t press the dough.
-⦁ Similarly, roll out all the triangles and place them on a parchment lined baking tray.
-⦁ In a separate bowl, whisk together egg white, egg yolk, and milk. Using a brush, brush each croissant with egg wash.
-⦁ Place the baking tray in the oven without starting it yet. Turn on the light and let the croissants rise for about 2 hours.
-⦁ Now, take the baking tray out of the oven, brush it again with egg wash and place it back in a preheated oven at 350 degrees F for about 12 to 14 minutes or until the croissants are airy and get a golden color.
+⦁ In a small bowl add the yeast, a bit of sugar and lukewarm water and mix. The yeast should form a foam when in good state. You may add a little of sugar to stregthen the yeast.  
+⦁ In a standing mixer bowl, add sieved white bread flour. Add granulated white sugar as well. Give it a quick whisk to incorporate everything together.  
+⦁ Mix whole fat milk and yeast mixture and pour into the bowl with the dry ingredients. Using a hook attachment, start kneading the dough at low to medium speed for about 7 minutes until everything is well incorporated and you get a soft to touch dough.  
+⦁ Stop the mixer, scrape off the sides of the bowl and knead again for 5 minutes as gluten needs to be built to give strenght to the dought.  
+⦁ Remove the attachment, and cover the bowl with a clean kitchen towel. Let it sit for about 40 minutes at room temperature so that it rests and rises.  
+⦁ After 40 minutes, the dough will increase in size and will be airy. Take it out of the bowl onto a floured surface. Knead it and shape it into a ball.  
+⦁ Using a rolling pin, roll it into a rectangle and place it onto a parchment-lined baking tray. Place the tray in the freezer for about 30 minutes or until it is chilled.  
+⦁ Remove the tray from the freezer and place the flattened dough on a floured surface.  
+⦁ Place softened butter block on the dough flattened dough and, using a rolling pin, flatten it further to spread it across the dough&#39;s length.  
+⦁ Fold the rectangle, roll it using a rolling pin and then fold it again. Rotate it to 90 degrees and roll it again. Fold for about 2 to 3 times. Place back in the refrigerator for 30 minutes.  
+⦁ Take it out of the refrigerator, and roll it into a ¼ inch thick rectangular sheet. It should be 24 x 50 cm.  
+⦁ Using a sharp knife, trim the edges of the rectangle. Cut the dough into equal sized triangles. Make a small slit at the base of every triangle.  
+⦁ Now take a triangle and gently stretch it. From the base, where you have made the cut, slowly start rolling it towards the tip of the triangle. Make sure you roll it gently so that you don&#39;t press the dough.  
+⦁ Similarly, roll out all the triangles and place them on a parchment lined baking tray.  
+⦁ In a separate bowl, whisk together egg white, egg yolk, and milk. Using a brush, brush each croissant with egg wash.  
+⦁ Place the baking tray in the oven without starting it yet. Turn on the light and let the croissants rise for about 2 hours.  
+⦁ Now, take the baking tray out of the oven, brush it again with egg wash and place it back in a preheated oven at 350 degrees F for about 12 to 14 minutes or until the croissants are airy and get a golden color.  
 ⦁ Once done, take them out of the oven and transfer them to the cooling rack to cool down completely. Enjoy!

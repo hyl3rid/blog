@@ -41,19 +41,19 @@ Just like any other pasta, ravioli was originated in Italy around the 14th centu
 ### Ingredients
 
 **For the Pasta dough:**  
-2 cups all-purpose flour  
+2 cups all-purpose Flour  
 2 eggs  
-3 egg yolks
+3 egg Yolks
 
 **For the filling:**  
-5 cups crimini mushrooms, sliced  
+5 cups cremini mushrooms, sliced  
 200g of ricotta cheese
 2 tbsp grated parmesan  
 2 shallots, finely chopped  
 2 garlic cloves, minced  
 ½ tsp parsley, chopped  
 1 tbsp olive oil  
-Black pepper, to taste  
+black pepper, to taste  
 Salt, to taste
 
 **For the sauce:**  
@@ -63,7 +63,7 @@ Salt, to taste
 1 clove garlic  
 2 tbsp grated parmesan  
 ½ tsp fresh thyme, chopped  
-Black pepper, to taste  
+black pepper, to taste  
 Salt, to taste
 
 ### Instructions
@@ -94,4 +94,4 @@ Salt, to taste
 ⦁ Add parmesan cheese and mix well.  
 ⦁ Add cooked ravioli straight from the boiling pot and toss.  
 ⦁ Serve.
-**Note:** You may add mozzarella cheese or another cheese the melts while boiling the cream to add more flavor and consistency.
+**Note:** You may add mozzarella or cheddar the melts while boiling the cream to add more flavor and consistency.

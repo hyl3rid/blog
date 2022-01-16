@@ -56,7 +56,7 @@ Although hamburgers are traditionally made from minced beef, the first-ever "veg
 ⦁ 1 cup short-grain brown rice, cooked  
 ⦁ ½ cup panko bread crumbs, divided  
 ⦁ Salt, to taste  
-⦁ black pepper, to taste  
+⦁ Black pepper, to taste  
 ⦁ Lettuce leaves, for serving  
 ⦁ Tomato slices, for serving  
 ⦁ Cucumber slices, for serving  

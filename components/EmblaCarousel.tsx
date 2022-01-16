@@ -29,7 +29,7 @@ const Wrapper = styled.div`
     }
 
     .label {
-      height: 6rem;
+      height: unset;
       position: absolute;
       z-index: 10;
       width: 100%;
@@ -40,6 +40,7 @@ const Wrapper = styled.div`
 
       & p {
         color: #fff;
+        margin: 0;
         z-index: 15;
         font-weight: 500;
         font-size: 2.5rem;
