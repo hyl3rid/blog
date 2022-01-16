@@ -45,10 +45,9 @@ No one knows when mayonnaise became a part of potato salad. Some believe that it
 
 **For the vegan mayonnaise:**  
 1/4 of aquafaba  
-½ cup olive oil  
 1 ½ tbsp lemon juice  
 1 tsp mustard  
-oil as needed  
+olive oil as needed  
 Salt, to taste
 
 **For the potato salad:**  
@@ -57,7 +56,7 @@ Salt, to taste
 1 celery stalks, diced  
 ¼ cup red onion, diced  
 ½ tbsp parsley, freshly chopped  
-½ cup homemade mayonnaise  
+1 cup homemade mayonnaise  
 ¼ tbsp apple cider vinegar  
 ½ tbsp Dijon mustard  
 Black pepper, to taste  
