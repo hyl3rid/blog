@@ -9,7 +9,7 @@ export const media: FeaturedRecipes = {
   0: {
     img: media1,
     url: "/veggierice",
-    title: "Veggie Rice",
+    title: "Jasmine Rice with Broccoli, Mushrooms and Cashews",
   },
   1: {
     img: media2,
@@ -24,7 +24,7 @@ export const media: FeaturedRecipes = {
   3: {
     img: media4,
     url: "/ravioli",
-    title: "Ravioli",
+    title: "Handmade Mushroom Ravioli",
   },
   4: {
     img: media5,

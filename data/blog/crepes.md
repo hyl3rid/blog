@@ -41,7 +41,7 @@ Crepes are a type of pancake that is super thin. They are served as both sweet a
 
 ### Ingredients
 
-**For the Pectin:**
+**For the Pectin:**  
 5 full Apple peels or Citrus rinds  
 1 cups of water  
 ¼ cup of lemon juice  
