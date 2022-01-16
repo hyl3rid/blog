@@ -52,7 +52,7 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ⦁ ⅔ cup bamboo shoots, sliced  
 ⦁ 3 cups of spinach
 ⦁ ½ cup vegetable stock  
-⦁ 14 ounces can coconut milk/cream, full fat  
+⦁ 2 cans of coconut milk/cream, full fat  
 ⦁ 1/3 cup Thai green curry paste  
 ⦁ 1 tbsp of cornstarch  
 ⦁ 2 tbsp tamari  
