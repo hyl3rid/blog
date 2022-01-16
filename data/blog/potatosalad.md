@@ -60,8 +60,6 @@ Salt, to taste
 ½ cup homemade mayonnaise  
 ¼ tbsp apple cider vinegar  
 ½ tbsp Dijon mustard  
-¼ tsp paprika  
-2 hard-boiled eggs, peeled and chopped (optional)  
 Black pepper, to taste  
 Salt, to taste
 
@@ -74,8 +72,8 @@ Salt, to taste
 
 **For the potato salad:**
 
-1. Fill a large pot with water and place it on medium heat. Add washed and scrubbed potatoes and boil them for 15 to 20 minutes or until they are cooked. 03
+1. Fill a large pot with water and place it on medium heat. Add washed and scrubbed potatoes and boil them for 15 to 20 minutes or until they are cooked.
 2. Drain the potatoes, peel them and cut them into inch cubes. Place the potato cubes in a large bowl.
-3. Once the potatoes are cool enough, add mayonnaise, eggs, celery, apple, red onions, parsley, apple cider vinegar, Dijon mustard, paprika, black pepper, and salt.
+3. Once the potatoes are cool enough, add mayonnaise, celery, apple, red onions, parsley, apple cider vinegar, Dijon mustard, black pepper, and salt.
 4. Mix the ingredients thoroughly until everything is unified, and get a creamy salad.
-5. Place the salad in the refrigerator and serve chilled. Enjoy.
+5. Place the salad in the refrigerator and serve chilled. Garnish with parsley.
