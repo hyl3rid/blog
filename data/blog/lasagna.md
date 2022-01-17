@@ -64,10 +64,10 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 **For the vegetable filling**
 ⦁ Slice the eggplant into rounds and add salt to each side. Place the rounds in a colander with a bowl underneath to catch the liquid from the eggplant.  
 ⦁ In a large bowl, add mozzarella cheese and grated parmesan cheese. Mix well and set aside.  
-⦁ Heat the oven to 400 degrees F and oil a baking dish.
+⦁ Heat the oven to 400 degrees F and oil a baking dish.  
 ⦁ Trim sides of the onions and cut in fourths. Crush garlic to remove peel and core. Cut the tomato into 4 pieces. Place the onions, garlic, mushrooms, tomatoes, red pepper and zucchini in the baking dish and drizzle generously with olive oil, add salt and herbs.  
 ⦁ Into the oven, let it cook for 30 minutes.  
-⦁ After the vegetables are cooked in the oven, take them out and place the garlic, onions and the tomatoes in a saucepan. Crush the garlic, onions and the tomatoes, they should be soft. Finally mix throughly so all ingredients incorporate.
+⦁ After the vegetables are cooked in the oven, take them out and place the garlic, onions and the tomatoes in a saucepan. Crush the garlic, onions and the tomatoes, they should be soft. Finally mix throughly so all ingredients incorporate.  
 ⦁ The other vegetables will be left apart until we assemble the lasagna.  
 ⦁ Add Italian seasoning and check for salt and pepper to the tomato mix. If there is too much liquid, heat up the saucepan. When it starts to boil lower the heat to simmer. Cook until the consistency of the tomato sauce is as desired by evaporation.
 
@@ -82,7 +82,8 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 ⦁ The cooked lasagna sheets are added on top of the sauce.  
 ⦁ Now cover the sheet with mozzarella and parmesan cheese mixture, and place spinach left on top.  
 ⦁ Next, scoop the tomato mixture, then the eggplant, zucchini, mushrooms and spread it evenly.  
-⦁ Repeat the layers and top it with the remaining sauce and cover with cheese.  
-⦁ Place the casserole dish in a preheated oven at 375 degrees F for about 40 minutes until the top is bubbling.
-⦁ Finally set the oven to broil for 5-10 minutes so the cheese will turn brown on the top. Be careful because the cheese could get burnt.
+⦁ Repeat the layers of béchamel, cheese, spinach, tomato mix, vegetables.  
+⦁ Top it with the remaining béchamel and cover with cheese.  
+⦁ Place the casserole dish in a preheated oven at 375 degrees F for about 40 minutes until the top is bubbling.  
+⦁ Finally set the oven to broil for 5-10 minutes so the cheese will turn brown on the top. Be careful because the cheese could get burnt.  
 ⦁ Take out of the oven and let it cool a few minutes. Serve.
