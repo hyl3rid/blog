@@ -9,7 +9,7 @@ tags:
 
 # Thai Green Vegetable Curry
 
-![Exotic Green Curry with Vegetables](/greencurry.jpg "image")
+![Exotic Green Curry with Vegetables and Coconut Cream](/greencurry.jpg "image")
 
 Thai green curry is a comforting, scrumptious, and flavorsome vegetable curry that will make your day!
 
@@ -45,34 +45,36 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ⦁ 1 tbsp of ginger  
 ⦁ ⅔ cup red bell pepper, diced  
 ⦁ ⅔ cup sweet potato/butternut squash, peeled and diced  
-⦁ 1 cup green beans, trimmed and cut  
-⦁ ⅔ cup zucchini, cubed  
+⦁ ½ cup green beans, trimmed and cut  
+⦁ ⅔ cup zucchini, diced  
 ⦁ ⅔ cup eggplant, diced  
-⦁ ⅔ cup cauliflower/broccoli  
+⦁ ⅔ cup cauliflower florets  
+⦁ ⅔ cup broccoli florets  
 ⦁ ⅔ cup bamboo shoots, sliced  
 ⦁ ⅔ cup roasted cashews  
 ⦁ 3 cups of spinach  
 ⦁ ½ cup vegetable stock  
-⦁ 2 cans of coconut milk/cream, full fat  
-⦁ 1/3 cup Thai green curry paste  
+⦁ 2 14 ounces cans of coconut milk/cream, full fat  
+⦁ 1/3 cup vegan Thai green curry paste  
 ⦁ 1 tbsp of cornstarch  
 ⦁ 3 tbps tahini  
-⦁ 2 tbsp tamari  
+⦁ 3 tbsp tamari  
 ⦁ 2 tbsp brown sugar  
 ⦁ Thai basil leaves, for garnish  
 ⦁ Green or Red chilies, for garnish  
-⦁ Lime juice for drizzling
+⦁ Lime juice for drizzling  
+⦁ Extra coconut cream to drizzle
 
 ### Instructions
 
-⦁ Slice the eggplant into rounds and add salt to each side. Place the rounds in a colander with a bowl underneath to catch the liquid from the eggplant. Finally cut the eggplant into cubes.  
+⦁ Slice the eggplant into rounds and add salt to each side. Place the rounds in a colander with a bowl underneath to catch the liquid from the eggplant. Let it sit for 20 mintues. Finally cut the eggplant into dices.  
 ⦁ Open the can of coconut milk/cream and pour into a large bowl. Pour and mix the vegetable stock, tamari, and brown sugar into the bowl. Mix well until the sugar dissolves. Set the bowl aside.  
 ⦁ Place a pot over heat, drizzil olive oil to cook the onions, red bell pepper, garlic and ginger. Then add the sweet potato/butternut squash and cook for 5 minutes.  
 ⦁ Reduce the heat to low and add green Thai paste. Keep stirring it. Let it cook for about 3 minutes.  
 ⦁ Pour the coconut milk/cream mixture and mix so all the ingredient incorporate. Turn up the heat to medium and bring the mixture to a boil.  
-⦁ Add the tahini, cashews, zucchini, cauliflower/broccoli, green beans, bamboo shoots, eggplant and spinach.  
+⦁ Add the tahini, cashews, zucchini/, cauliflower/broccoli, green beans, bamboo shoots and spinach.  
 ⦁ Lower the heat and let it simmer for about 10 minutes or until the vegetables are tender.  
 ⦁ Dissolve the cornstarch with a little of water.  
 ⦁ Add the cornstarch into the pot and let the sauce thicken.  
-⦁ Remove the curry from heat, squeeze lime and mix well.  
+⦁ Remove the curry from heat, squeeze lime and mix well. Finally you can drizzle coconut cream to decorate.  
 ⦁ Garnish with Thai basil and green chilis. Serve alongside jasmine rice. Enjoy.
