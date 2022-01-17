@@ -43,14 +43,14 @@ In 1879, a dessert called Latte Inglese was widely popular. It had the same prep
 
 1 can of coconut cream  
 1/2 tbsp powdered agar agar  
-3 tbsp of sweetener or to taste  
+3 tbsp of sugar or to taste  
 1 tbsp vanilla extracts  
 Fresh berries, as required  
 Strawberry jelly, as required
 
 ### Instructions
 
-- Pour the coconut cream into the saucepan vanilla, sweetener and set the heat to medium/high.
+- Pour the coconut cream into the saucepan with vanilla and sugar. Set the heat to medium/high.
 - When the cream starts to boil, include the powdered agar agar.
 - Continue to whisk the coconut cream until the agar agar dissolves. Let the cream cook until it starts to thicken. When you see a Nappe consistency is reached in the cream, continue to set aside.
 - Pour the mixture into serving glasses or ramekins. Let them cool and place them in the refrigerator for 3 to 4 hours.
