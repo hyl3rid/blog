@@ -41,8 +41,8 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ### Ingredients
 
 ⦁ ½ cup onion, diced  
-⦁ 2 cloves of garlic
-⦁ 1 tbsp of ginger
+⦁ 2 cloves of garlic  
+⦁ 1 tbsp of ginger  
 ⦁ ⅔ cup red bell pepper, diced  
 ⦁ ⅔ cup sweet potato/butternut squash, peeled and diced  
 ⦁ 1 cup green beans, trimmed and cut  
@@ -50,24 +50,27 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ⦁ ⅔ cup eggplant, diced  
 ⦁ ⅔ cup cauliflower/broccoli  
 ⦁ ⅔ cup bamboo shoots, sliced  
-⦁ 3 cups of spinach
+⦁ ⅔ cup roasted cashews  
+⦁ 3 cups of spinach  
 ⦁ ½ cup vegetable stock  
 ⦁ 2 cans of coconut milk/cream, full fat  
 ⦁ 1/3 cup Thai green curry paste  
 ⦁ 1 tbsp of cornstarch  
+⦁ 3 tbps tahini  
 ⦁ 2 tbsp tamari  
 ⦁ 2 tbsp brown sugar  
 ⦁ Thai basil leaves, for garnish  
-⦁ Green or Red chilies, for garnish
+⦁ Green or Red chilies, for garnish  
 ⦁ Lime juice for drizzling
 
 ### Instructions
 
+⦁ Slice the eggplant into rounds and add salt to each side. Place the rounds in a colander with a bowl underneath to catch the liquid from the eggplant. Finally cut the eggplant into cubes.  
 ⦁ Open the can of coconut milk/cream and pour into a large bowl. Pour and mix the vegetable stock, tamari, and brown sugar into the bowl. Mix well until the sugar dissolves. Set the bowl aside.  
 ⦁ Place a pot over heat, drizzil olive oil to cook the onions, red bell pepper, garlic and ginger. Then add the sweet potato/butternut squash and cook for 5 minutes.  
 ⦁ Reduce the heat to low and add green Thai paste. Keep stirring it. Let it cook for about 3 minutes.  
 ⦁ Pour the coconut milk/cream mixture and mix so all the ingredient incorporate. Turn up the heat to medium and bring the mixture to a boil.  
-⦁ Add zucchini, cauliflower/broccoli, green beans, bamboo shoots, eggplant and spinach.  
+⦁ Add the tahini, cashews, zucchini, cauliflower/broccoli, green beans, bamboo shoots, eggplant and spinach.  
 ⦁ Lower the heat and let it simmer for about 10 minutes or until the vegetables are tender.  
 ⦁ Dissolve the cornstarch with a little of water.  
 ⦁ Add the cornstarch into the pot and let the sauce thicken.  

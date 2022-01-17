@@ -61,7 +61,7 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 ### Instructions
 
 **For the vegetable filling**
-⦁ Slice the eggplant into rounds and add salt to each side. Place the rounds in a colander with a bowl underneath to catch the liquid from the eggplant.
+⦁ Slice the eggplant into rounds and add salt to each side. Place the rounds in a colander with a bowl underneath to catch the liquid from the eggplant.  
 ⦁ In a large bowl, add mozzarella cheese and grated parmesan cheese. Mix well and set aside.  
 ⦁ Heat olive oil over medium heat in a skillet.  
 ⦁ Dice onions and add them so they are cooked for a minute or two until translucent.  
