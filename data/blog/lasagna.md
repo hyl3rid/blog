@@ -61,7 +61,7 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 
 ### Instructions
 
-**For the vegetable filling**
+**For the vegetable filling**  
 ⦁ Slice the eggplant into rounds and add salt to each side. Place the rounds in a colander with a bowl underneath to catch the liquid from the eggplant.  
 ⦁ In a large bowl, add mozzarella cheese and grated parmesan cheese. Mix well and set aside.  
 ⦁ Heat the oven to 400 degrees F and oil a baking dish.  
