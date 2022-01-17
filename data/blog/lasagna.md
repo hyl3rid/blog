@@ -42,12 +42,13 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 ⦁ 10-ounce vegan lasagna sheets, cooked  
 ⦁ 3 cup vegan mozzarella cheese, shredded  
 ⦁ ¼ cup vegan parmesan cheese, grated  
-⦁ 1 tbsp olive oil  
-⦁ 1 small onion, sliced  
-⦁ 2 garlic cloves, minced  
+⦁ 1 tbsp olive oil, extra to drizzle on sauce  
+⦁ 2 onions, sliced  
+⦁ 4 garlic cloves, minced  
+⦁ 4 tomatoes  
 ⦁ 1 small zucchini, sliced  
-⦁ half of small eggplant  
-⦁ 2 cups of mushrooms cremini, sliced  
+⦁ half of small eggplant, rounds  
+⦁ 2 cups of mushrooms cremini, fourths  
 ⦁ 3 cups fresh spinach, roughly chopped  
 ⦁ 1 tbps of thyme and oregano  
 ⦁ salt and black pepper, to taste
@@ -63,11 +64,12 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 **For the vegetable filling**
 ⦁ Slice the eggplant into rounds and add salt to each side. Place the rounds in a colander with a bowl underneath to catch the liquid from the eggplant.  
 ⦁ In a large bowl, add mozzarella cheese and grated parmesan cheese. Mix well and set aside.  
-⦁ Heat olive oil over medium heat in a skillet.  
-⦁ Dice onions and add them so they are cooked for a minute or two until translucent.  
-⦁ Dice the garlic thinly and add to the saucepan, cook for 30 seconds.  
-⦁ Add mushrooms, eggplant and zucchini.
-⦁ Add tomato paste, tomatoes, roasted red pepper, Italian seasoning, salt, and black pepper. Cook until the consistency of the sauce is thick by evaporation.
+⦁ Heat the oven to 400 degrees F and oil a baking dish.
+⦁ Trim sides of the onions and cut in fourths. Crush garlic to remove peel and core. Cut the tomato into 4 pieces. Place the onions, garlic, mushrooms, tomatoes, red pepper and zucchini in the baking dish and drizzle generously with olive oil, add salt and herbs.  
+⦁ Into the oven, let it cook for 30 minutes.  
+⦁ After the vegetables are cooked in the oven, take them out and place the garlic, onions and the tomatoes in a saucepan. Crush the garlic, onions and the tomatoes, they should be soft. Finally mix throughly so all ingredients incorporate.
+⦁ The other vegetables will be left apart until we assemble the lasagna.  
+⦁ Add Italian seasoning and check for salt and pepper to the tomato mix. If there is too much liquid, heat up the saucepan. When it starts to boil lower the heat to simmer. Cook until the consistency of the tomato sauce is as desired by evaporation.
 
 **For the béchamel sauce:**  
 ⦁ In a saucepan, add olive oil and place it on medium-low heat. Add flour and whisk it slowly for about 2 minutes.  
@@ -79,7 +81,7 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 ⦁ At the bottom of the casserole dish place some béchamel sauce evenly to form a bed of the sauce.  
 ⦁ The cooked lasagna sheets are added on top of the sauce.  
 ⦁ Now cover the sheet with mozzarella and parmesan cheese mixture, and place spinach left on top.  
-⦁ Next, scoop the vegetable mixture and spread it evenly.  
+⦁ Next, scoop the tomato mixture, then the eggplant, zucchini, mushrooms and spread it evenly.  
 ⦁ Repeat the layers and top it with the remaining sauce and cover with cheese.  
 ⦁ Place the casserole dish in a preheated oven at 375 degrees F for about 40 minutes or until the top is bubbling and gets a golden color.  
 ⦁ Serve.
