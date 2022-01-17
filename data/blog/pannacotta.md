@@ -54,7 +54,7 @@ Strawberry jelly, as required
 - When the cream starts to boil, include the powdered agar agar.
 - Continue to whisk the coconut cream until the agar agar dissolves. Let the cream cook until it starts to thicken. When you see a Nappe consistency is reached in the cream, continue to set aside.
 - Pour the mixture into serving glasses or ramekins. Let them cool and place them in the refrigerator for 3 to 4 hours.
-- Once the panna cotta is set, take it out of the refrigerator, and top it with fresh berries, and drizzle strawberry syrup on top. You can also invert the ramekins on a serving plate carefully and serve by decorating them with fresh berries and strawberry syrup.
+- Once the panna cotta is set, take it out of the refrigerator. You can also invert the ramekins on a serving plate carefully. Top it with fresh berries, and/or drizzle strawberry jelly on top.
 
 ### Variations
 
