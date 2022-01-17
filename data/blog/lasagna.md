@@ -83,5 +83,6 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 ⦁ Now cover the sheet with mozzarella and parmesan cheese mixture, and place spinach left on top.  
 ⦁ Next, scoop the tomato mixture, then the eggplant, zucchini, mushrooms and spread it evenly.  
 ⦁ Repeat the layers and top it with the remaining sauce and cover with cheese.  
-⦁ Place the casserole dish in a preheated oven at 375 degrees F for about 40 minutes or until the top is bubbling and gets a golden color.  
-⦁ Serve.
+⦁ Place the casserole dish in a preheated oven at 375 degrees F for about 40 minutes until the top is bubbling.
+⦁ Finally set the oven to broil for 5-10 minutes so the cheese will turn brown on the top. Be careful because the cheese could get burnt.
+⦁ Take out of the oven and let it cool a few minutes. Serve.
