@@ -78,7 +78,7 @@ Coconut oil for frying
 - Remove the saucepan from heat and let it cool down.
 - When the jelly is at room temperature, pour this mixture into a sterilized jar. Seal and store.
 
-**For the French toast:**
+**For the french toast:**
 
 - Pour almond milk, flax seeds, cinnamon powder, and nutmeg into a shallow dish. Mix well so that everything is well incorporated.
 - In a frying pan, heat coconut oil.

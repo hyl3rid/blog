@@ -41,9 +41,10 @@ Tarte Tatin is a delicious upside-down pastry that was originated in 1888. Two s
 
 **For the shortcrust pastry**  
 ⦁ 1 ½ cup all-purpose flour  
-⦁ 8 Tbsp butter, unsalted and cubed  
-⦁ 4 Tbsp ice cold water  
-⦁ 2/4 tsp salt
+⦁ 8 tbsp butter, unsalted and cubed  
+⦁ 2 tbsp confectioners sugar  
+⦁ 4 tbsp ice cold water  
+⦁ pinch of salt
 
 **For the filling:**  
 ⦁ 4 apples  
@@ -55,7 +56,7 @@ Tarte Tatin is a delicious upside-down pastry that was originated in 1888. Two s
 ### Instructions
 
 **For The Short Crust Pastry:**  
-⦁ In a food processor bowl, add all-purpose flour, butter, and salt. Process until everything is combined and you get a crumbly mixture.  
+⦁ In a food processor bowl, add all-purpose flour, butter, confectioners sugar and salt. Process until everything is combined and you get a crumbly mixture.  
 ⦁ Transfer the crumble into a large bowl, pour cold water, and start working on the mixture using your hands until it shapes into a dough.  
 ⦁ Now place it on a floured working surface and roll it using a rolling pin until you get a 1/8 inch thick round sheet.  
 ⦁ Place an 8 inches iron cast skillet over the pastry and use it as a mold to trim the excess pastry. Place it on a serving plate and refrigerate.

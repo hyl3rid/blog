@@ -55,7 +55,7 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 ⦁ 3 tbsp cornstarch  
 ⦁ 1 tsp vanilla extract
 
-**For topping:**
+**For topping:**  
 ⦁ Fresh strawberries  
 ⦁ Fresh blueberries  
 ⦁ Fresh raspberries  
@@ -65,7 +65,7 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 
 ### Instructions
 
-**For the Shell**
+**For the shell**  
 ⦁ In the food processor bowl, add all-purpose flour, sugar and salt.  
 ⦁ Add butter and start processing for about a minute or two until you get a crumbly mixture.  
 ⦁ Next, add an egg and continue to process until the mixture forms a dough.  
@@ -78,9 +78,9 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 ⦁ Place the tin in a preheated oven for about 25 minutes or until it is golden in colour.  
 ⦁ Once done, take it out of the oven and let it cool down.
 
-**For the Custard**
+**For the custard cream**  
 ⦁ In a saucepan, pour coconut milk/cream. Add sugar, vanilla. Place the saucepan on medium heat.  
 ⦁ Mix cornstarch and about 2 tbsp water to form a slurry in a separate small bowl.  
-⦁ Once the milk mixture heats up lower the heat, add the cornstarch with water mixture and let it cook for 5 minutes until the mixture thickens up. Stir constantly.  
+⦁ Once the milk mixture heats up lower the heat, add the cornstarch with water mixture and let it cook for 5 minutes until the mixture thickens up and there is a Nappe consistency. Stir constantly.  
 ⦁ Once done, remove the saucepan from heat and let it cool down a bit. Pour it into the tart shell and place it in the refrigerator for at least an hour to set.  
 ⦁ Just before serving, garnish the custard tart with fresh berries and fruits. Arrange them in a circle and add melted agar agar with sugar on top of the fruits to give them a brilliant color.

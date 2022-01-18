@@ -55,7 +55,7 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ⦁ 3 cups of spinach  
 ⦁ ½ cup vegetable stock  
 ⦁ 2 14 ounces cans of coconut milk/cream, full fat  
-⦁ 1/3 cup vegan Thai green curry paste  
+⦁ 1/3 cup [vegan Thai green curry paste](https://en.wikipedia.org/wiki/Green_curry "Bright curry paste has no shrimp.")  
 ⦁ 1 tbsp of cornstarch  
 ⦁ 3 tbps tahini  
 ⦁ 3 tbsp tamari  

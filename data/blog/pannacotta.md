@@ -44,7 +44,7 @@ In 1879, a dessert called Latte Inglese was widely popular. It had the same prep
 1 can of coconut cream  
 1/2 tbsp powdered agar agar  
 3 tbsp of sugar or to taste  
-1 tbsp vanilla extracts  
+1 tbsp clear vanilla extracts  
 Fresh berries, as required  
 Strawberry jelly, as required
 

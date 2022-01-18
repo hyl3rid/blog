@@ -42,18 +42,18 @@ When it comes to hummus, you might find some evidence that hummus was originated
 
 ### Ingredients
 
-⦁ 1 can of Chickpeas  
-⦁ 3 tbsp Olive Oil, more for drizzling  
-⦁ 3 tbsp Tahini  
-⦁ 1 Garlic cloves  
-⦁ 3 tbsp Lemon juice  
-⦁ 1 tsp Salt  
-⦁ Paprika, for garnish
+⦁ 1 can of chickpeas  
+⦁ 3 tbsp olive oil, more for drizzling  
+⦁ 3 tbsp tahini  
+⦁ 1 garlic cloves  
+⦁ 3 tbsp lemon juice  
+⦁ 1 tsp salt  
+⦁ paprika, for garnish
 
 **Optional:**
-⦁ A pinch of Cumin  
-⦁ A pinch of Cayenne Pepper
-⦁ A roasted Red Bell
+⦁ A pinch of cumin  
+⦁ A pinch of cayenne pepper
+⦁ A roasted red bell
 
 ### Instructions
 
