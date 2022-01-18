@@ -49,7 +49,8 @@ Tarte Tatin is a delicious upside-down pastry that was originated in 1888. Two s
 ⦁ 4 apples  
 ⦁ ½ cup sugar  
 ⦁ ¼ cup unsalted butter, cut into cubes  
-⦁ 1 Tbsp lemon juice
+⦁ 1 tsp of cinnamon powder  
+⦁ 1 tbsp lemon juice
 
 ### Instructions
 

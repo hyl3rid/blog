@@ -52,35 +52,35 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 **For the Custard:**  
 ⦁ 2 cups coconut milk or coconut cream  
 ⦁ 2 tbsp confectioners sugar  
-⦁ 4 tbsp cornstarch  
+⦁ 3 tbsp cornstarch  
 ⦁ 1 tsp vanilla extract
 
 **For topping:**
 ⦁ Fresh strawberries  
 ⦁ Fresh blueberries  
-⦁ Fresh raspberries
-⦁ Fresh kiwi
-⦁ Fresh peach
+⦁ Fresh raspberries  
+⦁ Fresh kiwi  
+⦁ Fresh peach  
 ⦁ Agar agar
 
 ### Instructions
 
 **For the Shell**
-⦁ In the food processor bowl, add all-purpose flour, sugar and salt.
-⦁ Add butter and start processing for about a minute or two until you get a crumbly mixture.
-⦁ Next, add an egg and continue to process until the mixture forms a dough.
-⦁ Take the dough out of the process and place it on a floured workstation. Gently knead the dough once or twice, shape it into it, and wrap it with plastic wrap.
-⦁ Place the dough in the refrigerator for about 30 minutes.
-⦁ Take the dough out of the refrigerator, unwrap it and place it on a floured workstation.
-⦁ Roll it into a circle using a rolling pin.
-⦁ Line the tart tin with parchment paper and place the rolled dough sheet onto the tart tin. Trim the sides.
-⦁ Pierce the bottom of the pastry using a sharp knife or a fork.
-⦁ Place the tin in a preheated oven for about 25 minutes or until it is golden in colour.
+⦁ In the food processor bowl, add all-purpose flour, sugar and salt.  
+⦁ Add butter and start processing for about a minute or two until you get a crumbly mixture.  
+⦁ Next, add an egg and continue to process until the mixture forms a dough.  
+⦁ Take the dough out of the process and place it on a floured workstation. Gently knead the dough once or twice, shape it into it, and wrap it with plastic wrap.  
+⦁ Place the dough in the refrigerator for about 30 minutes.  
+⦁ Take the dough out of the refrigerator, unwrap it and place it on a floured workstation.  
+⦁ Roll it into a circle using a rolling pin.  
+⦁ Line the tart tin with parchment paper and place the rolled dough sheet onto the tart tin. Trim the sides.  
+⦁ Pierce the bottom of the pastry using a sharp knife or a fork.  
+⦁ Place the tin in a preheated oven for about 25 minutes or until it is golden in colour.  
 ⦁ Once done, take it out of the oven and let it cool down.
 
 **For the Custard**
-⦁ In a saucepan, pour coconut milk/cream. Add sugar, vanilla. Place the saucepan on medium heat.
-⦁ Add cornstarch and about 2 tbsp water to form a slurry in a separate small bowl. Add the cornstarch with water and whisk until everything is well incorporated.
-⦁ Once the milk mixture heats up lower the heat, add the cornstarch with water mixture and let it cook for 5 minutes until the mixture thickens up. Stir constantly.
-⦁ Once done, remove the saucepan from heat and let it cool down a bit. Pour it into the tart shell and place it in the refrigerator for at least an hour to set.
+⦁ In a saucepan, pour coconut milk/cream. Add sugar, vanilla. Place the saucepan on medium heat.  
+⦁ Mix cornstarch and about 2 tbsp water to form a slurry in a separate small bowl.  
+⦁ Once the milk mixture heats up lower the heat, add the cornstarch with water mixture and let it cook for 5 minutes until the mixture thickens up. Stir constantly.  
+⦁ Once done, remove the saucepan from heat and let it cool down a bit. Pour it into the tart shell and place it in the refrigerator for at least an hour to set.  
 ⦁ Just before serving, garnish the custard tart with fresh berries and fruits. Arrange them in a circle and add melted agar agar with sugar on top of the fruits to give them a brilliant color.
