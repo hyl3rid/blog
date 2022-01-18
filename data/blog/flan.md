@@ -42,7 +42,7 @@ However, it was after the fall of this empire and the arrival of the Spaniards t
 ### Ingredients
 
 2 cups whole milk  
-1 ½ cups white sugar  
+½ cups white sugar  
 4 large eggs  
 1 tbsp vanilla extract
 

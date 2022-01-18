@@ -54,9 +54,8 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ⦁ ⅔ cup roasted cashews  
 ⦁ 3 cups of spinach  
 ⦁ ½ cup vegetable stock  
-⦁ 2 14 ounces cans of coconut milk/cream, full fat  
+⦁ 2 14 ounces cans of coconut milk/cream  
 ⦁ 1/3 cup [vegan Thai green curry paste](https://en.wikipedia.org/wiki/Green_curry "Bright curry paste has no shrimp.")  
-⦁ 1 tbsp of cornstarch  
 ⦁ 3 tbps tahini  
 ⦁ 3 tbsp tamari  
 ⦁ 2 tbsp brown sugar  
@@ -73,8 +72,7 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ⦁ Reduce the heat to low and add green Thai paste. Keep stirring it. Let it cook for about 3 minutes.  
 ⦁ Pour the coconut milk/cream mixture and mix so all the ingredient incorporate. Turn up the heat to medium and bring the mixture to a boil.  
 ⦁ Add the tahini, cashews, zucchini/, cauliflower/broccoli, green beans, bamboo shoots and spinach.  
-⦁ Lower the heat and let it simmer for about 10 minutes or until the vegetables are tender.  
-⦁ Dissolve the cornstarch with a little of water.  
-⦁ Add the cornstarch into the pot and let the sauce thicken.  
+⦁ If you used coconut milk, then it might not thicken much by evaporation and you can add a tsp of cornstarch dissolved in water.  
+⦁ Lower the heat and let it simmer for about 10 minutes or until the vegetables are tender. This will cause coconut cream thicken by evaporation and will also incorporate all the flavors.  
 ⦁ Remove the curry from heat, squeeze lime and mix well. Finally you can drizzle coconut cream to decorate.  
 ⦁ Garnish with Thai basil and green chilis. Serve alongside jasmine rice. Enjoy.
