@@ -29,8 +29,13 @@ class MyDocument extends Document {
   }
   render() {
     return (
-      <Html>
+      <Html lang="en">
         <Head>
+          <title>Veggies For All</title>
+          <meta
+            name="description"
+            content="Vegetarian and Vegan recipes for your reference."
+          />
           {/* <!-- Global site tag (gtag.js) - Google Analytics --> */}
           <script
             async
