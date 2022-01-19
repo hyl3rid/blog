@@ -2,6 +2,7 @@ import React from "react";
 import Nav from "./Nav";
 import Footer from "./Footer";
 import { createGlobalStyle } from "styled-components";
+import Head from "next/head";
 
 // Workaround to problem with icons being huge huge first load prior to resizing
 // This ensures that the icon CSS is loaded immediately before attempting to render icons
@@ -131,11 +132,20 @@ select {
 type Props = {
   children: React.ReactNode;
   title?: string;
+  description?: string;
 };
 
-const Layout = ({ children }: Props) => {
+const Layout = ({
+  children,
+  title = "Veggies For All",
+  description = "Vegetarian and vegan recipes for your reference.",
+}: Props) => {
   return (
     <>
+      <Head>
+        <title>{title}</title>
+        <meta name="description" content={description} />
+      </Head>
       <GlobalStyle />
       <Nav />
       {children}

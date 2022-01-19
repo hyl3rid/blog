@@ -41,7 +41,7 @@ const MarkdownWrapper = styled.div`
 const BlogPost = ({ frontMatter, markdownBody, posts }: BlogPostProps) => {
   if (!frontMatter) return <></>;
   return (
-    <Layout2>
+    <Layout2 title={frontMatter.title} description={frontMatter.description}>
       <Wrapper>
         <MarkdownWrapper>
           <ReactMarkdown

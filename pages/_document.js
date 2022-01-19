@@ -14,6 +14,7 @@ class MyDocument extends Document {
         });
 
       const initialProps = await Document.getInitialProps(ctx);
+
       return {
         ...initialProps,
         styles: (
@@ -32,12 +33,6 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <title>Veggies For All</title>
-          <meta
-            name="description"
-            content="Vegetarian and Vegan recipes for your reference."
-          />
-
           {/* <!-- Global site tag (gtag.js) - Google Analytics --> */}
           <script
             async

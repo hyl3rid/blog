@@ -193,7 +193,7 @@ export type ImageLoaderProps = {
 };
 
 export const myLoader = ({ src, width, quality }: ImageLoaderProps) => {
-  return `https://veggiesforall.io/${src}?w=${700}&q=${quality || 75}`;
+  return `https://veggiesforall.io/${src}?w=${900}&q=${quality || 75}`;
 };
 
 const EmblaCarousel = ({ slides }: any) => {
