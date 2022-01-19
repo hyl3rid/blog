@@ -91,6 +91,17 @@ const StyledResults = styled.div`
   width: 100%;
 `;
 
+// Image optimization
+export type ImageLoaderProps = {
+  src: string;
+  width?: number;
+  quality?: number;
+};
+
+export const myLoader = ({ src, width, quality }: ImageLoaderProps) => {
+  return `https://veggiesforall.io/${src}?w=${700}&q=${quality || 75}`;
+};
+
 const Search = ({ posts }: any) => {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState([]);
@@ -137,6 +148,8 @@ const Search = ({ posts }: any) => {
                     <ResultWrapper>
                       <ImageWrapper>
                         <Image
+                          loader={myLoader}
+                          quality={30}
                           className="image"
                           src={`/${result.id}.jpg`}
                           alt={result.title}
