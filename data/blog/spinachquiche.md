@@ -41,9 +41,9 @@ Quince is known to belong to French cuisine. However, not many know that it orig
 
 **For the shortcrust pastry**
 ⦁ 1 ½ cup all-purpose flour  
-⦁ 8 Tbsp butter, unsalted and cubed  
-⦁ 4 Tbsp ice cold water  
-⦁ 3/4 tsp salt
+⦁ 6 tbsp butter, unsalted and cubed  
+⦁ 4 tbsp ice cold water  
+⦁ pinch salt
 
 **For the Filling:**
 ⦁ 1 ½ cup baby spinach, fresh or frozen  
@@ -58,20 +58,20 @@ Quince is known to belong to French cuisine. However, not many know that it orig
 
 ### Instructions
 
-**For the Short Crust Pastry:**
-⦁ Mix All-Purpose flour with salt and butter. With your hands combine the butter and flour until you get a crumbly mixture.  
-⦁ Transfer the crumble into a large bowl, pour cold water, and start working on the mixture using your hands until it shapes into a dough. Refrigerate the dought for 20 minutes.
+**For the Short Crust Pastry:**  
+⦁ Mix all-purpose flour with salt and butter. With your hands combine the butter and flour until you get a crumbly mixture.  
+⦁ Transfer the crumble into a large bowl, pour cold water, and start working on the mixture using your hands until it shapes into a dough. Wrap the dought in plastic wrap and refrigerate the dought for 20 minutes.  
 ⦁ Now place the dought on a floured working surface and roll it using a rolling pin until you get a 1/8 inch thick round sheet.  
-⦁ Go ahead and put the rolled dought into a pie dish that has been chilled and then greased lightly with oil to avoid it from sticking, press the dought so it fits tightly and trim the excess pastry.
+⦁ Chill a pie dish and then greased it lightly with oil to avoid the pastry from sticking. Go ahead and pick up the rolled dought with the back of your hands and place it into a the pie dish. Press the dought gently so it fits tightly and trim the excess pastry.  
+⦁ Pierce the bottom of the pastry with a fork.  
+⦁ Place the tin in a preheated oven at 350 degree fahrenheit for about 20 minutes or until it is golden in colour.  
+⦁ Once done, take it out of the oven and let it cool down.
 
-**For the Filling:**
-⦁ Using a fork, poke small holes at the bottom and sides of the pie crust.
-⦁ Place the pan in a preheated oven at 400 degrees F for about 12 minutes or until you get a golden color and it is fully cooked.
-⦁ Once done, take the baking pan out of the oven and set it aside for later use.
-⦁ While the crust is baking, melt butter in a saucepan. Add sliced onions and saute it for about 3 minutes until it turns translucent. Add minced garlic and cook for a minute until fragrant. Add fresh baby spinach and cook for 2 to 3 minutes until it withers. Once done, take the pan off the heat and set it aside to reach room temperature.
-⦁ Whisk eggs in a medium bowl. Add heavy cream, black pepper, and salt. Mix well.
-⦁ Once the pie crust is cool, place the onion and spinach mixture at the bottom of the pie.
-⦁ Next, sprinkle shredded cheddar cheese evenly.
-⦁ Pour the egg and heavy cream mixture on top of the cheese.
-⦁ Place the baking pan into a preheated oven at 350 degrees F for about 50 minutes or until the top gets a golden color.
+**For the Filling:**  
+⦁ Melt butter in a saucepan. Add sliced onions and minced garlic, saute it for about 3 minutes until it turns translucent. Add fresh baby spinach and cook for 2 to 3 minutes until it withers. Once done, take the pan off the heat and set it aside to reach room temperature.  
+⦁ Whisk eggs in a medium bowl. Add heavy cream, black pepper, and salt. Mix well.  
+⦁ Once the pie crust is cool, place the onion and spinach mixture at the bottom of the pie.  
+⦁ Next, sprinkle shredded cheddar cheese evenly.  
+⦁ Pour the egg and heavy cream mixture on top of the cheese.  
+⦁ Place the baking pan into a preheated oven at 375 degrees F for about 30 minutes or until the top gets a golden color.  
 ⦁ Serve hot.

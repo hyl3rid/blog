@@ -85,7 +85,9 @@ Salt, to taste
 ⦁ Place the pasta sheet on a floured working surface. Place the filling of mushrooms in the sheet by an inch squared difference until you reach half of the sheet. With practice, you'll know your preferred size for the ravioli!  
 ⦁ Place the other end of the sheet so that it covers the mushroom mixture. Seal the sides by applying pressure of your fingers. If there is too much flour the sheets won't stick and you might need to add a little bit of water on one side to stick.  
 ⦁ Using a cutter, trim the sides around the filling so that you get small pockets of ravioli.  
-⦁ Add water in a large pot, season it with salt, add oil and bring it to a boil. Add ravioli and cook for 4 minutes.
+⦁ Flour a little bit the raviolis to prevent them from sticking to the surface of a baking tin and let them rest there.  
+⦁ Add water in a large pot, season it with salt, add oil and bring it to a boil. Add ravioli and cook for 5 minutes.  
+⦁ Strain the raviolis with a colander and serve with sauce.
 
 **For The Sauce:**  
 ⦁ Meanwhile, heat oil in a pan over medium heat.  
@@ -93,5 +95,5 @@ Salt, to taste
 ⦁ Once the mixture begins boiling, lower the heat and let it simmer until it has the desired consistency.  
 ⦁ Add parmesan cheese and mix well.  
 ⦁ Add cooked ravioli straight from the boiling pot and toss.  
-⦁ Serve.
+⦁ Serve.  
 **Note:** You may add mozzarella or cheddar the melts while boiling the cream to add more flavor and consistency.
