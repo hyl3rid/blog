@@ -61,6 +61,17 @@ const StyledLink = styled.a`
   text-decoration: none;
 `;
 
+// Image optimization
+export type ImageLoaderProps = {
+  src: string;
+  width?: number;
+  quality?: number;
+};
+
+export const myLoader = ({ src, width, quality }: ImageLoaderProps) => {
+  return `https://veggiesforall.io/${src}?w=${700}&q=${quality || 75}`;
+};
+
 const RelatedRecipes = ({ posts, currentPostFrontMatter }: BlogPostsProps) => {
   const [listOfRandoms, setListOfRandoms] = useState<number[]>([]);
 
@@ -90,6 +101,8 @@ const RelatedRecipes = ({ posts, currentPostFrontMatter }: BlogPostsProps) => {
           <StyledLink href={`/${posts && posts[postIdx].slug}`} key={postIdx}>
             <ImageWrapper>
               <Image
+                loader={myLoader}
+                quality={30}
                 className="image"
                 src={`/${posts && posts[postIdx].slug}.jpg`}
                 alt={`${posts && posts[postIdx].frontMatter.title}`}

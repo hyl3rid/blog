@@ -12,6 +12,7 @@ const Hero = styled.div`
   height: 60rem;
   margin-bottom: 5rem;
   width: 100%;
+  position: relative;
 
   @media only screen and (${device.lg}) {
     height: 40rem;
@@ -50,6 +51,9 @@ const ImageWrapper = styled.div`
   position: relative;
 
   .image {
+    width: 100%;
+    height: 100%;
+    position: relative !important;
     object-fit: cover; // Optional
   }
 
@@ -91,6 +95,23 @@ const Button = styled.button`
   cursor: pointer;
 `;
 
+const ImageContainer = styled.div`
+  width: 100%;
+  height: 100%;
+  position: relative;
+`;
+
+// Image optimization
+export type ImageLoaderProps = {
+  src: string;
+  width?: number;
+  quality?: number;
+};
+
+export const myLoader = ({ src, width, quality }: ImageLoaderProps) => {
+  return `https://veggiesforall.io/${src}?w=${700}&q=${quality || 75}`;
+};
+
 const HomePage = () => {
   const SLIDE_COUNT = 5;
   const slides = Array.from(Array(SLIDE_COUNT).keys());
@@ -116,13 +137,17 @@ const HomePage = () => {
         <ImageWrapper>
           <Link href="/lasagna">
             <a>
-              <Image
-                className="image"
-                src={Lasagna}
-                alt="Lasagna Meal"
-                layout="fill"
-                priority={true}
-              />
+              <ImageContainer>
+                <Image
+                  loader={myLoader}
+                  quality={30}
+                  className="image"
+                  src={Lasagna}
+                  alt="Lasagna Meal"
+                  layout="fill"
+                  priority={true}
+                />
+              </ImageContainer>
             </a>
           </Link>
         </ImageWrapper>

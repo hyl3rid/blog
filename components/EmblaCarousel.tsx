@@ -81,7 +81,7 @@ const Wrapper = styled.div`
   .embla__slide__inner {
     position: relative;
     overflow: hidden;
-    height: 50rem;
+    height: 60rem;
     width: 100%;
 
     @media only screen and (${device.sm}) {
@@ -177,6 +177,25 @@ const ImageWrapper = styled.div`
   cursor: pointer;
 `;
 
+const ImageContainer = styled.div`
+  width: 100%;
+  height: 60rem;
+  position: relative !important;
+  object-fit: cover; // Optional
+  object-position: center center;
+`;
+
+// Image optimization
+export type ImageLoaderProps = {
+  src: string;
+  width?: number;
+  quality?: number;
+};
+
+export const myLoader = ({ src, width, quality }: ImageLoaderProps) => {
+  return `https://veggiesforall.io/${src}?w=${700}&q=${quality || 75}`;
+};
+
 const EmblaCarousel = ({ slides }: any) => {
   const [viewportRef, embla] = useEmblaCarousel({ skipSnaps: false });
   const [prevBtnEnabled, setPrevBtnEnabled] = useState(false);
@@ -221,13 +240,17 @@ const EmblaCarousel = ({ slides }: any) => {
                           <div className="label">
                             <p>{media[index].title}</p>
                           </div>
-                          <Image
-                            className="embla__slide__img"
-                            src={media[index].img}
-                            alt={media[index].title}
-                            layout="fill"
-                            priority={true}
-                          />
+                          <ImageContainer>
+                            <Image
+                              loader={myLoader}
+                              quality={30}
+                              className="embla__slide__img"
+                              src={media[index].img}
+                              alt={media[index].title}
+                              layout="fill"
+                              priority={true}
+                            />
+                          </ImageContainer>
                         </div>
                       </Link>
                     </ImageWrapper>

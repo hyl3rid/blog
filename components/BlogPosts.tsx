@@ -85,6 +85,17 @@ const CardWrapper = styled.article`
   }
 `;
 
+// Image optimization
+export type ImageLoaderProps = {
+  src: string;
+  width?: number;
+  quality?: number;
+};
+
+export const myLoader = ({ src, width, quality }: ImageLoaderProps) => {
+  return `https://veggiesforall.io/${src}?w=${700}&q=${quality || 75}`;
+};
+
 const BlogPosts = ({ posts }: BlogPostsProps) => {
   return (
     <Posts>
@@ -104,6 +115,8 @@ const BlogPosts = ({ posts }: BlogPostsProps) => {
                     <a>
                       <ImageWrapper>
                         <Image
+                          loader={myLoader}
+                          quality={30}
                           className="image"
                           src={`/${post.slug}.jpg`}
                           layout="fill"
