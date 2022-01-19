@@ -37,6 +37,7 @@ class MyDocument extends Document {
             src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}
           ></script>
           <script
+            // async
             dangerouslySetInnerHTML={{
               __html: `
         window.dataLayer = window.dataLayer || [];
