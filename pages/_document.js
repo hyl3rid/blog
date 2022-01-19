@@ -36,11 +36,11 @@ class MyDocument extends Document {
             name="description"
             content="Vegetarian and Vegan recipes for your reference."
           />
-
+          {/* 
           <meta
             httpEquiv="Content-Security-Policy"
             content="default-src 'self'"
-          />
+          /> */}
 
           {/* <!-- Global site tag (gtag.js) - Google Analytics --> */}
           <script
