@@ -26,7 +26,7 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 **Preparation time:** 15 minutes  
 **Cooking time:** 25 minutes  
 **Total time:** 40 minutes  
-**Servings:** 4 to 6
+**Servings:** 6
 
 ### Nutritional information
 
@@ -42,15 +42,14 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 
 ### Ingredients
 
-**For the Shell:**  
-⦁ 1 ½ cup all-purpose flour  
+**For the shell:**  
+⦁ 1 cup all-purpose flour  
 ⦁ 6 tbsp butter, unsalted and cubed  
-⦁ 4 tbsp ice cold water  
-⦁ 1 egg
-⦁ 2 tbsp confectioners sugar
+⦁ 1 ½ tbsp ground flaxseed + 4 tbsp water or 1 egg  
+⦁ 1 ½ tbsp confectioners sugar  
 ⦁ pinch salt
 
-**For the Custard:**  
+**For the custard:**  
 ⦁ 2 cups coconut milk or coconut cream  
 ⦁ 2 tbsp confectioners sugar  
 ⦁ 3 tbsp cornstarch  
@@ -67,10 +66,12 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 ### Instructions
 
 **For the shell**  
-⦁ Mix all-purpose flour with salt, confectioners sugar and butter. With your hands combine the butter and flour until you get a crumbly mixture.  
-⦁ Transfer the crumble into a large bowl, pour cold water, and start working on the mixture using your hands until it shapes into a dough. Wrap the dought in plastic wrap and refrigerate the dought for 20 minutes.  
+⦁ In a large bowl mix all-purpose flour with salt, confectioners sugar and butter. With your hands combine the butter and flour until you get a crumbly mixture.  
+⦁ If you selected flaxseed, mix it with the water, let it rest for 10-15 minutes and add it to the flour. Else if you selected to use an egg, just lightly beat it and add the egg to the flour.  
+⦁ Start working on the mixture using your hands gently until it shapes into a dough.  
+⦁ Wrap the dought in plastic wrap and refrigerate the dought for 20 minutes.  
 ⦁ Now place the dought on a floured working surface and roll it using a rolling pin until you get a 1/8 inch thick round sheet.  
-⦁ Chill a pie dish and then greased it lightly with oil to avoid the pastry from sticking. Go ahead and pick up the rolled dought with the back of your hands and place it into a the pie dish. Press the dought so it fits tightly and trim the excess pastry.  
+⦁ Chill a 9 inch pie dish and then greased it lightly with oil to avoid the pastry from sticking. Go ahead and pick up the rolled dought with the back of your hands and place it into a the pie dish. Press the dought so it fits tightly and trim the excess pastry.  
 ⦁ Pierce the bottom of the pastry with a fork.  
 ⦁ Place the tin in a preheated oven at 350 degree fahrenheit for about 25 minutes or until it is golden in colour.  
 ⦁ Once done, take it out of the oven and let it cool down.

@@ -40,12 +40,12 @@ Quince is known to belong to French cuisine. However, not many know that it orig
 ### Ingredients
 
 **For the shortcrust pastry**  
-⦁ 1 ½ cup all-purpose flour  
+⦁ 1 cup all-purpose flour  
 ⦁ 6 tbsp butter, unsalted and cubed  
-⦁ 4 tbsp ice cold water  
+⦁ 1 ½ tbsp ground flaxseed + 3 ½ tbsp water or 1 egg  
 ⦁ pinch salt
 
-**For the Filling:**  
+**For the filling:**  
 ⦁ 1 ½ cup baby spinach, fresh or frozen  
 ⦁ 1 tbsp unsalted butter  
 ⦁ ½ cup onion thinly sliced  
@@ -59,12 +59,14 @@ Quince is known to belong to French cuisine. However, not many know that it orig
 ### Instructions
 
 **For the short crust pastry:**  
-⦁ Mix all-purpose flour with salt and butter. With your hands combine the butter and flour until you get a crumbly mixture.  
-⦁ Transfer the crumble into a large bowl, pour cold water, and start working on the mixture using your hands until it shapes into a dough. Wrap the dought in plastic wrap and refrigerate the dought for 20 minutes.  
+⦁ In a large bowl mix all-purpose flour with salt and butter. With your hands combine the butter and flour until you get a crumbly mixture.  
+⦁ If you selected flaxseed, mix it with the water, let it rest for 10-15 minutes and add it to the flour. Else if you selected to use an egg, just lightly beat it and add the egg to the flour.  
+⦁ Start working on the mixture using your hands gently until it shapes into a dough.  
+⦁ Wrap the dought in plastic wrap and refrigerate the dought for 20 minutes.  
 ⦁ Now place the dought on a floured working surface and roll it using a rolling pin until you get a 1/8 inch thick round sheet.  
-⦁ Chill a pie dish and then greased it lightly with oil to avoid the pastry from sticking. Go ahead and pick up the rolled dought with the back of your hands and place it into a the pie dish. Press the dought gently so it fits tightly and trim the excess pastry.  
+⦁ Chill a 9 inch pie dish and then greased it lightly with oil to avoid the pastry from sticking. Go ahead and pick up the rolled dought with the back of your hands and place it into a the pie dish. Press the dought so it fits tightly and trim the excess pastry.  
 ⦁ Pierce the bottom of the pastry with a fork.  
-⦁ Place the tin in a preheated oven at 350 degree fahrenheit for about 20 minutes or until it is golden in colour.  
+⦁ Place the tin in a preheated oven at 350 degree fahrenheit for about 25 minutes or until it is golden in colour.  
 ⦁ Once done, take it out of the oven and let it cool down.
 
 **For the filling:**  
