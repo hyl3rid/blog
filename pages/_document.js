@@ -27,6 +27,7 @@ class MyDocument extends Document {
       sheet.seal();
     }
   }
+
   render() {
     return (
       <Html lang="en">
@@ -36,11 +37,6 @@ class MyDocument extends Document {
             name="description"
             content="Vegetarian and Vegan recipes for your reference."
           />
-
-          {/* <meta
-            httpEquiv="Content-Security-Policy"
-            content="default-src 'self' googleapis.com *.googleapis.com"
-          /> */}
 
           {/* <!-- Global site tag (gtag.js) - Google Analytics --> */}
           <script
