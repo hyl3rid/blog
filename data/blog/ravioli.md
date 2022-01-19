@@ -47,10 +47,10 @@ Just like any other pasta, ravioli was originated in Italy around the 14th centu
 
 **For the filling:**  
 5 cups cremini mushrooms, sliced  
-200g of ricotta cheese
+¾ cup of ricotta cheese
 2 tbsp grated parmesan  
-2 shallots, finely chopped  
-2 garlic cloves, minced  
+3 shallots, finely chopped  
+3 garlic cloves, minced  
 ½ tsp parsley, chopped  
 1 tbsp olive oil  
 black pepper, to taste  
@@ -60,7 +60,6 @@ Salt, to taste
 1 cup heavy cream  
 1 tbsp white wine  
 ½ tbsp olive oil  
-1 clove garlic  
 2 tbsp grated parmesan  
 ½ tsp fresh thyme, chopped  
 black pepper, to taste  
@@ -95,5 +94,6 @@ Salt, to taste
 ⦁ Once the mixture begins boiling, lower the heat and let it simmer until it has the desired consistency.  
 ⦁ Add parmesan cheese and mix well.  
 ⦁ Add cooked ravioli straight from the boiling pot and toss.  
-⦁ Serve.  
+⦁ Serve.
+
 **Note:** You may add mozzarella or cheddar the melts while boiling the cream to add more flavor and consistency.

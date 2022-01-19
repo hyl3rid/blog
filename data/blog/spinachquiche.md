@@ -39,13 +39,13 @@ Quince is known to belong to French cuisine. However, not many know that it orig
 
 ### Ingredients
 
-**For the shortcrust pastry**
+**For the shortcrust pastry**  
 ⦁ 1 ½ cup all-purpose flour  
 ⦁ 6 tbsp butter, unsalted and cubed  
 ⦁ 4 tbsp ice cold water  
 ⦁ pinch salt
 
-**For the Filling:**
+**For the Filling:**  
 ⦁ 1 ½ cup baby spinach, fresh or frozen  
 ⦁ 1 tbsp unsalted butter  
 ⦁ ½ cup onion thinly sliced  
@@ -58,7 +58,7 @@ Quince is known to belong to French cuisine. However, not many know that it orig
 
 ### Instructions
 
-**For the Short Crust Pastry:**  
+**For the short crust pastry:**  
 ⦁ Mix all-purpose flour with salt and butter. With your hands combine the butter and flour until you get a crumbly mixture.  
 ⦁ Transfer the crumble into a large bowl, pour cold water, and start working on the mixture using your hands until it shapes into a dough. Wrap the dought in plastic wrap and refrigerate the dought for 20 minutes.  
 ⦁ Now place the dought on a floured working surface and roll it using a rolling pin until you get a 1/8 inch thick round sheet.  
@@ -67,7 +67,7 @@ Quince is known to belong to French cuisine. However, not many know that it orig
 ⦁ Place the tin in a preheated oven at 350 degree fahrenheit for about 20 minutes or until it is golden in colour.  
 ⦁ Once done, take it out of the oven and let it cool down.
 
-**For the Filling:**  
+**For the filling:**  
 ⦁ Melt butter in a saucepan. Add sliced onions and minced garlic, saute it for about 3 minutes until it turns translucent. Add fresh baby spinach and cook for 2 to 3 minutes until it withers. Once done, take the pan off the heat and set it aside to reach room temperature.  
 ⦁ Whisk eggs in a medium bowl. Add heavy cream, black pepper, and salt. Mix well.  
 ⦁ Once the pie crust is cool, place the onion and spinach mixture at the bottom of the pie.  
