@@ -34,8 +34,13 @@ const Heading = styled.div`
 const HeadingWrapper = styled.div`
   text-align: center;
 
+  @media only screen and (${device.minlg}) {
+    padding: 0 5rem;
+  }
+
   @media only screen and (${device.md}) {
     margin: 0 12.5rem;
+    /* padding: 0; */
   }
   @media only screen and (${device.sm}) {
     margin: 0 5rem;

@@ -81,9 +81,12 @@ const Wrapper = styled.div`
   .embla__slide__inner {
     position: relative;
     overflow: hidden;
-    height: 60rem;
+    height: 50rem;
     width: 100%;
 
+    @media only screen and (${device.lg}) {
+      height: 40rem;
+    }
     @media only screen and (${device.sm}) {
       height: 30rem;
     }
@@ -185,17 +188,6 @@ const ImageContainer = styled.div`
   object-position: center center;
 `;
 
-// Image optimization
-export type ImageLoaderProps = {
-  src: string;
-  width?: number;
-  quality?: number;
-};
-
-export const myLoader = ({ src, width, quality }: ImageLoaderProps) => {
-  return `https://veggiesforall.io/${src}?w=${900}&q=${quality || 75}`;
-};
-
 const EmblaCarousel = ({ slides }: any) => {
   const [viewportRef, embla] = useEmblaCarousel({ skipSnaps: false });
   const [prevBtnEnabled, setPrevBtnEnabled] = useState(false);
@@ -242,8 +234,6 @@ const EmblaCarousel = ({ slides }: any) => {
                           </div>
                           <ImageContainer>
                             <Image
-                              loader={myLoader}
-                              quality={30}
                               className="embla__slide__img"
                               src={media[index].img}
                               alt={media[index].title}

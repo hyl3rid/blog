@@ -11,6 +11,7 @@ const device = {
   md: `max-width: ${size.md}`,
   minmd: `min-width: ${size.md}`,
   lg: `max-width: ${size.lg}`,
+  minlg: `min-width: ${size.lg}`,
 };
 
 export { size, device };
