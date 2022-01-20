@@ -77,7 +77,8 @@ Salt, to taste
 ⦁ Add shallots and garlic, cook for a minute or until they are translucent.  
 ⦁ Next, add sliced mushrooms and cook until they are soft.  
 ⦁ Add parsley, black pepper and salt. Cook for two more minutes and set aside to cool down.  
-⦁ Once the mushrooms cool down, add them into a food processor bowl. Add ricotta and parmesan cheese and process for 20 seconds until you get a paste.
+⦁ Once the mushrooms cool down, add them into a bowl. Add ricotta and parmesan cheese and mix throughtly.  
+⦁ Set aside.
 
 **Assembly:**  
 ⦁ Roll out the pasta dough into a thin sheet using a machine or by hand as preferred.  

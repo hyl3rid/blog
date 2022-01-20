@@ -44,7 +44,7 @@ No one knows when mayonnaise became a part of potato salad. Some believe that it
 ### Ingredients
 
 **For the vegan mayonnaise:**  
-1/4 of aquafaba  
+1/4 of [aquafaba](https://en.wikipedia.org/wiki/Aquafaba "Water in which chickpeas were cooked.")  
 1 ½ tbsp lemon juice  
 1 tsp mustard  
 olive oil as needed  
