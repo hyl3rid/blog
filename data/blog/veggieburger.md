@@ -47,7 +47,7 @@ Although hamburgers are traditionally made from minced beef, the first-ever "veg
 ⦁ 1 garlic clove, minced  
 ⦁ 2 ½ cups Portobello mushrooms, sliced  
 ⦁ 3 tbsp soy sauce  
-⦁ ¼ tsp smoked paprika  
+⦁ pinch smoked paprika  
 ⦁ ¼ cup chopped walnuts  
 ⦁ ¼ cup ground flaxseed  
 ⦁ 1 cup short-grain brown rice, cooked  
@@ -65,7 +65,7 @@ Although hamburgers are traditionally made from minced beef, the first-ever "veg
 ⦁ Place a skillet over medium heat. Add olive oil.  
 ⦁ Next, add shallots and garlic, sauté for a minute until they are soft.  
 ⦁ Add mushrooms and season with salt and black pepper. Cook for 7 to 8 minutes until they start getting color.  
-⦁ Add worcestershire sauce and paprika. Mix everything and cook for a minute. Take it off the heat. Set it aside to cool down.  
+⦁ Add soy sauce and paprika. Mix everything and cook for a minute. Take it off the heat. Set it aside to cool down.  
 ⦁ Once the mixture cools down, place it in a bowl along with the walnuts crushed, cooked brown rice, flax seeds, and about ¼ cup of panko. Mix throughly until everything is well incorporated and it holds shape.  
 ⦁ Place it in a bowl and add the remaining panko. Mix well and shape the mixture into four equal-sized patties. ⦁ Place them on a plate. Refrigerate for an hour.  
 ⦁ Heat oil in a pan and place patties. Cook either side for about six minutes or till you get a char. you'll be able to additionally cook them on a grill.  
