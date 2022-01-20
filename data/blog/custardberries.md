@@ -79,6 +79,7 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 **For the custard cream:**  
 ⦁ In a saucepan, pour coconut milk/cream. Add sugar, vanilla. Place the saucepan on medium heat.  
 ⦁ Mix cornstarch and about 2 tbsp water to form a slurry in a separate small bowl.  
-⦁ Once the milk mixture heats up lower the heat, add the cornstarch with water mixture and let it cook for 10-15 minutes until the mixture develops flavor and thickens up. Stir constantly.  
-⦁ Once done, remove the saucepan from heat and let it cool down a bit. Pour it into the tart shell and place it in the refrigerator for at least an hour to set.  
-⦁ Just before serving, garnish the custard tart with fresh berries and fruits. Arrange them in a circle and add melted agar agar with sugar on top of the fruits to give them a brilliant color.
+⦁ Once the milk mixture heats up lower the heat to medium/low, add the cornstarch with water mixture and let it cook for 15 minutes so the mixture develops flavor and thickens up well. Stir constantly.  
+⦁ Once done, remove the saucepan from heat and let it cool down a bit. Then place it in the refrigerator until it is cold.  
+⦁ Finally pour the cream into the tart shell and garnish the custard tart with fresh berries and fruits. Arrange them in a circle and add dissolved agar agar with sugar on top of the fruits to give them a brilliant color.  
+⦁ Store the tart in the refrigerator until served.
