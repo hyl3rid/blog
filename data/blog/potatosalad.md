@@ -44,7 +44,7 @@ No one knows when mayonnaise became a part of potato salad. Some believe that it
 ### Ingredients
 
 **For the vegan mayonnaise:**  
-1/4 of [aquafaba](https://en.wikipedia.org/wiki/Aquafaba "Water in which chickpeas were cooked.")  
+1/4 cup of [aquafaba](https://en.wikipedia.org/wiki/Aquafaba "Water in which chickpeas were cooked.")  
 1 ½ tbsp lemon juice  
 1 tsp mustard  
 olive oil as needed  
@@ -71,8 +71,8 @@ Salt, to taste
 
 **For the potato salad:**
 
-1. Fill a large pot with water and place it on medium heat. Add washed and scrubbed potatoes and boil them for 15 to 20 minutes or until they are cooked.
-2. Drain the potatoes, peel them and cut them into inch cubes. Place the potato cubes in a large bowl.
+1. Fill a large pot with water and place it on medium heat. Add washed and scrubbed potatoes and boil them for 15 to 20 minutes or until they are tender.
+2. Drain the potatoes, peel them and cut them into cubes. Place the potato cubes in a large bowl.
 3. Once the potatoes are cool enough, add mayonnaise, celery, apple, red onions, parsley, apple cider vinegar, Dijon mustard, black pepper, and salt.
 4. Mix the ingredients thoroughly until everything is unified, and get a creamy salad.
 5. Place the salad in the refrigerator and serve chilled. Garnish with parsley.

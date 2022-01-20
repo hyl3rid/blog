@@ -28,19 +28,19 @@ Just like any other pasta, ravioli was originated in Italy around the 14th centu
 
 ### Nutritional information
 
-⦁ Calories: 496 kcal  
-⦁ Protein: 17.1g  
-⦁ Fat: 22.7g  
-⦁ Carbohydrate: 55.3g  
-⦁ Cholesterol: 286mg  
-⦁ Sodium: 165mg  
-⦁ Calcium: 155mg  
-⦁ Iron: 4mg  
-⦁ Potassium: 578mg
+⦁ **Calories:** 496 kcal  
+⦁ **Protein:** 17.1g  
+⦁ **Fat:** 22.7g  
+⦁ **Carbohydrate:** 55.3g  
+⦁ **Cholesterol:** 286mg  
+⦁ **Sodium:** 165mg  
+⦁ **Calcium:** 155mg  
+⦁ **Iron:** 4mg  
+⦁ **Potassium:** 578mg
 
 ### Ingredients
 
-**For the Pasta dough:**  
+**For the pasta dough:**  
 2 cups all-purpose Flour  
 2 eggs  
 3 egg Yolks
@@ -89,12 +89,12 @@ Salt, to taste
 ⦁ Add water in a large pot, season it with salt, add oil and bring it to a boil. Add ravioli and cook for 5 minutes.  
 ⦁ Strain the raviolis with a colander and serve with sauce.
 
-**For The Sauce:**  
+**For the sauce:**  
 ⦁ Meanwhile, heat oil in a pan over medium heat.  
 ⦁ Add heavy cream, white wine, thyme, salt, and pepper.  
-⦁ Once the mixture begins boiling, lower the heat and let it simmer until it has the desired consistency.  
+⦁ Once the mixture begins boiling, let the sauce boil until it has the desired consistency.  
 ⦁ Add parmesan cheese and mix well.  
 ⦁ Add cooked ravioli straight from the boiling pot and toss.  
 ⦁ Serve.
 
-**Note:** You may add mozzarella or cheddar the melts while boiling the cream to add more flavor and consistency.
+**Note:** You may add mozzarella or cheddar while boiling the cream to add more flavor and consistency.
