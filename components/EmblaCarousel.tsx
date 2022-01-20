@@ -182,10 +182,17 @@ const ImageWrapper = styled.div`
 
 const ImageContainer = styled.div`
   width: 100%;
-  height: 60rem;
+  height: 50rem;
   position: relative !important;
   object-fit: cover; // Optional
   object-position: center center;
+
+  @media only screen and (${device.lg}) {
+    height: 40rem;
+  }
+  @media only screen and (${device.sm}) {
+    height: 30rem;
+  }
 `;
 
 const EmblaCarousel = ({ slides }: any) => {
