@@ -46,7 +46,7 @@ Although hamburgers are traditionally made from minced beef, the first-ever "veg
 ⦁ 1 shallot, chopped  
 ⦁ 1 garlic clove, minced  
 ⦁ 2 ½ cups Portobello mushrooms, sliced  
-⦁ 4 tbsp worcestershire sauce  
+⦁ 3 tbsp soy sauce  
 ⦁ ¼ tsp smoked paprika  
 ⦁ ¼ cup chopped walnuts  
 ⦁ ¼ cup ground flaxseed  

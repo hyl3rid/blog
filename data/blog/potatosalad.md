@@ -66,13 +66,13 @@ Salt, to taste
 
 **For the mayonnaise:**
 
-1. Add aquafaba, mustard, lemon juice, and salt in a inmersion blender jug. Note I didn't have success using a traditional blender as it would sprinkle everything. Blend for 2 minutes until creamy texture.
-2. Continue to blend and slowly add drizzled olive oil for a moment, then stop adding oil and blend everything and add more oil slowly. Continue blending and adding oil until the desired consistency is obtained. This is thanks to emulsification.
+⦁ Add aquafaba, mustard, lemon juice, and salt in a inmersion blender jug. Note I didn't have success using a traditional blender as it would sprinkle everything. Blend for 2 minutes until creamy texture.  
+⦁ Continue to blend and slowly add drizzled olive oil for a moment, then stop adding oil and blend everything and add more oil slowly. Continue blending and adding oil until the desired consistency is obtained. This is thanks to emulsification.
 
 **For the potato salad:**
 
-1. Fill a large pot with water and place it on medium heat. Add washed and scrubbed potatoes and boil them for 15 to 20 minutes or until they are tender.
-2. Drain the potatoes, peel them and cut them into cubes. Place the potato cubes in a large bowl.
-3. Once the potatoes are cool enough, add mayonnaise, celery, apple, red onions, parsley, apple cider vinegar, Dijon mustard, black pepper, and salt.
-4. Mix the ingredients thoroughly until everything is unified, and get a creamy salad.
-5. Place the salad in the refrigerator and serve chilled. Garnish with parsley.
+⦁ Fill a large pot with water and place it on medium heat. Add washed and scrubbed potatoes and boil them for 15 to 20 minutes or until they are tender.  
+⦁ Drain the potatoes, peel them and cut them into cubes. Place the potato cubes in a large bowl.  
+⦁ Once the potatoes are cool enough, add mayonnaise, celery, apple, red onions, parsley, apple cider vinegar, Dijon mustard, black pepper, and salt.  
+⦁ Mix the ingredients thoroughly until everything is unified, and get a creamy salad.  
+⦁ Place the salad in the refrigerator and serve chilled. Garnish with parsley.

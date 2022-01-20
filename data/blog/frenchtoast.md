@@ -42,7 +42,7 @@ Moreover, another theory suggests that Joseph French invented the dish in the 17
 
 ### Ingredients
 
-**For the Pectin:**  
+**For the pectin:**  
 5 full Apple peels or Citrus rinds  
 1 cups of water  
 ¼ cup of lemon juice  
@@ -51,11 +51,11 @@ Rubbing alcohol to test the pectin
 **For the blueberry jelly:**
 
 1 ½ cup fresh blueberry  
-½ cup plus 2 tbsp Sugar  
+½ cup plus 2 tbsp sugar  
 1 tbsp Pectin  
 ¼ tbsp Lemon juice
 
-**For the French toast:**
+**For the french toast:**
 
 4 thick French bread slices  
 1 cup almond milk, unsweetened  
@@ -80,7 +80,7 @@ Coconut oil for frying
 
 **For the french toast:**
 
-- Pour almond milk, flax seeds, cinnamon powder, and nutmeg into a shallow dish. Mix well so that everything is well incorporated.
+- Pour almond milk, flax seeds, cinnamon powder, and nutmeg into a shallow dish. Mix well so that everything is well incorporated. Let it rest for 5 minutes.
 - In a frying pan, heat coconut oil.
 - Dip the preferred bread slice in the mixture so that it is completely damp with it. Place this bread on a frying pan and let it cook for a minute or two. Flip and cook the other side until it gets a golden color.
 - Repeat this step with all the bread slices.
