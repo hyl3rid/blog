@@ -42,7 +42,7 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 
 ### Ingredients
 
-**For the shell:**  
+**For the shell 9 inch:**  
 ⦁ 1 cup all-purpose flour  
 ⦁ 6 tbsp butter, unsalted and cubed  
 ⦁ 1 ½ tbsp ground flaxseed + 4 tbsp water or 1 egg  
