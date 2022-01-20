@@ -39,7 +39,7 @@ Tarte Tatin is a delicious upside-down pastry that was originated in 1888. Two s
 
 ### Ingredients
 
-**For the shortcrust pastry 9 inch**  
+**For the shortcrust pastry 9 inch:**  
 ⦁ 1 cup all-purpose flour  
 ⦁ 6 tbsp butter, unsalted and cubed  
 ⦁ 1 ½ tbsp ground flaxseed + 4 tbsp water or 1 egg  
@@ -47,7 +47,7 @@ Tarte Tatin is a delicious upside-down pastry that was originated in 1888. Two s
 ⦁ pinch salt
 
 **For the filling:**  
-⦁ 4 apples  
+⦁ 6 apples  
 ⦁ ½ cup sugar  
 ⦁ ¼ cup unsalted butter, cut into cubes  
 ⦁ 1 tsp of cinnamon powder  
@@ -56,14 +56,14 @@ Tarte Tatin is a delicious upside-down pastry that was originated in 1888. Two s
 ### Instructions
 
 **For The shortcrust pastry:**  
-⦁ In a large bowl mix all-purpose flour with salt and butter. With your hands combine the butter and flour until you get a crumbly mixture.  
+⦁ In a large bowl mix all-purpose flour with salt, confectioners sugar and butter. With your hands combine the butter and flour until you get a crumbly mixture.  
 ⦁ If you selected flaxseed, mix it with the water, let it rest for 10-15 minutes and add it to the flour. Else if you selected to use an egg, just lightly beat it and add the egg to the flour.  
 ⦁ Start working on the mixture using your hands gently until it shapes into a dough.  
 ⦁ Wrap the dought in plastic wrap and refrigerate the dought for 20 minutes.  
 ⦁ Now place it on a floured working surface and roll it using a rolling pin until you get a 1/8 inch thick round sheet.  
 ⦁ Place an 8 inches iron cast skillet over the pastry and use it as a mold to trim the excess pastry. Place it on a serving plate and refrigerate.
 
-**For The Filling:**  
+**For The filling:**  
 ⦁ Wash the apples, peel them, and cut them into cubes by removing the core and seeds. Place the apple cubes in a bowl and pour lemon juice on top. Toss so that the lemon juice covers each piece. This will stop the apples from browning.  
 ⦁ In an iron cast skillet, add butter and place it on medium heat.  
 ⦁ Add sugar and frequently mix until the butter melts and sugar dissolves.  

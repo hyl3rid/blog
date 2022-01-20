@@ -42,17 +42,17 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 
 ### Ingredients
 
-**For the shell 9 inch:**  
+**For the shortcrust pastry 9 inch:**  
 ⦁ 1 cup all-purpose flour  
 ⦁ 6 tbsp butter, unsalted and cubed  
 ⦁ 1 ½ tbsp ground flaxseed + 4 tbsp water or 1 egg  
 ⦁ 1 ½ tbsp confectioners sugar  
 ⦁ pinch salt
 
-**For the custard:**  
-⦁ 2 cups coconut milk or coconut cream  
+**For the custard cream:**  
+⦁ 3 cups coconut milk or coconut cream  
 ⦁ 2 tbsp confectioners sugar  
-⦁ 3 tbsp cornstarch  
+⦁ 4 tbsp cornstarch  
 ⦁ 1 tsp vanilla extract
 
 **For topping:**  
@@ -65,7 +65,7 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 
 ### Instructions
 
-**For the shell**  
+**For the shortcrust pastry:**  
 ⦁ In a large bowl mix all-purpose flour with salt, confectioners sugar and butter. With your hands combine the butter and flour until you get a crumbly mixture.  
 ⦁ If you selected flaxseed, mix it with the water, let it rest for 10-15 minutes and add it to the flour. Else if you selected to use an egg, just lightly beat it and add the egg to the flour.  
 ⦁ Start working on the mixture using your hands gently until it shapes into a dough.  
@@ -76,9 +76,9 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 ⦁ Place the tin in a preheated oven at 350 degree fahrenheit for about 25 minutes or until it is golden in colour.  
 ⦁ Once done, take it out of the oven and let it cool down.
 
-**For the custard cream**  
+**For the custard cream:**  
 ⦁ In a saucepan, pour coconut milk/cream. Add sugar, vanilla. Place the saucepan on medium heat.  
 ⦁ Mix cornstarch and about 2 tbsp water to form a slurry in a separate small bowl.  
-⦁ Once the milk mixture heats up lower the heat, add the cornstarch with water mixture and let it cook for 5 minutes until the mixture thickens up and there is a Nappe consistency. Stir constantly.  
+⦁ Once the milk mixture heats up lower the heat, add the cornstarch with water mixture and let it cook for 10-15 minutes until the mixture develops flavor and thickens up. Stir constantly.  
 ⦁ Once done, remove the saucepan from heat and let it cool down a bit. Pour it into the tart shell and place it in the refrigerator for at least an hour to set.  
 ⦁ Just before serving, garnish the custard tart with fresh berries and fruits. Arrange them in a circle and add melted agar agar with sugar on top of the fruits to give them a brilliant color.

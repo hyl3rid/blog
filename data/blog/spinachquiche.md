@@ -39,7 +39,7 @@ Quince is known to belong to French cuisine. However, not many know that it orig
 
 ### Ingredients
 
-**For the shortcrust pastry 9 inch**  
+**For the shortcrust pastry 9 inch:**  
 ⦁ 1 cup all-purpose flour  
 ⦁ 6 tbsp butter, unsalted and cubed  
 ⦁ 1 ½ tbsp ground flaxseed + 3 ½ tbsp water or 1 egg  
