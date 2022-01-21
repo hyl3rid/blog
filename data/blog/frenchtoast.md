@@ -26,7 +26,7 @@ Moreover, another theory suggests that Joseph French invented the dish in the 17
 **Preparation time:** 15minutes  
 **Cooking time:** 15 minutes  
 **Total time:** 30 minutes  
-**Servings:** 4
+**Servings:** 6
 
 ### Nutritional information
 
@@ -57,12 +57,11 @@ Rubbing alcohol to test the pectin
 
 **For the french toast:**
 
-4 thick French bread slices  
+4 french bread slices  
 1 cup almond milk, unsweetened  
-2 tsp maple syrup  
-1 tsp ground flaxseeds  
-1 tsp cinnamon powder  
-A pinch nutmeg  
+1 ½ tbsp ground flaxseeds  
+A pinch of cinnamon powder  
+A pinch of nutmeg  
 Coconut oil for frying
 
 ### Instructions
