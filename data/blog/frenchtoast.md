@@ -9,15 +9,15 @@ tags:
   - vegan
 ---
 
-# Vegan French toast with Blueberry Jelly
+# Vegan French Toast with Blueberry Jelly
 
 ![French Toast with berries and jelly](/frenchtoast.jpg "image")
 
 This fullfilling yet simple recipe with jelly will blast you. These toast are sweet, fluffy, and just what you need to give yourself a treat or to get your day started.
 
-## Origin of French toast
+## Origin of French Toast
 
-Because of the name, most people think that French toast originated from France. However, its history is a little more complicated than this. According to some experts, French toast dates back to the ancient Roman era in the 5th century. Furthermore, in the 15th century, the same recipe of French bread was used, but it came by the name &quot;lost bread.&quot; However, in the 17th century, the dish was given a proper name, &quot;French toast.&quot;
+Because of the name, most people think that french toast originated from France. However, its history is a little more complicated than this. According to some experts, French toast dates back to the ancient Roman era in the 5th century. Furthermore, in the 15th century, the same recipe of French bread was used, but it came by the name &quot;lost bread.&quot; However, in the 17th century, the dish was given a proper name, &quot;French toast.&quot;
 
 Moreover, another theory suggests that Joseph French invented the dish in the 17th century in New York. Hence the name French toast originated. Whatever the origin of the dish, we are happy that we get to enjoy this tasteful dish!
 
@@ -42,8 +42,9 @@ Moreover, another theory suggests that Joseph French invented the dish in the 17
 
 ### Ingredients
 
-**For the pectin:**  
-5 full Apple peels or Citrus rinds  
+**For the pectin:**
+
+5 full apple peels or citrus rinds  
 1 cups of water  
 ¼ cup of lemon juice  
 Rubbing alcohol to test the pectin
@@ -52,14 +53,14 @@ Rubbing alcohol to test the pectin
 
 1 ½ cup fresh blueberry  
 ½ cup plus 2 tbsp sugar  
-1 tbsp Pectin  
-¼ tbsp Lemon juice
+1 tbsp pectin  
+¼ tbsp lemon juice
 
 **For the french toast:**
 
 4 french bread slices  
 1 cup almond milk, unsweetened  
-1 ½ tbsp ground flaxseeds  
+½ tbsp of ground flaxseeds  
 A pinch of cinnamon powder  
 A pinch of nutmeg  
 Coconut oil for frying
