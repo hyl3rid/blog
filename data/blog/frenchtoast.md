@@ -7,11 +7,12 @@ tags:
   - bread
   - blueberry
   - vegan
+  - breakfast
 ---
 
 # Vegan French Toast with Blueberry Jelly
 
-![French Toast with berries and jelly](/frenchtoast.jpg "image")
+![Vegan French Toast with berries and jelly](/frenchtoast.jpg "image")
 
 This fullfilling yet simple recipe with jelly will blast you. These toast are sweet, fluffy, and just what you need to give yourself a treat or to get your day started.
 
@@ -21,7 +22,7 @@ Because of the name, most people think that french toast originated from France.
 
 Moreover, another theory suggests that Joseph French invented the dish in the 17th century in New York. Hence the name French toast originated. Whatever the origin of the dish, we are happy that we get to enjoy this tasteful dish!
 
-## French toast with Blueberry Jelly Recipe
+## French Toast with Blueberry Jelly Recipe
 
 **Preparation time:** 15minutes  
 **Cooking time:** 15 minutes  

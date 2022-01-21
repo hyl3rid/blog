@@ -42,7 +42,7 @@ Crepes are a type of pancake that is super thin. They are served as both sweet a
 ### Ingredients
 
 **For the Pectin:**  
-5 full Apple peels or Citrus rinds  
+5 full apple peels or citrus rinds  
 1 cups of water  
 ¼ cup of lemon juice  
 Rubbing alcohol to test the pectin
@@ -56,12 +56,11 @@ Rubbing alcohol to test the pectin
 
 **For the Crepes:**
 
-2 cups All-Purpose Flour  
-1 ½ cup Almond Milk or Sparkling Water  
-1 tbsp Maple Syrup  
-½ tbsp Cornstartch  
-A pinch Salt  
-Melted Vegan Butter for cooking
+1 ½ cups all-purpose flour  
+1 cup almond milk or sparkling water  
+½ tbsp cornstartch  
+A pinch salt  
+Melted vegan butter for cooking
 
 ### Instructions
 
@@ -72,15 +71,16 @@ Melted Vegan Butter for cooking
 - To test the pectin, in a tablespoon pour a little of rubbing alcohol and then pectin. It should form a ball of jelly. This way we will know it will jellify the jelly.
 - Wash the strawberries, remove the crown, and cut them in half. Place them in a bowl.
 - Add strawberries, and sugar in a medium-sized saucepan. Stir in order that everything is well combined.
-- Place the saucepan over medium heat and occasionally stir until the sugar dissolves. Let the mixture reach boiling. Reduce the heat to low and let it simmer for 5 minutes. Skim off any foam.
-- Add the pectin and lemon juice and mix well.
-- Remove the saucepan from heat and let it sit for a minute or two.
-- When the jelly is at room temperature, pour this mixture into a sterilized jar, leaving about an inch space. - - Finally, seal and store the product.
+- Place the saucepan over medium heat and occasionally stir until the sugar dissolves. Let the mixture reach boiling. Reduce the heat to low and let it simmer for 15 minutes. Skim off any foam.
+- Add the pectin and lemon juice and mix well and let it cook for 5 more minutes.
+- Remove the saucepan from heat and let it sit.
+- When the jelly is at room temperature, pour this mixture into a sterilized jar, leaving about an inch space.
+- Finally, seal and store the product.
 
 **For the crepes:**
 
-- Add sieved all-purpose flour, salt, and cornstartch to a large bowl. Stir.
-- Slowly pour almond milk while whisking. Next, pour sparkling water and whisk.
+- Add sieved all-purpose flour, salt, and cornstartch to a bowl and mix the ingredients.
+- Pour the liquid of choice and whisk so everything is incorporated.
 - In a frying pan, heat vegan butter. Ladle a spoonful of crepe mixture and pour it onto the frying pan. Move the pan to spread the mixture.
 - Once it is cooked from one side, carefully flip it to cook on the other side. Take it out on a serving dish and repeat until you have used up all the mixture.
 - Serve with a spoonful of homemade strawberry jelly and fold or roll the crepes.

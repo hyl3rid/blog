@@ -4,7 +4,13 @@ import { getAllPostsWithFrontMatter } from "../lib/utils";
 import { BlogProps } from "../lib/types";
 
 export default function Page({ posts }: BlogProps) {
-  const firstSix = posts?.slice(0, 6);
+  const firstSix = posts
+    ?.sort(
+      (a, b) =>
+        new Date(b.frontMatter.publishedDate).getTime() -
+        new Date(a.frontMatter.publishedDate).getTime()
+    )
+    .slice(0, 6);
   return (
     <>
       <HomePage />
