@@ -57,9 +57,11 @@ Rubbing alcohol to test the pectin
 
 **For the crepes:**
 
-1 ½ cups all-purpose flour  
-1 cup almond milk or sparkling water  
+1 cup of all-purpose flour  
+1 cup + 2 tbps almond milk or sparkling water  
 ½ tbsp cornstarch  
+1 tsp ground flaxseed  
+¼ tsp of baking powder  
 A pinch salt  
 Vegan butter for cooking
 
@@ -80,8 +82,9 @@ Vegan butter for cooking
 
 **For the crepes:**
 
-- Add sieved all-purpose flour, salt, and cornstarch to a bowl and mix the ingredients.
-- Pour the liquid of choice and whisk so everything is incorporated.
+- Incorporate ground flaxseed and almond milk and let is sit for 5-10 minutes.
+- Add sieved all-purpose flour plus cornstarch, salt, ground flaxseed and baking powder to a bowl and mix the ingredients.
+- Pour the liquid of choice with flaxseed and whisk so everything is incorporated.
 - In a frying pan, heat at medium temperature vegan butter. Ladle a spoonful of crepe mixture and pour it onto the frying pan. Move the pan to spread the mixture.
 - Once it is cooked from one side, carefully flip it to cook on the other side. Take it out on a serving dish and repeat until you have used up all the mixture.
 - Serve with a spoonful of homemade strawberry jelly and fold or roll the crepes.
