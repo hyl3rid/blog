@@ -60,7 +60,7 @@ When it comes to hummus, you might find some evidence that hummus was originated
 ⦁ Drain the canned chickpea into a colander. Reserve some of the liquid from canned chickpea.  
 ⦁ Add chickpeas, lemon juice, tahini, garlic cloves, cumin, cayenne pepper, salt, and olive oil in a high-speed blender jug or food processor.  
 ⦁ Pour about ¼ cup of liquid from canned chickpea and add olive oil.  
-⦁ Seal the a high-speed blender jug or food processor with the lid and start processing for about 30 to 60 seconds or until you see a creamy mixture. Make sure it isn't too thick but thick enough to hold shape if you drag a fork or spoon in it. With some practice, you'll find the perfect texture for the Hummus. If it's too thick, add more canned chickpea liquid.  
+⦁ Seal the a high-speed blender jug or food processor with the lid and start processing and add liquid as required. Make sure it isn't too thick but thick enough to hold shape if you drag a fork or spoon in it. With some practice, you'll find the perfect texture for the Hummus. If it's too thick, add more canned chickpea liquid.  
 ⦁ Once done, scoop the hummus out of the blender jug into a serving bowl. Drizzle olive oil on top and garnish with paprika powder.  
 ⦁ Serve alongside with toasted Pita. Enjoy!
 
