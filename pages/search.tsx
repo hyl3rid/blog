@@ -67,7 +67,7 @@ const StyledDescription = styled.p`
 `;
 
 const ImageWrapper = styled.div`
-  width: 7rem;
+  min-width: 7rem;
   height: 7rem;
   margin-right: 1rem;
   border-radius: 50%;

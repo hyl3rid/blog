@@ -82,3 +82,5 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 ⦁ Once done, remove the saucepan from heat and let it cool down a bit. Then place it in the refrigerator until it is cold.  
 ⦁ Finally pour the cream into the tart shell and garnish the custard tart with fresh berries and fruits. Arrange them in a circle and add dissolved agar agar with sugar on top of the fruits to give them a brilliant color.  
 ⦁ Store the tart in the refrigerator until served.
+
+**Note:** Coconut cream might be confused with [cream of coconut](https://en.wikipedia.org/wiki/Coconut_milk#Cream_of_coconut "Sweetened coconut cream.").
