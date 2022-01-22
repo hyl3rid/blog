@@ -50,7 +50,7 @@ Rubbing alcohol to test the pectin
 
 **For the strawberry jelly:**
 
-500g fresh strawberries, halved  
+2 ¼ cups (500g) fresh strawberries, halved  
 2 cups sugar  
 ½ cup of water  
 1 tbsp pectin  
@@ -61,7 +61,7 @@ Rubbing alcohol to test the pectin
 1 cup of all-purpose flour  
 1 cup + 2 tbps almond milk or sparkling water  
 ½ tbsp cornstarch  
-1 tsp ground flaxseed  
+1 tsp ground chia  
 ¼ tsp of baking powder  
 A pinch salt  
 Vegan butter for cooking
@@ -83,9 +83,9 @@ Vegan butter for cooking
 
 **For the crepes:**
 
-- Incorporate ground flaxseed and 2 tbps of almond milk and let it sit for 5-10 minutes.
+- Incorporate ground chia and 2 tbps of almond milk and let it soak for 5-10 minutes.
 - Add sieved all-purpose flour plus cornstarch, salt and baking powder to a bowl and mix the ingredients.
-- Pour the almond milk and the hidrated flaxseed into the bowl and whisk so everything is incorporated.
+- Pour the almond milk and the hidrated chia into the bowl and whisk so everything is incorporated.
 - In a frying pan, heat at medium temperature vegan butter. Ladle a spoonful of crepe mixture and pour it onto the frying pan. Spread the mixture across the surface of the pan.
 - Once it is cooked from one side, carefully flip it to cook on the other side. Take it out on a serving dish and repeat until you have used up all the mixture.
 - Serve with a spoonful of homemade strawberry jelly and fold or roll the crepes.

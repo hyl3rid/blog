@@ -52,7 +52,7 @@ Rubbing alcohol to test the pectin
 
 **For the blueberry jelly:**
 
-500g fresh blueberry  
+2 ¼ cups (500g) fresh blueberry  
 2 cups sugar  
 ½ cup of water  
 1 tbsp pectin  
@@ -60,7 +60,7 @@ Rubbing alcohol to test the pectin
 
 **For the french toast:**
 
-4 french bread slices  
+4 bread slices of choice  
 1 cup almond milk, unsweetened  
 ½ tbsp of ground flaxseeds  
 A pinch of cinnamon powder  
