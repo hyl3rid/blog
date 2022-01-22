@@ -68,23 +68,36 @@ const StyledDescription = styled.p`
 
 const ImageWrapper = styled.div`
   min-width: 7rem;
+  max-width: 7rem;
   height: 7rem;
   margin-right: 1rem;
   border-radius: 50%;
   position: relative;
   overflow: hidden;
 
+  @media only screen and (${device.xs}) {
+    border-radius: 0;
+    height: 12rem;
+    max-width: 100%;
+  }
+
   .image {
     width: 100%;
     height: 100%;
     position: relative !important;
     object-fit: cover; // Optional
+    object-position: center center;
   }
 `;
 
 const ResultWrapper = styled.div`
-  display: flex;
+  display: grid;
+  grid-template-columns: auto 1fr;
   cursor: pointer;
+
+  @media only screen and (${device.xs}) {
+    grid-template-columns: 1fr;
+  }
 `;
 
 const StyledResults = styled.div`
