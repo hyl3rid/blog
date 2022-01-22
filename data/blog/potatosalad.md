@@ -44,7 +44,7 @@ No one knows when mayonnaise became a part of potato salad. Some believe that it
 ### Ingredients
 
 **For the vegan mayonnaise:**  
-1/4 cup of [aquafaba](https://en.wikipedia.org/wiki/Aquafaba "Water in which chickpeas were cooked.")  
+1/4 cup of [aquafaba](https://en.wikipedia.org/wiki/Aquafaba "Water in which chickpeas or other beans were cooked.")  
 1 ½ tbsp lemon juice  
 1 tsp mustard  
 olive oil as needed  
@@ -66,7 +66,7 @@ Salt, to taste
 
 **For the mayonnaise:**
 
-⦁ Add aquafaba, mustard, lemon juice, and salt in a inmersion blender jug. Note I didn't have success using a traditional blender as it would sprinkle everything. Blend for 2 minutes until creamy texture.  
+⦁ Add [aquafaba](https://en.wikipedia.org/wiki/Aquafaba "Water in which chickpeas or other beans were cooked."), mustard, lemon juice, and salt in a inmersion blender jug. Note I didn't have success using a traditional blender as it would sprinkle everything. Blend for 2 minutes until creamy texture.  
 ⦁ Continue to blend and slowly add drizzled olive oil for a moment, then stop adding oil and blend everything and add more oil slowly. Continue blending and adding oil until the desired consistency is obtained. This is thanks to emulsification.
 
 **For the potato salad:**

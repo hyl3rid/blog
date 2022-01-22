@@ -45,7 +45,7 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 **For the shortcrust pastry 9 inch:**  
 ⦁ 1 cup all-purpose flour  
 ⦁ 6 tbsp butter, unsalted and cubed  
-⦁ 1 ½ tbsp ground flaxseed + 4 tbsp water or 1 egg  
+⦁ 3 tbsp [aquafaba](https://en.wikipedia.org/wiki/Aquafaba "Water in which chickpeas or other beans were cooked.")  
 ⦁ 1 ½ tbsp confectioners sugar  
 ⦁ pinch salt
 
@@ -67,8 +67,7 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 
 **For the shortcrust pastry:**  
 ⦁ In a large bowl mix all-purpose flour with salt, confectioners sugar and butter. With your hands combine the butter and flour until you get a crumbly mixture.  
-⦁ If you selected flaxseed, mix it with the water, let it rest for 10-15 minutes and add it to the flour. Else if you selected to use an egg, just lightly beat it and add the egg to the flour.  
-⦁ Start working on the mixture using your hands gently until it shapes into a dough.  
+⦁ Add the [aquafaba](https://en.wikipedia.org/wiki/Aquafaba "Water in which chickpeas or other beans were cooked.") and start working on the mixture using your hands gently until it shapes into a dough. The dought should not be kneated as this will produce gluten which we don't want for a crumbly texture.  
 ⦁ Wrap the dought in plastic wrap and refrigerate the dought for 20 minutes.  
 ⦁ Now place the dought on a floured working surface and roll it using a rolling pin until you get a 1/8 inch thick round sheet.  
 ⦁ Chill a 9 inch pie dish and then greased it lightly with oil to avoid the pastry from sticking. Go ahead and pick up the rolled dought with the back of your hands and place it into a the pie dish. Press the dought so it fits tightly and trim the excess pastry.  

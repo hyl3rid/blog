@@ -52,10 +52,11 @@ Rubbing alcohol to test the pectin
 
 **For the blueberry jelly:**
 
-1 ½ cup fresh blueberry  
-½ cup plus 2 tbsp sugar  
+500g fresh blueberry  
+2 cups sugar  
+½ cup of water  
 1 tbsp pectin  
-¼ tbsp lemon juice
+1 tsp lemon juice
 
 **For the french toast:**
 
@@ -73,7 +74,7 @@ Coconut oil for frying
 - To extract pectin boil in water apple peel or citrus rinds. When it starts boiling, lower the heat to simmer. Let is simmer for 15-20 minutes.
 - Place the peels or rinds in the colander with a strainer cloth. Let the pectin rest for 4 hours.
 - To test the pectin, in a tablespoon pour a little of rubbing alcohol and then pectin. It should form a ball of jelly. This way we will know it will jellify the jelly.
-- Wash the blueberries and place them in a saucepan over medium heat with the sugar. Let them cook for about 10 minutes. Mix once in a while.
+- Wash the blueberries and place them in a saucepan over medium heat with the sugar and water. Let them cook for about 10 minutes. Mix once in a while.
 - After the sugar and the blueberries have been cooked, add pectin and lemon juice. Stir so that everything is well combined.
 - Place the saucepan over medium heat and bring it to a boil.
 - Remove the saucepan from heat and let it cool down.

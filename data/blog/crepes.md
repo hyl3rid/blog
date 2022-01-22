@@ -50,10 +50,11 @@ Rubbing alcohol to test the pectin
 
 **For the strawberry jelly:**
 
-1 ½ cup fresh strawberries, halved  
-½ cup plus 2 tbsp sugar  
+500g fresh strawberries, halved  
+2 cups sugar  
+½ cup of water  
 1 tbsp pectin  
-¼ tbsp lemon juice
+1 tsp lemon juice
 
 **For the crepes:**
 
@@ -73,7 +74,7 @@ Vegan butter for cooking
 - Place the peels or rinds in the colander with a strainer cloth. Let the pectin rest for 4 hours.
 - To test the pectin, in a tablespoon pour a little of rubbing alcohol and then pectin. It should form a ball of jelly. This way we will know it will jellify the jelly.
 - Wash the strawberries, remove the crown, and cut them in half. Place them in a bowl.
-- Add strawberries, and sugar in a medium-sized saucepan. Stir in order that everything is well combined.
+- Add strawberries, water, and sugar in a medium-sized saucepan. Stir in order that everything is well combined.
 - Place the saucepan over medium heat and occasionally stir until the sugar dissolves. Let the mixture reach boiling. Reduce the heat to low and let it simmer for 15 minutes. Skim off any foam.
 - Add the pectin and lemon juice and mix well and let it cook for 5 more minutes.
 - Remove the saucepan from heat and let it sit.
