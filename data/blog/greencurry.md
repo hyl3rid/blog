@@ -39,23 +39,29 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 
 ### Ingredients
 
+⦁ 2 tsp of ginger, minced  
+⦁ 1 garlic clove, minced  
 ⦁ ⅓ cup green beans, trimmed and cut  
 ⦁ ⅓ cup carrots, sliced  
 ⦁ 1 cup sweet potatoes  
 ⦁ 1 cup spinach  
+⦁ ⅓ cashews, roasted  
 ⦁ 2 red spur chilies, julienne  
 ⦁ 2 cups (16oz) of coconut cream  
-⦁ 1/3 cup [vegan Thai green curry paste](https://en.wikipedia.org/wiki/Green_curry "Bright curry paste has no shrimp.")  
+⦁ 2 tbsp [vegan Thai green curry paste](https://en.wikipedia.org/wiki/Green_curry "Bright curry paste has no shrimp.")  
 ⦁ 1 tsp brown sugar  
-⦁ Thai basil leaves, for garnish  
+⦁ Lime juice to drizzle  
+⦁ Thai basil leaves, to garnish  
+⦁ Cilantro, to garnish
 ⦁ Extra coconut cream to drizzle
 
 ### Instructions
 
-⦁ Place a pot over medium heat, drizzle vegetable oil. Add sweet potatoes, green beans, carrots, spinach and spur chillies without cores and seeds, cook for 5 minutes.  
+⦁ Place a pot over medium heat, drizzle vegetable oil. Add the garlic and ginger, cook for 3 minutes.
+⦁ Add sweet potatoes, green beans, carrots, spinach and spur chillies without cores and seeds, cook for 5 minutes.  
 ⦁ Add green Thai paste and continue stirring it. Let it cook for about 3 minutes.  
 ⦁ Pour the coconut cream into the pot with brown sugar. Mix well until the sugar dissolves and all the ingredient incorporate.  
 ⦁ Add Thai basil and turn up the heat to medium/high and bring the mixture to a boil.  
 ⦁ Lower the heat and let it simmer until the vegetables are tender.  
-⦁ Remove the curry from heat and mix well. Finally you can drizzle coconut cream to decorate.  
-⦁ Serve alongside basmati rice. Enjoy.
+⦁ Remove the curry from heat, add cashews and cilantro, mix the ingredients well. Finally you can drizzle coconut cream to decorate and some lime juice.  
+⦁ Serve alongside basmati rice and garnish with cilantro. Enjoy.
