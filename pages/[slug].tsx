@@ -69,17 +69,15 @@ const BlogPost = ({
   return (
     <Layout2 title={frontMatter.title} description={frontMatter.description}>
       <Wrapper>
-        <TabWrapper>
+        {/* <TabWrapper>
           {frontMatter.tags.includes("vegetarian") && (
-            // <Anchor href={`/${params.slug}`}>Vegetarian</Anchor>
-            <Anchor>Vegetarian</Anchor>
+            <Anchor href={`/${params.slug}`}>Vegetarian</Anchor>
           )}
 
           {frontMatter.tags.includes("vegan") && (
-            // <Anchor href={`/${params.slug}`}>Vegan</Anchor>
-            <Anchor>Vegan</Anchor>
+            <Anchor href={`/${params.slug}`}>Vegan</Anchor>
           )}
-        </TabWrapper>
+        </TabWrapper> */}
         <MarkdownWrapper>
           <ReactMarkdown
             components={{
