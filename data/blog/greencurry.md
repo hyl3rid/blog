@@ -16,7 +16,7 @@ Thai cuisine is known for its delicious curries. Whether it is white coconut cur
 
 ## Origin of Thai Green Curry
 
-Curries have a prominent place in Thai cuisine. So, it is safe to say that green curry is Thailand's authentic recipe. It originated from these lands. According to some food experts, Thai green curry originated in the early 1900s'. They had a mild green color that came from using fresh green chilies and coconut milk/cream. Thanks to coconut milk/cream, the flavors are not very overpowering but offer richness and creaminess.
+Curries have a prominent place in Thai cuisine. So, it is safe to say that green curry is Thailand's authentic recipe. It originated from these lands. According to some food experts, Thai green curry originated in the early 1900s'. They had a mild green color that came from using fresh green chilies and coconut cream/cream. Thanks to coconut cream/cream, the flavors are not very overpowering but offer richness and creaminess.
 
 ## Thai Green Vegetable Curry Recipe
 
@@ -44,19 +44,19 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ⦁ ⅔ cup bamboo shoots, sliced  
 ⦁ 1 cup cauliflower florets  
 ⦁ 2 red spur chilies, julienne  
-⦁ 2 cups (16oz) of coconut milk  
+⦁ 2 cups (16oz) of coconut cream  
 ⦁ 1/3 cup [vegan Thai green curry paste](https://en.wikipedia.org/wiki/Green_curry "Bright curry paste has no shrimp.")  
-⦁ 2 tbsp brown sugar  
+⦁ 1 tsp brown sugar  
 ⦁ Thai basil leaves, for garnish  
 ⦁ Lime juice for drizzling  
 ⦁ Extra coconut cream to drizzle
 
 ### Instructions
 
-⦁ Place a pot over heat, drizzle vegetable oil. Add cauliflower, green beans, bamboo shoots, carrots and spur chillies cook for 5 minutes.  
-⦁ Reduce the heat to low and add green Thai paste. Keep stirring it. Let it cook for about 3 minutes.  
-⦁ Open the cans of coconut milk and pour into the pot with brown sugar. Mix well until the sugar dissolves and all the ingredient incorporate.  
-⦁ Add Thai basil and turn up the heat to medium and bring the mixture to a boil.  
-⦁ Lower the heat and let it simmer for about 10 minutes or until the vegetables are tender. This will cause coconut cream thicken by evaporation and will also incorporate all the flavors.  
+⦁ Place a pot over medium heat, drizzle vegetable oil. Add cauliflower, green beans, bamboo shoots, carrots and spur chillies without cores and seeds, cook for 5 minutes.  
+⦁ Add green Thai paste and continue stirring it. Let it cook for about 3 minutes.  
+⦁ Pour the coconut cream into the pot with brown sugar. Mix well until the sugar dissolves and all the ingredient incorporate.  
+⦁ Add Thai basil and turn up the heat to medium/high and bring the mixture to a boil.  
+⦁ Lower the heat and let it simmer until the vegetables are tender.  
 ⦁ Remove the curry from heat, squeeze lime and mix well. Finally you can drizzle coconut cream to decorate.  
 ⦁ Serve alongside basmati rice. Enjoy.
