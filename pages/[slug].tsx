@@ -42,6 +42,11 @@ const MarkdownWrapper = styled.div`
 const TabWrapper = styled.div`
   display: flex;
   width: 70%;
+
+  @media only screen and (${device.md}) {
+    width: 100%;
+    padding: 0 3rem;
+  }
 `;
 
 const Anchor = styled.a`
