@@ -65,7 +65,7 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 ⦁ Slice the eggplant into rounds and add salt to each side. Place the rounds in a colander with a bowl underneath to catch the liquid from the eggplant.  
 ⦁ In a large bowl, add mozzarella cheese and grated parmesan cheese. Mix well and set aside.  
 ⦁ Heat the oven to 400 degrees F and oil a baking dish.  
-⦁ Trim sides of the onions and cut in fourths. Crush garlic to remove peel and core. Cut the tomato into 4 pieces. Place the onions, garlic, tomatoes, red pepper in the baking dish and drizzle generously with olive oil, add salt and herbs.  
+⦁ Trim sides of the onions and cut in fourths. Crush garlic to remove peel and core. Cut the tomato into 4 pieces. Place the onions, garlic, tomatoes, red pepper in the baking dish and drizzle the vegetables with olive oil, add salt and herbs.  
 ⦁ Into the oven, let it cook for 30 minutes.  
 ⦁ After the vegetables are cooked in the oven, take them out and place the garlic, onions and the tomatoes in a saucepan.  
 ⦁ Crush the garlic, onions and the tomatoes, they should be soft. Finally mix throughly so all ingredients incorporate.  
