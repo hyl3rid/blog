@@ -41,7 +41,6 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 
 ⦁ ⅓ cup green beans, trimmed and cut  
 ⦁ ⅔ cup carrots, sliced  
-⦁ ⅔ cup cauliflower, florets  
 ⦁ 1 cup sweet potatoes
 ⦁ 1 cup spinach, dices  
 ⦁ 2 red spur chilies, julienne  
@@ -53,7 +52,7 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 
 ### Instructions
 
-⦁ Place a pot over medium heat, drizzle vegetable oil. Add sweet potatoes, cauliflower, green beans, carrots, spinach and spur chillies without cores and seeds, cook for 5 minutes.  
+⦁ Place a pot over medium heat, drizzle vegetable oil. Add sweet potatoes, green beans, carrots, spinach and spur chillies without cores and seeds, cook for 5 minutes.  
 ⦁ Add green Thai paste and continue stirring it. Let it cook for about 3 minutes.  
 ⦁ Pour the coconut cream into the pot with brown sugar. Mix well until the sugar dissolves and all the ingredient incorporate.  
 ⦁ Add Thai basil and turn up the heat to medium/high and bring the mixture to a boil.  
