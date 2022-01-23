@@ -61,7 +61,7 @@ Rubbing alcohol to test the pectin
 1 cup of all-purpose flour  
 1 cup + 2 tbps almond milk or sparkling water  
 ½ tbsp cornstarch  
-1 tsp ground chia  
+½ tbsp ground chia  
 ¼ tsp of baking powder  
 A pinch salt  
 Vegan butter for cooking

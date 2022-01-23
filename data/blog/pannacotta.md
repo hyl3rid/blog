@@ -41,7 +41,7 @@ In 1879, a dessert called Latte Inglese was widely popular. It had the same prep
 
 ### Ingredients
 
-1 can of coconut cream  
+2 cups (15 oz) of coconut cream  
 1 tsp powdered [agar agar](https://en.wikipedia.org/wiki/Agar "Gelatin from algae.") or 3 tsp of gelatin unflavored powder  
 3 tbsp of sugar  
 1 tsp clear vanilla extracts  
@@ -63,4 +63,7 @@ Apart from the simple vanilla panna cotta, you can add a few flavors to make thi
 - **Chocolate:** Adding dark chocolate to the milk mixture will give you a rich chocolaty panna cotta. Furthermore, use chocolate syrup instead of caramel syrup.
 - **Matcha:** Matcha is a green tea that has gained immense popularity. It gives an earthy flavor and a pleasant green color. You can add a tablespoon of food-grade matcha powder to give your panna cotta a unique twist.
 
-**Note:** Coconut cream might be confused with [cream of coconut](https://en.wikipedia.org/wiki/Coconut_milk#Cream_of_coconut "Sweetened coconut cream.").
+**Notes:**
+
+- Coconut cream might be confused with [cream of coconut](https://en.wikipedia.org/wiki/Coconut_milk#Cream_of_coconut "Sweetened coconut cream.").
+- You may use coconut cream and coconut milk interchangebly.
