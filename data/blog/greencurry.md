@@ -40,9 +40,9 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ### Ingredients
 
 ⦁ ⅓ cup green beans, trimmed and cut  
-⦁ ⅔ cup carrots, sliced  
-⦁ 1 cup sweet potatoes
-⦁ 1 cup spinach, dices  
+⦁ ⅓ cup carrots, sliced  
+⦁ 1 cup sweet potatoes  
+⦁ 1 cup spinach  
 ⦁ 2 red spur chilies, julienne  
 ⦁ 2 cups (16oz) of coconut cream  
 ⦁ 1/3 cup [vegan Thai green curry paste](https://en.wikipedia.org/wiki/Green_curry "Bright curry paste has no shrimp.")  
