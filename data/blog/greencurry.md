@@ -39,12 +39,10 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 
 ### Ingredients
 
-⦁ ⅓ cup sweet potato peeled and diced  
 ⦁ ⅓ cup green beans, trimmed and cut  
-⦁ ⅓ cup eggplant, diced  
-⦁ ⅓ cup cauliflower florets  
-⦁ ⅓ cup bamboo shoots, sliced  
-⦁ 3 cups of spinach  
+⦁ ⅔ cup carrots, dices  
+⦁ ⅔ cup bamboo shoots, sliced  
+⦁ 1 cup cauliflower florets  
 ⦁ ½ cup vegetable stock  
 ⦁ 2 cups (16oz) of coconut milk  
 ⦁ 1/3 cup [vegan Thai green curry paste](https://en.wikipedia.org/wiki/Green_curry "Bright curry paste has no shrimp.")  
@@ -56,12 +54,10 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 
 ### Instructions
 
-⦁ Slice the eggplant into rounds and add salt to each side. Place the rounds in a colander with a bowl underneath to catch the liquid from the eggplant. Let it sit for 20 mintues. Finally cut the eggplant into dices.  
 ⦁ Open the cans of coconut milk and pour into a large bowl. Pour and mix the vegetable stock and brown sugar into the bowl. Mix well until the sugar dissolves. Set the bowl aside.  
-⦁ Place a pot over heat, drizzle vegetable oil, add the sweet potatoes and cook for 5 minutes.  
+⦁ Place a pot over heat, drizzle vegetable oil, add cauliflower, green beans, bamboo shoots and carrots, cook for 5 minutes.  
 ⦁ Reduce the heat to low and add green Thai paste. Keep stirring it. Let it cook for about 3 minutes.  
 ⦁ Pour the coconut milk mixture and mix so all the ingredient incorporate. Turn up the heat to medium and bring the mixture to a boil.  
-⦁ Add zucchini, cauliflower, green beans, bamboo shoots and spinach.  
 ⦁ Lower the heat and let it simmer for about 10 minutes or until the vegetables are tender. This will cause coconut cream thicken by evaporation and will also incorporate all the flavors.  
 ⦁ Remove the curry from heat, squeeze lime and mix well. Finally you can drizzle coconut cream to decorate.  
 ⦁ Garnish with Thai basil and green chilis. Serve alongside basmati rice. Enjoy.
