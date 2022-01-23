@@ -6,6 +6,7 @@ tags:
   - dessert
   - milk
   - spanish
+  - vegetarian
 ---
 
 # Spanish flan

@@ -16,6 +16,7 @@ import { Params } from "../node_modules/next/dist/server/router";
 // import { LinkProps } from "../node_modules/next/dist/client/link";
 import styled from "styled-components";
 import { device } from "../styles/media";
+import Link from "next/link";
 
 const Wrapper = styled.div`
   display: flex;
@@ -38,11 +39,42 @@ const MarkdownWrapper = styled.div`
   }
 `;
 
-const BlogPost = ({ frontMatter, markdownBody, posts }: BlogPostProps) => {
+const TabWrapper = styled.div`
+  display: flex;
+  width: 70%;
+`;
+
+const Anchor = styled.a`
+  background-color: var(--main);
+  color: #fff;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 0.5rem;
+  text-decoration: none;
+  /* cursor: pointer; */
+`;
+
+const BlogPost = ({
+  frontMatter,
+  markdownBody,
+  posts,
+  params,
+}: BlogPostProps) => {
   if (!frontMatter) return <></>;
   return (
     <Layout2 title={frontMatter.title} description={frontMatter.description}>
       <Wrapper>
+        <TabWrapper>
+          {frontMatter.tags.includes("vegetarian") && (
+            // <Anchor href={`/${params.slug}`}>Vegetarian</Anchor>
+            <Anchor>Vegetarian</Anchor>
+          )}
+
+          {frontMatter.tags.includes("vegan") && (
+            // <Anchor href={`/${params.slug}`}>Vegan</Anchor>
+            <Anchor>Vegan</Anchor>
+          )}
+        </TabWrapper>
         <MarkdownWrapper>
           <ReactMarkdown
             components={{
@@ -87,6 +119,7 @@ export async function getStaticProps({ params }: Params) {
       frontMatter,
       markdownBody,
       posts,
+      params,
     },
   };
 }

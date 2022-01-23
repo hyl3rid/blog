@@ -5,6 +5,7 @@ publishedDate: January 8, 2022
 tags:
   - pastry
   - french
+  - vegetarian
 ---
 
 # Croissants

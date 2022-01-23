@@ -6,6 +6,7 @@ tags:
   - italian
   - lasagna
   - bechamel
+  - vegan
 ---
 
 # Vegetable Lasagna

@@ -1,3 +1,5 @@
+import { Params } from "../node_modules/next/dist/server/router";
+
 export type BlogFrontMatter = {
   title: string;
   description: string;
@@ -20,6 +22,7 @@ export type BlogPostProps = {
   wordCount: number;
   readingTime: string;
   posts: BlogPostProps[] | undefined;
+  params: Params;
 };
 
 export type BlogPostsProps = {

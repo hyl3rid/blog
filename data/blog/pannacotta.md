@@ -6,6 +6,7 @@ tags:
   - dessert
   - cream
   - italian
+  - vegan
 ---
 
 # Panna Cotta

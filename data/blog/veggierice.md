@@ -5,6 +5,7 @@ publishedDate: December 17, 2021
 tags:
   - rice
   - vegetables
+  - vegan
 ---
 
 # Jasmine Rice with Broccoli, Mushrooms and Cashews

@@ -6,6 +6,7 @@ tags:
   - Mayonnaise
   - salad
   - potato
+  - vegan
 ---
 
 # Potato Salad with Vegan Mayonnaise

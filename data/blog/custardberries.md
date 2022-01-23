@@ -9,6 +9,7 @@ tags:
   - berries
   - kiwi
   - peach
+  - vegan
 ---
 
 # Custard Tart with Fruits
@@ -44,7 +45,7 @@ Most people consider custard tart to have a French or Portuguese origin, but the
 
 **For the shortcrust pastry 9 inch:**  
 ⦁ 1 cup all-purpose flour  
-⦁ 6 tbsp butter, unsalted and cubed  
+⦁ 6 tbsp vegan butter, unsalted and cubed  
 ⦁ 3 tbsp [aquafaba](https://en.wikipedia.org/wiki/Aquafaba "Water in which chickpeas or other beans were cooked.")  
 ⦁ 1 ½ tbsp confectioners sugar  
 ⦁ pinch salt

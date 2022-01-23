@@ -6,6 +6,7 @@ tags:
   - tart
   - dessert
   - apple
+  - vegetarian
 ---
 
 # Apple Tarte Tatin
