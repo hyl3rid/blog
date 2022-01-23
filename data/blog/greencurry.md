@@ -50,7 +50,7 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ⦁ 1 tsp brown sugar  
 ⦁ Lime juice to drizzle  
 ⦁ Thai basil leaves, to garnish  
-⦁ Cilantro, to garnish
+⦁ Cilantro, to garnish  
 ⦁ Extra coconut cream to drizzle
 
 ### Instructions
