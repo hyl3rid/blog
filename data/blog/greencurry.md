@@ -39,37 +39,29 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 
 ### Ingredients
 
-⦁ 2 cloves of garlic  
-⦁ 1 tbsp of ginger  
-⦁ ⅓ cup onion, diced  
 ⦁ ⅓ cup sweet potato peeled and diced  
 ⦁ ⅓ cup green beans, trimmed and cut  
-⦁ ⅓ cup zucchini, diced  
 ⦁ ⅓ cup eggplant, diced  
 ⦁ ⅓ cup cauliflower florets  
 ⦁ ⅓ cup bamboo shoots, sliced  
-⦁ ⅓ cup roasted cashews  
 ⦁ 3 cups of spinach  
 ⦁ ½ cup vegetable stock  
-⦁ 2 cups (16oz) of coconut milk/cream  
+⦁ 2 cups (16oz) of coconut milk  
 ⦁ 1/3 cup [vegan Thai green curry paste](https://en.wikipedia.org/wiki/Green_curry "Bright curry paste has no shrimp.")  
-⦁ 3 tbps tahini  
-⦁ 3 tbsp soy sauce  
 ⦁ 2 tbsp brown sugar  
 ⦁ Thai basil leaves, for garnish  
-⦁ Green or Red chilies, for garnish  
+⦁ Red spur chilies, for garnish  
 ⦁ Lime juice for drizzling  
 ⦁ Extra coconut cream to drizzle
 
 ### Instructions
 
 ⦁ Slice the eggplant into rounds and add salt to each side. Place the rounds in a colander with a bowl underneath to catch the liquid from the eggplant. Let it sit for 20 mintues. Finally cut the eggplant into dices.  
-⦁ Open the cans of coconut milk/cream and pour into a large bowl. Pour and mix the vegetable stock, soy sauce, and brown sugar into the bowl. Mix well until the sugar dissolves. Set the bowl aside.  
-⦁ Place a pot over heat, drizzle olive oil to cook the onions, red bell pepper, garlic and ginger. Then add the sweet potato/butternut squash and cook for 5 minutes.  
+⦁ Open the cans of coconut milk and pour into a large bowl. Pour and mix the vegetable stock and brown sugar into the bowl. Mix well until the sugar dissolves. Set the bowl aside.  
+⦁ Place a pot over heat, drizzle vegetable oil, add the sweet potatoes and cook for 5 minutes.  
 ⦁ Reduce the heat to low and add green Thai paste. Keep stirring it. Let it cook for about 3 minutes.  
-⦁ Pour the coconut milk/cream mixture and mix so all the ingredient incorporate. Turn up the heat to medium and bring the mixture to a boil.  
-⦁ Add the tahini, cashews, zucchini, cauliflower, broccoli, green beans, bamboo shoots and spinach.  
-⦁ If you used coconut milk, then it might not thicken much by evaporation and you can add a tsp of cornstarch dissolved in water.  
+⦁ Pour the coconut milk mixture and mix so all the ingredient incorporate. Turn up the heat to medium and bring the mixture to a boil.  
+⦁ Add zucchini, cauliflower, green beans, bamboo shoots and spinach.  
 ⦁ Lower the heat and let it simmer for about 10 minutes or until the vegetables are tender. This will cause coconut cream thicken by evaporation and will also incorporate all the flavors.  
 ⦁ Remove the curry from heat, squeeze lime and mix well. Finally you can drizzle coconut cream to decorate.  
 ⦁ Garnish with Thai basil and green chilis. Serve alongside basmati rice. Enjoy.
