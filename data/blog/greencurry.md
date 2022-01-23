@@ -42,13 +42,11 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ⦁ 2 cloves of garlic  
 ⦁ 1 tbsp of ginger  
 ⦁ ⅓ cup onion, diced  
-⦁ ⅓ cup red bell pepper, diced  
-⦁ ⅓ cup sweet potato/butternut squash, peeled and diced  
+⦁ ⅓ cup sweet potato peeled and diced  
 ⦁ ⅓ cup green beans, trimmed and cut  
 ⦁ ⅓ cup zucchini, diced  
 ⦁ ⅓ cup eggplant, diced  
 ⦁ ⅓ cup cauliflower florets  
-⦁ ⅓ cup broccoli florets  
 ⦁ ⅓ cup bamboo shoots, sliced  
 ⦁ ⅓ cup roasted cashews  
 ⦁ 3 cups of spinach  
@@ -74,4 +72,4 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ⦁ If you used coconut milk, then it might not thicken much by evaporation and you can add a tsp of cornstarch dissolved in water.  
 ⦁ Lower the heat and let it simmer for about 10 minutes or until the vegetables are tender. This will cause coconut cream thicken by evaporation and will also incorporate all the flavors.  
 ⦁ Remove the curry from heat, squeeze lime and mix well. Finally you can drizzle coconut cream to decorate.  
-⦁ Garnish with Thai basil and green chilis. Serve alongside jasmine rice. Enjoy.
+⦁ Garnish with Thai basil and green chilis. Serve alongside basmati rice. Enjoy.
