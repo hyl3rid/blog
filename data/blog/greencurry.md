@@ -48,7 +48,6 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ⦁ 1/3 cup [vegan Thai green curry paste](https://en.wikipedia.org/wiki/Green_curry "Bright curry paste has no shrimp.")  
 ⦁ 1 tsp brown sugar  
 ⦁ Thai basil leaves, for garnish  
-⦁ Lime juice for drizzling  
 ⦁ Extra coconut cream to drizzle
 
 ### Instructions
@@ -58,5 +57,5 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ⦁ Pour the coconut cream into the pot with brown sugar. Mix well until the sugar dissolves and all the ingredient incorporate.  
 ⦁ Add Thai basil and turn up the heat to medium/high and bring the mixture to a boil.  
 ⦁ Lower the heat and let it simmer until the vegetables are tender.  
-⦁ Remove the curry from heat, squeeze lime and mix well. Finally you can drizzle coconut cream to decorate.  
+⦁ Remove the curry from heat and mix well. Finally you can drizzle coconut cream to decorate.  
 ⦁ Serve alongside basmati rice. Enjoy.
