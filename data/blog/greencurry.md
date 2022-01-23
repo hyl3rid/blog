@@ -39,8 +39,6 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 
 ### Ingredients
 
-⦁ 2 tsp of ginger, minced  
-⦁ 1 garlic clove, minced  
 ⦁ ⅓ cup green beans, trimmed and cut  
 ⦁ ⅓ cup carrots, sliced  
 ⦁ 1 cup sweet potatoes  
@@ -48,7 +46,7 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ⦁ ⅓ cashews, roasted  
 ⦁ 2 red spur chilies, julienne  
 ⦁ 2 cups (16oz) of coconut cream  
-⦁ 2 tbsp [vegan Thai green curry paste](https://en.wikipedia.org/wiki/Green_curry "Bright curry paste has no shrimp.")  
+⦁ 3 tbsp [vegan Thai green curry paste](https://en.wikipedia.org/wiki/Green_curry "Bright curry paste has no shrimp.")  
 ⦁ 1 tsp brown sugar  
 ⦁ Lime juice to drizzle  
 ⦁ Thai basil leaves, to garnish  
@@ -57,8 +55,7 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 
 ### Instructions
 
-⦁ Place a pot over medium heat, drizzle vegetable oil. Add the garlic and ginger, cook for 3 minutes.
-⦁ Add sweet potatoes, green beans, carrots, spinach and spur chillies without cores and seeds, cook for 5 minutes.  
+⦁ Place a pot over medium heat, drizzle vegetable oil. Add sweet potatoes, green beans, carrots, spinach and spur chillies without cores and seeds, cook for 5 minutes.  
 ⦁ Add green Thai paste and continue stirring it. Let it cook for about 3 minutes.  
 ⦁ Pour the coconut cream into the pot with brown sugar. Mix well until the sugar dissolves and all the ingredient incorporate.  
 ⦁ Add Thai basil and turn up the heat to medium/high and bring the mixture to a boil.  
