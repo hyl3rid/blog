@@ -43,21 +43,20 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ⦁ ⅔ cup carrots, dices  
 ⦁ ⅔ cup bamboo shoots, sliced  
 ⦁ 1 cup cauliflower florets  
-⦁ ½ cup vegetable stock  
+⦁ 2 red spur chilies, julienne  
 ⦁ 2 cups (16oz) of coconut milk  
 ⦁ 1/3 cup [vegan Thai green curry paste](https://en.wikipedia.org/wiki/Green_curry "Bright curry paste has no shrimp.")  
 ⦁ 2 tbsp brown sugar  
 ⦁ Thai basil leaves, for garnish  
-⦁ Red spur chilies, for garnish  
 ⦁ Lime juice for drizzling  
 ⦁ Extra coconut cream to drizzle
 
 ### Instructions
 
-⦁ Open the cans of coconut milk and pour into a large bowl. Pour and mix the vegetable stock and brown sugar into the bowl. Mix well until the sugar dissolves. Set the bowl aside.  
-⦁ Place a pot over heat, drizzle vegetable oil, add cauliflower, green beans, bamboo shoots and carrots, cook for 5 minutes.  
+⦁ Place a pot over heat, drizzle vegetable oil. Add cauliflower, green beans, bamboo shoots, carrots and spur chillies cook for 5 minutes.  
 ⦁ Reduce the heat to low and add green Thai paste. Keep stirring it. Let it cook for about 3 minutes.  
-⦁ Pour the coconut milk mixture and mix so all the ingredient incorporate. Turn up the heat to medium and bring the mixture to a boil.  
+⦁ Open the cans of coconut milk and pour into the pot with brown sugar. Mix well until the sugar dissolves and all the ingredient incorporate.  
+⦁ Add Thai basil and turn up the heat to medium and bring the mixture to a boil.  
 ⦁ Lower the heat and let it simmer for about 10 minutes or until the vegetables are tender. This will cause coconut cream thicken by evaporation and will also incorporate all the flavors.  
 ⦁ Remove the curry from heat, squeeze lime and mix well. Finally you can drizzle coconut cream to decorate.  
-⦁ Garnish with Thai basil and green chilis. Serve alongside basmati rice. Enjoy.
+⦁ Serve alongside basmati rice. Enjoy.
