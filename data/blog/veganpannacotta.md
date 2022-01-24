@@ -43,17 +43,17 @@ In 1879, a dessert called Latte Inglese was widely popular. It had the same prep
 
 ### Ingredients
 
-2 cups (16 oz) of cream  
-3 tsp of gelatin unflavored powder  
+2 cups (16 oz) of coconut cream  
+1 tsp powdered [agar agar](https://en.wikipedia.org/wiki/Agar "Gelatin from algae.")  
 3 tbsp of sugar  
 1 tsp clear vanilla extracts  
 Strawberry jelly, as required
 
 ### Instructions
 
-- Pour the cream into the saucepan with vanilla and sugar. Set the heat to medium/high.
-- When the cream starts to boil, include the powdered gelatin.
-- Continue to whisk the cream until the gelatin dissolves. Let the cream simmer for 5 minutes.
+- Pour the coconut cream into the saucepan with vanilla and sugar. Set the heat to medium/high.
+- When the cream starts to boil, include the powdered agar agar.
+- Continue to whisk the coconut cream until the agar agar dissolves. Let the cream simmer for 5 minutes.
 - Pour the mixture into serving glasses or ramekins. Let them cool and then place them in the refrigerator for 3 to 4 hours.
 - Once the panna cotta is set, take it out of the refrigerator. You can also invert the ramekins on a serving plate carefully. Top it with fresh berries, and/or drizzle strawberry jelly on top.
 
@@ -64,3 +64,8 @@ Apart from the simple vanilla panna cotta, you can add a few flavors to make thi
 - **Coffee:** Add a tablespoon of instant coffee to your panna cotta. Furthermore, add coffee to the sugar to make coffee syrup.
 - **Chocolate:** Adding dark chocolate to the milk mixture will give you a rich chocolaty panna cotta. Furthermore, use chocolate syrup instead of caramel syrup.
 - **Matcha:** Matcha is a green tea that has gained immense popularity. It gives an earthy flavor and a pleasant green color. You can add a tablespoon of food-grade matcha powder to give your panna cotta a unique twist.
+
+**Notes:**
+
+- Coconut cream might be confused with [cream of coconut](https://en.wikipedia.org/wiki/Coconut_milk#Cream_of_coconut "Sweetened coconut cream.").
+- You may use coconut cream and coconut milk interchangebly.

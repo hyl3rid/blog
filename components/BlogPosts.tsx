@@ -136,6 +136,7 @@ const BlogPosts = ({ posts }: BlogPostsProps) => {
                 new Date(a.frontMatter.publishedDate).getTime()
             )
             .map((post) => {
+              if (post.slug.includes("vegan")) return;
               return (
                 <CardWrapper key={post.slug}>
                   <Link href={{ pathname: `/${post.slug}` }}>

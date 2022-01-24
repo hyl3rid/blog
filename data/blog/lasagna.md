@@ -44,8 +44,8 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 ⦁ 3 cup vegan mozzarella cheese, shredded  
 ⦁ ¼ cup vegan parmesan cheese, grated  
 ⦁ 1 tbsp olive oil, extra to drizzle on sauce  
-⦁ 2 onions  
 ⦁ 4 garlic cloves, minced  
+⦁ 2 white onions  
 ⦁ 1 bell pepper  
 ⦁ 4 big tomatoes  
 ⦁ 1 small zucchini, sliced  
@@ -87,7 +87,7 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 ⦁ The cooked lasagna sheets are added on top of the sauce.  
 ⦁ Next, scoop the tomato mixture, then the eggplant, zucchini, mushrooms and spinach spread it evenly.  
 ⦁ Now cover with mozzarella and parmesan cheese.  
-⦁ Repeat the layers of béchamel, pasta, vegetables and cheese until done.  
+⦁ Repeat the layers in the following order pasta, béchamel, tomato sauce, vegetables and cheese until done.  
 ⦁ Top it with the remaining béchamel and cover with cheese and parmesan.  
 ⦁ Place the casserole dish in a preheated oven at 375 degrees F for about 40 minutes until the top is bubbling.  
 ⦁ Finally set the oven to broil for 5 minutes so the cheese will turn brown on the top. Be attentive to the lasagna because the cheese could get burnt.  

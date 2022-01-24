@@ -42,7 +42,7 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 ⦁ ⅓ cup green beans, trimmed and cut  
 ⦁ ⅓ cup carrots, sliced  
 ⦁ 1 cup sweet potatoes  
-⦁ 1 cup spinach  
+⦁ 2 cup spinach  
 ⦁ ⅓ cashews, roasted  
 ⦁ 2 red spur chilies, julienne  
 ⦁ 2 cups (16oz) of coconut cream  

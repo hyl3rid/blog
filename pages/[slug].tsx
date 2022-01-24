@@ -66,18 +66,20 @@ const BlogPost = ({
   params,
 }: BlogPostProps) => {
   if (!frontMatter) return <></>;
+  if (params.slug.includes("vegan"))
+    params.slug = params.slug.replace("vegan", "");
   return (
     <Layout2 title={frontMatter.title} description={frontMatter.description}>
       <Wrapper>
-        {/* <TabWrapper>
-          {frontMatter.tags.includes("vegetarian") && (
-            <Anchor href={`/${params.slug}`}>Vegetarian</Anchor>
-          )}
-
-          {frontMatter.tags.includes("vegan") && (
-            <Anchor href={`/${params.slug}`}>Vegan</Anchor>
-          )}
-        </TabWrapper> */}
+        <TabWrapper>
+          {frontMatter.tags.includes("vegetarian") &&
+            frontMatter.tags.includes("vegan") && (
+              <>
+                <Anchor href={`/${params.slug}`}>Vegetarian</Anchor>
+                <Anchor href={`/vegan${params.slug}`}>Vegan</Anchor>
+              </>
+            )}
+        </TabWrapper>
         <MarkdownWrapper>
           <ReactMarkdown
             components={{
