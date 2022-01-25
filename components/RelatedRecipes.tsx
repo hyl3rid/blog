@@ -77,6 +77,7 @@ const RelatedRecipes = ({ posts, currentPostSlug }: BlogPostsProps) => {
 
   const getRandomInt = (max: number) => {
     let listOfNums: number[] = [];
+    let added: string = "";
     while (listOfNums.length < 4) {
       const randomNum = Math.floor(Math.random() * max);
 
@@ -91,17 +92,15 @@ const RelatedRecipes = ({ posts, currentPostSlug }: BlogPostsProps) => {
         ? currentPostSlug?.replace("vegan", "")
         : currentPostSlug !== postSlug;
 
-      if (!listOfNums.includes(randomNum) && notCurrentPost) {
+      if (
+        postSlug &&
+        !listOfNums.includes(randomNum) &&
+        notCurrentPost &&
+        !added.includes(postSlug)
+      ) {
         listOfNums.push(randomNum);
+        added += postSlug;
       }
-
-      listOfNums.filter((num) => {
-        if (posts && posts[num].slug.includes("vegan")) {
-          return posts && posts[num].slug.replace("vegan", "") !== postSlug;
-        } else {
-          return posts && posts[num].slug !== postSlug;
-        }
-      });
     }
     return listOfNums;
   };
