@@ -133,14 +133,14 @@ const HomePage = () => {
               occasion!
             </H4>
             <ButtonWrapper>
-              <Link href="/lasagna">
+              <Link href="/veganlasagna">
                 <Button>Read More</Button>
               </Link>
             </ButtonWrapper>
           </HeadingWrapper>
         </Heading>
         <ImageWrapper>
-          <Link href="/lasagna">
+          <Link href="/veganlasagna">
             <a>
               <ImageContainer>
                 <Image

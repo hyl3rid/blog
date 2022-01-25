@@ -10,7 +10,7 @@ tags:
   - vegetarian
 ---
 
-# Vegetable Lasagna
+# Vegan Vegetable Lasagna
 
 ![Lasagna with Bechamel Sauce and Vegetables](/lasagna.jpg "image")
 
@@ -20,7 +20,7 @@ Vegetable lasagna is a scrumptious, wholesome, and easy-to-make dish that you ca
 
 When it comes to the culinary world, Naples, a city in Italy, has a lot of contributions to make. Apart from the famous pizza, Naples has also given us lasagna. It originated somewhere in the Middle Ages. However, it wasn't until the 14th century that the mention of lasagna came into a cookbook which particularly the recipe didn't include tomatoes in any way . It wasn’t until the 1800s that tomato sauce was used an integral part of lasagna. Today you can enjoy lasagna in almost any way.
 
-## Vegetable Lasagna Recipe
+## Vegan Vegetable Lasagna Recipe
 
 **Preparation time:** 20 minutes  
 **Cooking time:** 60 minutes  
@@ -41,9 +41,9 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 
 ### Ingredients
 
-⦁ 10-ounce lasagna sheets, cooked  
-⦁ 3 cup mozzarella cheese, shredded  
-⦁ ¼ cup parmesan cheese, grated  
+⦁ 10-ounce vegan lasagna sheets, cooked  
+⦁ 3 cup vegan mozzarella cheese, shredded  
+⦁ ¼ cup vegan parmesan cheese, grated  
 ⦁ 1 tbsp olive oil, extra to drizzle on sauce  
 ⦁ 4 garlic cloves, minced  
 ⦁ 2 white onions  
@@ -59,8 +59,8 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 **For the béchamel sauce:**
 
 ⦁ ¼ cup flour  
-⦁ 2 tbsp butter  
-⦁ 2 cups milk  
+⦁ 2 cups soy milk  
+⦁ 4 tbsp olive oil  
 ⦁ A pinch nutmeg
 
 ### Instructions
@@ -78,8 +78,8 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 
 **For the béchamel sauce:**
 
-⦁ In a saucepan, add butter and place it on medium-low heat. Add flour and whisk it slowly for about 2 minutes to ensure the butter covers the flour particles.  
-⦁ Take the saucepan off the heat and slowly pour a little of warm milk while whisking and mix well. Gradually pour all the milk into the sauce, place the saucepan back on the heat and continue to whisk until no lumps are left.  
+⦁ In a saucepan, add olive oil and place it on medium-low heat. Add flour and whisk it slowly for about 2 minutes to ensure the oils cover the flour particles.  
+⦁ Take the saucepan off the heat and slowly pour a little of warm soy milk while whisking and mix well. Gradually pour all the soy milk into the sauce, place the saucepan back on the heat and continue to whisk until no lumps are left.  
 ⦁ Let the mixture cook for about 5 minutes until it is creamy. Add a pinch of nutmeg and season with salt and black pepper according to your liking.
 
 ### Assembly:
@@ -89,7 +89,7 @@ When it comes to the culinary world, Naples, a city in Italy, has a lot of contr
 ⦁ Next, scoop the tomato mixture, then the eggplant, zucchini, mushrooms and spinach spread it evenly.  
 ⦁ Now cover with mozzarella and parmesan cheese.  
 ⦁ Repeat the layers in the following order pasta, béchamel, tomato sauce, vegetables and cheese until done.  
-⦁ Top the lasagna with the remaining béchamel and cover with cheese and parmesan.  
+⦁ Top it with the remaining béchamel and cover with cheese and parmesan.  
 ⦁ Place the casserole dish in a preheated oven at 375 degrees F for about 40 minutes until the top is bubbling.  
 ⦁ Finally set the oven to broil for 5 minutes so the cheese will turn brown on the top. Be attentive to the lasagna because the cheese could get burnt.  
-⦁ Take out of the oven and let the lasagna cool a few minutes. Serve.
+⦁ Take out of the oven and let it cool a few minutes. Serve.

@@ -1,6 +1,6 @@
 ---
-title: Panna Cotta
-description: Panna cotta is simple, elegant, effortless, and delicious. It is a delicacy that can win every heart.
+title: Vegan Panna Cotta
+description: Vegan Panna cotta is simple, elegant, effortless, and delicious. It is a delicacy that can win every heart.
 publishedDate: December 18, 2021
 tags:
   - dessert
@@ -12,7 +12,7 @@ tags:
 
 # Panna Cotta
 
-![Creamy Panna Cotta with Strawberry](/pannacotta.jpg "image")
+![Vegan Creamy Panna Cotta with Strawberry](/pannacotta.jpg "image")
 
 Panna cotta is simple, elegant, effortless, and delicious. It is a delicacy that can win every heart. This Italian custard is giggly, perfectly set, and smooth texture. Topped with rich caramel syrup and fresh berries, nothing can get wrong with a simple vanilla panna cotta.
 
@@ -22,7 +22,7 @@ Panna cotta is a widely known and loved dessert with its roots in Italy. This de
 
 In 1879, a dessert called Latte Inglese was widely popular. It had the same preparation method as the modern panna cotta. However, in the 1960&#39;s that the first ever record of panna cotta was made in an Italian cookbook. In the early 1990s, the dessert gained sudden popularity in America and then in the rest of the world.
 
-## Panna Cotta Recipe
+## Vegan Panna Cotta Recipe
 
 **Preparation time:** 10minutes  
 **Cooking time:** 5 minutes  

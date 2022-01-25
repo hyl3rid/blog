@@ -27,7 +27,7 @@ export type BlogPostProps = {
 
 export type BlogPostsProps = {
   posts?: BlogPostProps[];
-  currentPostFrontMatter?: BlogFrontMatter;
+  currentPostSlug?: Params;
 };
 
 export interface BlogProps extends BlogPostsProps {

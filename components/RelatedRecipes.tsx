@@ -72,16 +72,25 @@ export const myLoader = ({ src, width, quality }: ImageLoaderProps) => {
   return `https://veggiesforall.io/${src}?w=${700}&q=${quality || 75}`;
 };
 
-const RelatedRecipes = ({ posts, currentPostFrontMatter }: BlogPostsProps) => {
+const RelatedRecipes = ({ posts, currentPostSlug }: BlogPostsProps) => {
   const [listOfRandoms, setListOfRandoms] = useState<number[]>([]);
 
   const getRandomInt = (max: number) => {
     let listOfNums: number[] = [];
+    let tempCurrentPostSlug = currentPostSlug;
     while (listOfNums.length < 4) {
       const randomNum = Math.floor(Math.random() * max);
-      const notCurrentPost =
-        currentPostFrontMatter?.title !==
-        (posts && posts[randomNum].frontMatter.title);
+      let tempPostsSlug = posts && posts[randomNum].slug;
+
+      const postSlug =
+        tempPostsSlug && tempPostsSlug.includes("vegan")
+          ? tempPostsSlug.replace("vegan", "")
+          : tempPostsSlug;
+
+      const notCurrentPost = tempCurrentPostSlug?.includes("vegan")
+        ? tempCurrentPostSlug?.replace("vegan", "")
+        : tempCurrentPostSlug !== postSlug;
+
       if (!listOfNums.includes(randomNum) && notCurrentPost) {
         listOfNums.push(randomNum);
       }
@@ -104,7 +113,11 @@ const RelatedRecipes = ({ posts, currentPostFrontMatter }: BlogPostsProps) => {
                 loader={myLoader}
                 quality={30}
                 className="image"
-                src={`/${posts && posts[postIdx].slug}.jpg`}
+                src={`/${
+                  posts && posts[postIdx].slug.includes("vegan")
+                    ? posts[postIdx].slug.replace("vegan", "")
+                    : posts && posts[postIdx].slug
+                }.jpg`}
                 alt={`${posts && posts[postIdx].frontMatter.title}`}
                 layout="fill"
                 priority={true}

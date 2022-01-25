@@ -1,6 +1,6 @@
 ---
-title: French Toast with Blueberry Jelly
-description: French toasts are tasteful, quick, and a perfect way to start your day.
+title: Vegan French Toast with Blueberry Jelly
+description: Vegan French toasts are tasteful, quick, and a perfect way to start your day.
 publishedDate: January 8, 2022
 tags:
   - jelly
@@ -13,7 +13,7 @@ tags:
 
 # Vegan French Toast with Blueberry Jelly
 
-![Vegan French Toast with berries and jelly](/frenchtoast.jpg "image")
+![Vegan French Toast with Berries and Jelly](/frenchtoast.jpg "image")
 
 This fullfilling yet simple recipe with jelly will blast you. These toast are sweet, fluffy, and just what you need to give yourself a treat or to get your day started.
 
@@ -62,11 +62,11 @@ Rubbing alcohol to test the pectin
 **For the french toast:**
 
 4 bread slices of choice  
-1 cup milk, unsweetened  
-1 egg
+1 cup almond milk, unsweetened  
+½ tbsp of ground flaxseeds  
 A pinch of cinnamon powder  
 A pinch of nutmeg  
-Butter for frying
+Coconut oil for frying
 
 ### Instructions
 
@@ -83,10 +83,8 @@ Butter for frying
 
 **For the french toast:**
 
-- Pour milk and mix with a egg in a shallow dish. Add cinnamon powder and nutmeg. Mix well so that everything is well incorporated.
-- In a frying pan, melt butter.
+- Pour almond milk, flax seeds, cinnamon powder, and nutmeg into a shallow dish. Mix well so that everything is well incorporated. Let it rest for 5 minutes.
+- In a frying pan, heat coconut oil.
 - Dip the preferred bread slice in the mixture so that it is completely damp with it. Place this bread on a frying pan and let it cook for a minute or two. Flip and cook the other side until it gets a golden color.
 - Repeat this step with all the bread slices.
-- Serve the french toast with homemade blueberry jelly. Enjoy!
-
-**Note:** The french toast made be placed inside an oven to either keep them warm or cook them a bit more
+- Serve the vegan french toast with homemade blueberry jelly. Enjoy!

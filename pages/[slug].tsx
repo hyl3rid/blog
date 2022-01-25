@@ -106,7 +106,7 @@ const BlogPost = ({
             {markdownBody}
           </ReactMarkdown>
         </MarkdownWrapper>
-        <RelatedRecipes posts={posts} currentPostFrontMatter={frontMatter} />
+        <RelatedRecipes posts={posts} currentPostSlug={params.slug} />
       </Wrapper>
     </Layout2>
   );
