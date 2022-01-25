@@ -28,7 +28,6 @@ export type BlogPostProps = {
 
 export type BlogPostsProps = {
   posts?: BlogPostProps[];
-  currentPostSlug?: Params;
   listOfNums?: number[];
 };
 

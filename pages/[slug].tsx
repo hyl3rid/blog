@@ -138,7 +138,7 @@ export async function getStaticProps({ params }: Params) {
   let added: string = "";
   while (listOfNums.length < 4) {
     const randomNum = Math.floor(Math.random() * posts.length);
-    console.log(posts[randomNum].slug);
+
     let tempPostsSlug = posts && posts[randomNum].slug;
 
     const postSlug =
@@ -160,6 +160,8 @@ export async function getStaticProps({ params }: Params) {
       added += postSlug;
     }
   }
+
+  console.log(listOfNums);
 
   return {
     props: {
