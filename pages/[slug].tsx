@@ -72,7 +72,6 @@ const BlogPost = ({
   markdownBody,
   posts,
   params,
-  listOfNums,
 }: BlogPostProps) => {
   if (!frontMatter) return <></>;
   if (params.slug.includes("vegan"))
@@ -121,7 +120,7 @@ const BlogPost = ({
             {markdownBody}
           </ReactMarkdown>
         </MarkdownWrapper>
-        <RelatedRecipes posts={posts} listOfNums={listOfNums} />
+        <RelatedRecipes posts={posts} currentPostSlug={params.slug} />
       </Wrapper>
     </Layout2>
   );
@@ -132,36 +131,7 @@ export async function getStaticProps({ params }: Params) {
     "blog",
     params.slug
   );
-  const posts: any = await getAllPostsWithFrontMatter("blog");
-
-  let listOfNums: number[] = [];
-  let added: string = "";
-  while (listOfNums.length < 4) {
-    const randomNum = Math.floor(Math.random() * posts.length);
-
-    let tempPostsSlug = posts && posts[randomNum].slug;
-
-    const postSlug =
-      tempPostsSlug && tempPostsSlug.includes("vegan")
-        ? tempPostsSlug.replace("vegan", "")
-        : tempPostsSlug;
-
-    const notCurrentPost = params.slug?.includes("vegan")
-      ? params.slug?.replace("vegan", "")
-      : params.slug !== postSlug;
-
-    if (
-      postSlug &&
-      !listOfNums.includes(randomNum) &&
-      notCurrentPost &&
-      !added.includes(postSlug)
-    ) {
-      listOfNums.push(randomNum);
-      added += postSlug;
-    }
-  }
-
-  console.log(listOfNums);
+  const posts = await getAllPostsWithFrontMatter("blog");
 
   return {
     props: {
@@ -169,7 +139,6 @@ export async function getStaticProps({ params }: Params) {
       markdownBody,
       posts,
       params,
-      listOfNums,
     },
   };
 }

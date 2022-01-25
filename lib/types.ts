@@ -23,12 +23,12 @@ export type BlogPostProps = {
   readingTime: string;
   posts: BlogPostProps[] | undefined;
   params: Params;
-  listOfNums?: number[];
+  listOfNums: number;
 };
 
 export type BlogPostsProps = {
   posts?: BlogPostProps[];
-  listOfNums?: number[];
+  currentPostSlug?: Params;
 };
 
 export interface BlogProps extends BlogPostsProps {
