@@ -120,7 +120,7 @@ const BlogPost = ({
             {markdownBody}
           </ReactMarkdown>
         </MarkdownWrapper>
-        <RelatedRecipes posts={posts} currentPostSlug={params.slug} />
+        {/* <RelatedRecipes posts={posts} currentPostSlug={params.slug} /> */}
       </Wrapper>
     </Layout2>
   );
