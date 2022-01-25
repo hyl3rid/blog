@@ -23,7 +23,7 @@ Because of the name, most people think that french toast originated from France.
 
 Moreover, another theory suggests that Joseph French invented the dish in the 17th century in New York. Hence the name French toast originated. Whatever the origin of the dish, we are happy that we get to enjoy this tasteful dish!
 
-## French Toast with Blueberry Jelly Recipe
+## Vegan French Toast with Blueberry Jelly Recipe
 
 **Preparation time:** 15minutes  
 **Cooking time:** 15 minutes  
