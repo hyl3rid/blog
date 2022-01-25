@@ -63,7 +63,7 @@ Rubbing alcohol to test the pectin
 
 4 bread slices of choice  
 1 cup milk, unsweetened  
-1 egg
+1 egg  
 A pinch of cinnamon powder  
 A pinch of nutmeg  
 Butter for frying

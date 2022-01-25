@@ -56,7 +56,15 @@ const Anchor = styled.a`
   border-top-right-radius: 10px;
   padding: 0.5rem;
   text-decoration: none;
-  /* cursor: pointer; */
+  cursor: pointer;
+`;
+
+const Label = styled.a`
+  background-color: var(--main);
+  color: #fff;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 0.5rem;
 `;
 
 const BlogPost = ({
@@ -73,12 +81,18 @@ const BlogPost = ({
       <Wrapper>
         <TabWrapper>
           {frontMatter.tags.includes("vegetarian") &&
-            frontMatter.tags.includes("vegan") && (
-              <>
-                <Anchor href={`/${params.slug}`}>Vegetarian</Anchor>
-                <Anchor href={`/vegan${params.slug}`}>Vegan</Anchor>
-              </>
-            )}
+          frontMatter.tags.includes("vegan") ? (
+            <>
+              <Anchor href={`/${params.slug}`}>Vegetarian</Anchor>
+              <Anchor href={`/vegan${params.slug}`}>Vegan</Anchor>
+            </>
+          ) : frontMatter.tags.includes("vegetarian") ? (
+            <Label>Vegetarian</Label>
+          ) : frontMatter.tags.includes("vegan") ? (
+            <Label>Vegan</Label>
+          ) : (
+            false
+          )}
         </TabWrapper>
         <MarkdownWrapper>
           <ReactMarkdown

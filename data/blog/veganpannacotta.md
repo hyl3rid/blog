@@ -68,4 +68,3 @@ Apart from the simple vanilla panna cotta, you can add a few flavors to make thi
 **Notes:**
 
 - Coconut cream might be confused with [cream of coconut](https://en.wikipedia.org/wiki/Coconut_milk#Cream_of_coconut "Sweetened coconut cream.").
-- You may use coconut cream and coconut milk interchangebly.
