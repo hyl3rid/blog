@@ -33,6 +33,7 @@ export type BlogPostsProps = {
 export interface BlogProps extends BlogPostsProps {
   title: string;
   description: string;
+  filteredPosts?: BlogPostProps[];
 }
 
 export type FeaturedRecipes = {

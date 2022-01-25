@@ -3,8 +3,8 @@ import type { ReactElement } from "react";
 import { getAllPostsWithFrontMatter } from "../lib/utils";
 import { BlogProps } from "../lib/types";
 
-export default function Page({ posts }: BlogProps) {
-  const firstSix = posts
+export default function Page({ filteredPosts }: BlogProps) {
+  const firstSix = filteredPosts
     ?.sort(
       (a, b) =>
         new Date(b.frontMatter.publishedDate).getTime() -
@@ -25,11 +25,13 @@ Page.getLayout = function getLayout(page: ReactElement) {
 };
 
 export async function getStaticProps() {
-  const posts = await getAllPostsWithFrontMatter("blog");
-
+  const posts: any = await getAllPostsWithFrontMatter("blog");
+  const filteredPosts = posts.filter(
+    (item: any) => !item.slug.includes("vegan") && item
+  );
   return {
     props: {
-      posts,
+      filteredPosts,
     },
   };
 }
