@@ -72,42 +72,45 @@ export const myLoader = ({ src, width, quality }: ImageLoaderProps) => {
   return `https://veggiesforall.io/${src}?w=${700}&q=${quality || 75}`;
 };
 
-const RelatedRecipes = ({ posts, currentPostSlug }: BlogPostsProps) => {
+const RelatedRecipes = ({ posts, listOfNums }: BlogPostsProps) => {
   const [listOfRandoms, setListOfRandoms] = useState<number[]>([]);
 
-  const getRandomInt = (max: number) => {
-    let listOfNums: number[] = [];
-    let added: string = "";
-    while (listOfNums.length < 4) {
-      const randomNum = Math.floor(Math.random() * max);
+  // const getRandomInt = (max: number) => {
+  //   let listOfNums: number[] = [];
+  //   let added: string = "";
+  //   while (listOfNums.length < 4) {
+  //     const randomNum = Math.floor(Math.random() * max);
 
-      let tempPostsSlug = posts && posts[randomNum].slug;
+  //     let tempPostsSlug = posts && posts[randomNum].slug;
 
-      const postSlug =
-        tempPostsSlug && tempPostsSlug.includes("vegan")
-          ? tempPostsSlug.replace("vegan", "")
-          : tempPostsSlug;
+  //     const postSlug =
+  //       tempPostsSlug && tempPostsSlug.includes("vegan")
+  //         ? tempPostsSlug.replace("vegan", "")
+  //         : tempPostsSlug;
 
-      const notCurrentPost = currentPostSlug?.includes("vegan")
-        ? currentPostSlug?.replace("vegan", "")
-        : currentPostSlug !== postSlug;
+  //     const notCurrentPost = currentPostSlug?.includes("vegan")
+  //       ? currentPostSlug?.replace("vegan", "")
+  //       : currentPostSlug !== postSlug;
 
-      if (
-        postSlug &&
-        !listOfNums.includes(randomNum) &&
-        notCurrentPost &&
-        !added.includes(postSlug)
-      ) {
-        listOfNums.push(randomNum);
-        added += postSlug;
-      }
-    }
-    return listOfNums;
-  };
+  //     if (
+  //       postSlug &&
+  //       !listOfNums.includes(randomNum) &&
+  //       notCurrentPost &&
+  //       !added.includes(postSlug)
+  //     ) {
+  //       listOfNums.push(randomNum);
+  //       added += postSlug;
+  //     }
+  //   }
+  //   return listOfNums;
+  // };
 
   useEffect(() => {
-    const postsNum = posts && posts.length;
-    setListOfRandoms(getRandomInt(postsNum ?? 0));
+    // const postsNum = posts && posts.length;
+    // setListOfRandoms(getRandomInt(postsNum ?? 0));
+    if (listOfNums !== undefined) {
+      setListOfRandoms(listOfNums);
+    }
   }, []);
 
   return (
