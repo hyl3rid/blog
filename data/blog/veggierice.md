@@ -1,6 +1,6 @@
 ---
 title: Jasmine Rice with Broccoli, Mushrooms and Cashews
-description: You can enjoy rice with vegetables as the main course along with your favourite side.
+description: This rice is great for main course or as a side dish. The recipe goes well as all ingredients come together very well.
 publishedDate: December 17, 2021
 tags:
   - rice
@@ -46,7 +46,7 @@ Here are a few variation ideas you will enjoy when it comes to making rice with 
 
 ### Ingredients
 
-⦁ 2 tbsp cooking oil  
+⦁ 1 tbsp cooking oil  
 ⦁ 2 cups long-grain white jasmine rice  
 ⦁ 2 ½ cups water  
 ⦁ 1 small white onion  
@@ -57,8 +57,7 @@ Here are a few variation ideas you will enjoy when it comes to making rice with 
 ⦁ 1 vegetable stock  
 ⦁ ½ cup carrots, diced  
 ⦁ ½ cup zucchini  
-⦁ ½ cup green peas  
-⦁ ½ cup broccoli florets  
+⦁ ½ cup broccoli small florets  
 ⦁ ½ cup mushrooms of choice  
 ⦁ ¼ cup of roasted cashew  
 ⦁ ¼ cup green onions, chopped  
@@ -72,10 +71,11 @@ Here are a few variation ideas you will enjoy when it comes to making rice with 
 ⦁ Let it cook until the water evaporates.  
 ⦁ Once the rice is cooked, turn off the heat and sit for about 5 minutes.  
 ⦁ Fluff the rice to prevent it from sticking.  
-⦁ In a large pot, heat oil.  
+⦁ In a large pot, heat sesame oil.  
 ⦁ Add chopped onions and sauté for a minute or two until they turn translucent.  
 ⦁ Add minced garlic plus ginger and cook until it is fragrant.  
-⦁ Add carrots, broccoli and cook for a minute or two. Then add the green peas and zucchini.  
-⦁ Continue by including the mushrooms and cook for 5 minutes.  
-⦁ Add into the vegetables in the pan the Jasmine Rice. Then include the roasted cashews and add 2 tbsp of soy sauce, mix throughly until the ingredients are evenly distributed.  
+⦁ Add carrots, broccoli and cook for a minute or two.  
+⦁ Then add the zucchini, mushrooms and cook for 5 minutes.  
+⦁ Lower the heat and add 2 tbsp of soy sauce. Mix the vegetables.
+⦁ Right away include into the vegetables in the pan the jasmine rice. Then include the roasted cashews and mix throughly until the ingredients are evenly distributed.  
 ⦁ Fluff the rice and garnish with freshly chopped green onions and sesame seeds. Enjoy.
