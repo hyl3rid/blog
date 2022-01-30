@@ -46,7 +46,6 @@ Here are a few variation ideas you will enjoy when it comes to making rice with 
 
 ### Ingredients
 
-⦁ 1 tbsp cooking oil  
 ⦁ 2 cups long-grain white jasmine rice  
 ⦁ 2 ½ cups water  
 ⦁ 1 small white onion  
