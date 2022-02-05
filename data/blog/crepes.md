@@ -60,7 +60,7 @@ Rubbing alcohol to test the pectin
 **For the crepes:**
 
 1 cup of all-purpose flour  
-1 cup + 2 tbps milk  
+1 cup + ¼ cup milk  
 1 egg  
 A pinch salt  
 Butter for cooking

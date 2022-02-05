@@ -60,7 +60,7 @@ Rubbing alcohol to test the pectin
 **For the crepes:**
 
 1 cup of all-purpose flour  
-1 cup + 2 tbps almond milk or sparkling water  
+1 cup + ¼ cup almond milk or sparkling water  
 ½ tbsp cornstarch  
 ½ tbsp ground chia  
 ¼ tsp of baking powder  
