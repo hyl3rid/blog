@@ -76,4 +76,4 @@ Here are a few variation ideas you will enjoy when it comes to making rice with 
 ⦁ Then add the zucchini, mushrooms and cook for 7 minutes.  
 ⦁ Lower the heat and add 2 tbsp of soy sauce. Mix the vegetables.
 ⦁ Right away include into the vegetables in the pan the jasmine rice. Then include the roasted cashews with freshly chopped green onions and mix throughly until the ingredients are evenly distributed.  
-⦁ Server and sprinkle sesame seeds. Enjoy.
+⦁ Serve and sprinkle sesame seeds. Enjoy.
