@@ -71,7 +71,7 @@ Here are a few variation ideas you will enjoy when it comes to making rice with 
 ⦁ Let it cook until the water evaporates.  
 ⦁ Once the rice is cooked, turn off the heat and sit for about 5 minutes.  
 ⦁ Fluff the rice to prevent it from sticking.  
-⦁ In a large pot, heat sesame oil.  
+⦁ In a wok, heat sesame oil.  
 ⦁ Add chopped onions, bell pepper, minced garlic plus ginger, carrots, broccoli and sauté for 10 minutes.  
 ⦁ Then add the zucchini, mushrooms and cook for 7 minutes.  
 ⦁ Lower the heat and add 2 tbsp of soy sauce. Mix the vegetables.  
