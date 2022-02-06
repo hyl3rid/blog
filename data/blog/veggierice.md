@@ -49,6 +49,7 @@ Here are a few variation ideas you will enjoy when it comes to making rice with 
 ⦁ 2 cups long-grain white jasmine rice  
 ⦁ 2 ½ cups water  
 ⦁ 1 small white onion  
+⦁ 1 small bell pepper  
 ⦁ 2 garlic cloves, minced  
 ⦁ 1 tbsp ginger  
 ⦁ 3 tbsp soy sauce  
@@ -71,10 +72,8 @@ Here are a few variation ideas you will enjoy when it comes to making rice with 
 ⦁ Once the rice is cooked, turn off the heat and sit for about 5 minutes.  
 ⦁ Fluff the rice to prevent it from sticking.  
 ⦁ In a large pot, heat sesame oil.  
-⦁ Add chopped onions and sauté for a minute or two until they turn translucent.  
-⦁ Add minced garlic plus ginger and cook until it is fragrant.  
-⦁ Add carrots, broccoli and cook for a minute or two.  
-⦁ Then add the zucchini, mushrooms and cook for 5 minutes.  
+⦁ Add chopped onions, bell pepper, minced garlic plus ginger, carrots, broccoli and sauté for 10 minutes.  
+⦁ Then add the zucchini, mushrooms and cook for 7 minutes.  
 ⦁ Lower the heat and add 2 tbsp of soy sauce. Mix the vegetables.
-⦁ Right away include into the vegetables in the pan the jasmine rice. Then include the roasted cashews and mix throughly until the ingredients are evenly distributed.  
-⦁ Fluff the rice and garnish with freshly chopped green onions and sesame seeds. Enjoy.
+⦁ Right away include into the vegetables in the pan the jasmine rice. Then include the roasted cashews with freshly chopped green onions and mix throughly until the ingredients are evenly distributed.  
+⦁ Server and sprinkle sesame seeds. Enjoy.
