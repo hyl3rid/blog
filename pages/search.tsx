@@ -8,12 +8,12 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
 
 const Wrapper = styled.div`
-  margin-top: 5rem;
+  margin-top: 6rem;
   margin-left: 12.5rem;
   margin-right: 12.5rem;
   display: flex;
   flex-direction: column;
-  min-height: calc(100vh - 26rem);
+  min-height: calc(100vh - 27rem);
 
   @media only screen and (${device.md}) {
     margin-left: 3rem;
@@ -120,7 +120,6 @@ const Search = ({ posts }: any) => {
   const [results, setResults] = useState([]);
 
   const searchEndpoint = (query: string) => `/api/search?q=${query}`;
-
   const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
     if (query.length > 0) {
@@ -154,36 +153,42 @@ const Search = ({ posts }: any) => {
         ) : (
           <div>
             <h4>Results</h4>
-            {results.map(
-              (result: { id: string; title: string; description: string }) => {
-                return (
-                  <Link href={`/${result.id}`} key={result.id}>
-                    <ResultWrapper>
-                      <ImageWrapper>
-                        <Image
-                          loader={myLoader}
-                          quality={30}
-                          className="image"
-                          src={`/${result.id}.jpg`}
-                          alt={result.title}
-                          layout="fill"
-                          // priority={true}
-                          width={100}
-                          height={100}
-                        />
-                      </ImageWrapper>
-                      <StyledResults>
-                        <StyledTitleResult>{result.title}</StyledTitleResult>
-                        <StyledDescription>
-                          {result.description}
-                        </StyledDescription>
-                        <hr />
-                      </StyledResults>
-                    </ResultWrapper>
-                  </Link>
-                );
-              }
-            )}
+            {results
+              .filter((result: { id: string }) => {
+                return !result.id.includes("vegan");
+              })
+              .map(
+                (result: {
+                  id: string;
+                  title: string;
+                  description: string;
+                }) => {
+                  return (
+                    <Link href={`/${result.id}`} key={result.id}>
+                      <ResultWrapper>
+                        <ImageWrapper>
+                          <Image
+                            loader={myLoader}
+                            quality={30}
+                            className="image"
+                            src={`/${result.id}.jpg`}
+                            alt={result.title}
+                            layout="fill"
+                            priority={true}
+                          />
+                        </ImageWrapper>
+                        <StyledResults>
+                          <StyledTitleResult>{result.title}</StyledTitleResult>
+                          <StyledDescription>
+                            {result.description}
+                          </StyledDescription>
+                          <hr />
+                        </StyledResults>
+                      </ResultWrapper>
+                    </Link>
+                  );
+                }
+              )}
           </div>
         )}
       </Wrapper>

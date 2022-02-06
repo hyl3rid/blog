@@ -15,6 +15,7 @@ const Wrapper = styled.div`
   background-color: var(--main);
   padding: 0 12.5rem;
   z-index: 100;
+  overflow: hidden;
 
   @media only screen and (${device.md}) {
     padding: 0 3rem;
