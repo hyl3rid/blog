@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { Layout } from "../components";
@@ -119,9 +119,7 @@ const Search = ({ posts }: any) => {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState([]);
 
-  const searchEndpoint = (query: string) => `/api/search?q=${query}`;
-  const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setQuery(e.target.value);
+  useEffect(() => {
     if (query.length > 0) {
       fetch(searchEndpoint(query.toLowerCase()))
         .then((response) => response.json())
@@ -129,6 +127,14 @@ const Search = ({ posts }: any) => {
     } else {
       setResults([]);
     }
+  }, [query]);
+
+  const searchEndpoint = (query: string) => `/api/search?q=${query}`;
+
+  const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setQuery((prevState) => {
+      return (prevState = e.target.value);
+    });
   };
 
   return (
