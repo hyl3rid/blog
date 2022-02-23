@@ -143,6 +143,7 @@ const BlogPosts = ({ posts }: BlogPostsProps) => {
                     <a>
                       <ImageWrapper>
                         <Image
+                          key={post.slug}
                           loader={myLoader}
                           quality={30}
                           className="image"

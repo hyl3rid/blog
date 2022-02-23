@@ -75,5 +75,6 @@ Here are a few variation ideas you will enjoy when it comes to making rice with 
 ⦁ Add chopped onions, bell pepper, minced garlic plus ginger, carrots, broccoli and sauté for 10 minutes.  
 ⦁ Then add the zucchini, mushrooms and cook for 7 minutes.  
 ⦁ Lower the heat and add 2 tbsp of soy sauce. Mix the vegetables.  
-⦁ Right away include into the vegetables in the pan the jasmine rice. Then include the roasted cashews with freshly chopped green onions and mix throughly until the ingredients are evenly distributed.  
+⦁ Right away include into the vegetables in the wok the jasmine rice.  
+⦁ Include the roasted cashews with freshly chopped green onions and mix throughly until the ingredients are evenly distributed.  
 ⦁ Serve and sprinkle with sesame seeds to decorate. Enjoy.
