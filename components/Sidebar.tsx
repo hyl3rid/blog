@@ -3,18 +3,15 @@ import Link from "next/link";
 import styled from "styled-components";
 
 const Styled = styled.div`
-  position: sticky;
   top: 6rem;
-  left: 0;
-  height: 100vh;
+  height: calc(100vh - 6rem);
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
   z-index: 100;
 
-  position: absolute;
-  top: 6rem;
+  position: fixed;
   left: -100%;
   background-color: var(--main);
 
