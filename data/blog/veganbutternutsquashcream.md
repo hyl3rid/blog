@@ -43,17 +43,17 @@ How and when butternut squash cream was invented is quite a mystery. Where there
 
 ### Ingredients
 
-2 lbs. butternut squash, peeled, seeded, and diced  
-2 tbsp olive oil  
-1 medium yellow onion, chopped  
-3 cups vegetable broth  
-¾ cup coconut cream  
-1 bay leaf  
-1 tsp dried thyme  
-A pinch turmeric  
-Black pepper, to taste  
-Salt, to taste  
-Freshly chopped parsley for garnish
+⦁ 1 lbs. butternut squash, peeled, seeded, and diced  
+⦁ 2 tbsp olive oil  
+⦁ 1 medium yellow onion, chopped  
+⦁ 3 cups vegetable broth  
+⦁ ¾ cup coconut cream  
+⦁ 1 bay leaf  
+⦁ 1 tsp dried thyme  
+⦁ A pinch turmeric  
+⦁ Black pepper, to taste  
+⦁ Salt, to taste  
+⦁ Freshly chopped parsley for garnish
 
 ### Instructions
 
