@@ -1,6 +1,6 @@
 ---
 title: Ratatouille
-description: A delicious french dish of summer vegetables.
+description: A delicious french dish of summer vegetables that is very colorful and healthy.
 publishedDate: April 3, 2022
 tags:
   - zucchini
