@@ -60,8 +60,8 @@ salt, to taste
 
 ### Instructions
 
-⦁	Preheated oven at 375 degree F.  
 ⦁ Slice the eggplant into rounds and add salt to each side. Place the rounds in a colander with a bowl underneath to catch the liquid from the eggplant.  
+⦁	Preheated oven at 375 degree F.  
 ⦁	In a heavy skillet pan, heat a tablespoon of olive oil. Once it is hot, add chopped onions, chopped bell pepper and minced garlic, sauté for a minute until fragrant.  
 ⦁	Add the tomatoes in cubes and cook for 10 minutes until everything is well incorporated.   
 ⦁	Take the pan off the heat and add freshly chopped basil. Season with salt and pepper and mix well.  
