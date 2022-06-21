@@ -3,10 +3,15 @@ const posts = require("../../cache/data").posts;
 
 export default (req: NextApiRequest, res: NextApiResponse) => {
   const query = req.query.q;
-  console.log(query);
   const results =
     query !== ""
-      ? posts.filter((post: any) => post.title.toLowerCase().includes(query))
+      ? posts.filter((post: any) => {
+          let titlesFound = post.title.toLowerCase().includes(query);
+          let tagsFound = post.tag.some((i: any) => {
+            return i.includes(query);
+          });
+          return titlesFound || tagsFound;
+        })
       : [];
 
   res.statusCode = 200;
