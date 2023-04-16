@@ -21,37 +21,32 @@ Just like any other pasta, ravioli was originated in Italy around the 14th centu
 
 ## Mushroom Ravioli Recipe
 
-**Preparation time:** 20 minutes  
-**Cooking time:** 30 minutes  
-**Total time:** 50 minutes  
-**Servings:** 4
-
 ### Ingredients:
 
 **For the pasta dough:**
 
-    2 cups all-purpose flour
-    2 eggs
-    3 egg yolks
+- 2 cups all-purpose flour
+- 2 eggs
+- 3 egg yolks
 
 **For the filling:**
 
-    5 cups sliced cremini mushrooms
-    3 shallots, finely chopped
-    3 garlic cloves, minced
-    1 tbsp olive oil
-    2 tbsp grated parmesan cheese
-    1/2 tsp chopped fresh parsley
-    Salt and black pepper to taste
+- 5 cups sliced cremini mushrooms
+- 3 shallots, finely chopped
+- 3 garlic cloves, minced
+- 1 tbsp olive oil
+- 2 tbsp grated parmesan cheese
+- 1/2 tsp chopped fresh parsley
+- Salt and black pepper to taste
 
 **For the sauce:**
 
-    1 cup heavy cream
-    1 tbsp white wine
-    1/2 tbsp olive oil
-    2 tbsp grated parmesan cheese
-    1/2 tsp chopped fresh thyme
-    Salt and black pepper to taste
+- 1 cup heavy cream
+- 1 tbsp white wine
+- 1/2 tbsp olive oil
+- 2 tbsp grated parmesan cheese
+- 1/2 tsp chopped fresh thyme
+- Salt and black pepper to taste
 
 ### Instructions:
 

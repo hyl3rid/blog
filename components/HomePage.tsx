@@ -126,21 +126,21 @@ const HomePage = () => {
       <Hero>
         <Heading>
           <HeadingWrapper>
-            <H1>Deliciously Cheesy Vegan Lasagna</H1>
+            <H1>Deliciously Cheesy Lasagna</H1>
             <H4>
               Enjoy this delicious lasagna with vegetables. Packed with cheese,
               zucchini, tomatoes, bechamel sauce and more. Great for any special
               occasion!
             </H4>
             <ButtonWrapper>
-              <Link href="/veganlasagna">
+              <Link href="/lasagna">
                 <Button>Read More</Button>
               </Link>
             </ButtonWrapper>
           </HeadingWrapper>
         </Heading>
         <ImageWrapper>
-          <Link href="/veganlasagna">
+          <Link href="/lasagna">
             <a>
               <ImageContainer>
                 <Image

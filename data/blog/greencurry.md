@@ -20,12 +20,6 @@ Curries have a prominent place in Thai cuisine. So, it is safe to say that green
 
 ## Thai Green Vegetable Curry Recipe
 
-**Preparation time:** 10 minutes  
-**Cooking time:** 20 minutes  
-**Total time:** 30 minutes  
-**Servings:** 4
-
-
 ### Ingredients:
 
 - 1/3 cup green beans, trimmed and cut into bite-size pieces

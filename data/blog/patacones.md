@@ -59,19 +59,12 @@ They are made from green plantains that are twice-fried to create a crispy exter
 **Steps:**
 
 - To make the patacones, cut the ends off the plantains and score the skin lengthwise with a knife. Peel the skin off and slice the plantains into 1-inch thick rounds.
-
 - In a large skillet, heat the oil over medium-high heat until hot. Add the plantain rounds and cook for 2-3 minutes on each side, until lightly browned. Remove the plantains with a slotted spoon and place them on a cutting board.
-
 - Use a flat object like a jar or a plate to press down on each plantain round, flattening them to about 1/4-inch thickness.
-
 - Return the flattened plantains to the skillet and fry for an additional 2-3 minutes on each side, until golden brown and crispy. Remove from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil. Season with salt to taste.
-
 - To make the mashed beans, heat 1 tablespoon of oil in a saucepan over medium heat. Add the onion and garlic and sauté for 2-3 minutes, until softened.
-
 - Add the drained beans, cumin, salt, and pepper to the saucepan. Mash the beans with a potato masher or fork until they reach the desired consistency. Keep warm until ready to serve.
-
 - To make the pico de gallo, mix together the diced tomato, onion, cilantro, lime juice, salt, and pepper in a bowl. Adjust seasoning to taste.
-
 - To make the guacamole, cut the avocados in half and remove the pit. Scoop the avocado flesh into a bowl and mash with a fork until chunky. Mix in the onion, lime juice, salt, and pepper to taste.
 
 Assembly:

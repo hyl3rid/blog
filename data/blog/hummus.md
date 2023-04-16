@@ -23,11 +23,6 @@ When it comes to hummus, you might find some evidence that hummus was originated
 
 ## Easy Creamy Hummus Recipe
 
-**Preparation time:** 20 minutes  
-**Cooking time:** N/A  
-**Total time:** 20 minutes  
-**Servings:** 2 cups
-
 ### Ingredients
 
 ⦁ 1 can of chickpeas  
