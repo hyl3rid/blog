@@ -69,7 +69,7 @@ export type ImageLoaderProps = {
 };
 
 export const myLoader = ({ src, width, quality }: ImageLoaderProps) => {
-  return `https://blog-omega-ochre.vercel.app//${src}?w=${700}&q=${quality || 75}`;
+  return `https://blog-omega-ochre.vercel.app/${src}?w=${700}&q=${quality || 75}`;
 };
 
 const RelatedRecipes = ({ posts, currentPostSlug }: BlogPostsProps) => {
