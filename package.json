@@ -13,7 +13,7 @@
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@fortawesome/react-fontawesome": "^0.1.17",
-    "axios": "^0.25.0",
+    "axios": "^1.6.3",
     "embla-carousel-react": "^6.1.1",
     "gray-matter": "^4.0.3",
     "next": "^12.1.0",
